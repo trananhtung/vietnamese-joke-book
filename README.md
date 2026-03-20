@@ -1,0 +1,62 @@
+# 😂 CƯỜI VỠ BỤNG - Tuyển Tập Truyện Cười Thế Giới Cho Người Việt
+
+> *"Tiếng cười là ngôn ngữ chung của nhân loại"* - Mark Twain
+
+Cuốn sách tổng hợp những câu chuyện cười hay nhất từ khắp nơi trên thế giới, được chọn lọc và Việt hóa sao cho phù hợp văn hóa và thực sự gây cười cho người Việt Nam.
+
+## 📖 Mục Lục
+
+| Chương | Nội dung | Số truyện |
+|--------|----------|-----------|
+| [Lời nói đầu](book/00-loi-noi-dau.md) | Giới thiệu cuốn sách | - |
+| [Chương 01](book/01-truyen-cuoi-my.md) | Truyện cười Mỹ | *đang cập nhật* |
+| [Chương 02](book/02-truyen-cuoi-anh.md) | Truyện cười Anh | *đang cập nhật* |
+| [Chương 03](book/03-truyen-cuoi-phap.md) | Truyện cười Pháp | *đang cập nhật* |
+| [Chương 04](book/04-truyen-cuoi-duc.md) | Truyện cười Đức | *đang cập nhật* |
+| [Chương 05](book/05-truyen-cuoi-nga.md) | Truyện cười Nga | *đang cập nhật* |
+| [Chương 06](book/06-truyen-cuoi-nhat.md) | Truyện cười Nhật Bản | *đang cập nhật* |
+| [Chương 07](book/07-truyen-cuoi-han.md) | Truyện cười Hàn Quốc | *đang cập nhật* |
+| [Chương 08](book/08-truyen-cuoi-trung.md) | Truyện cười Trung Quốc | *đang cập nhật* |
+| [Chương 09](book/09-truyen-cuoi-an-do.md) | Truyện cười Ấn Độ | *đang cập nhật* |
+| [Chương 10](book/10-truyen-cuoi-trung-dong.md) | Truyện cười Trung Đông | *đang cập nhật* |
+| [Chương 11](book/11-truyen-cuoi-chau-phi.md) | Truyện cười Châu Phi | *đang cập nhật* |
+| [Chương 12](book/12-truyen-cuoi-my-latin.md) | Truyện cười Mỹ Latin | *đang cập nhật* |
+| [Chương 13](book/13-truyen-cuoi-bac-au.md) | Truyện cười Bắc Âu | *đang cập nhật* |
+| [Chương 14](book/14-truyen-cuoi-dong-nam-a.md) | Truyện cười Đông Nam Á | *đang cập nhật* |
+| [Chương 15](book/15-truyen-cuoi-uc.md) | Truyện cười Úc & New Zealand | *đang cập nhật* |
+| [Chương 16](book/16-truyen-cuoi-quoc-te.md) | Truyện cười quốc tế | *đang cập nhật* |
+| [Chương 17](book/17-bonus-truyen-cuoi-kinh-dien.md) | Bonus: Truyện cười kinh điển thế giới | *đang cập nhật* |
+| [Lời kết](book/99-loi-ket.md) | Lời kết | - |
+
+## ⭐ Hệ Thống Đánh Giá
+
+Mỗi truyện được chấm điểm theo 5 tiêu chí (thang 10):
+
+| Tiêu chí | Mô tả |
+|----------|--------|
+| Tính bất ngờ | Twist ending có mạnh không? |
+| Phù hợp văn hóa Việt | Người Việt có đồng cảm không? |
+| Dễ hiểu | Không cần giải thích thêm? |
+| Khả năng kể lại | Có thể kể cho bạn bè nghe? |
+| Không xúc phạm | Không nhạy cảm, an toàn? |
+
+- **Tổng >= 35/50**: Đưa vào sách ✅
+- **Tổng >= 40/50**: Truyện hay đặc biệt ⭐
+
+## 🛠 Cách Build Sách
+
+```bash
+# Ghép tất cả chương thành 1 file
+bash scripts/build-book.sh
+
+# Export sang PDF/EPUB/DOCX
+bash scripts/export.sh
+```
+
+## 📝 Đóng Góp
+
+Dự án mở, hoan nghênh đóng góp! Nếu bạn có truyện cười hay, hãy tạo Pull Request.
+
+## 📄 License
+
+Nội dung sách được chia sẻ dưới giấy phép [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

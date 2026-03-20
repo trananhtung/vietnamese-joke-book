@@ -1,0 +1,20 @@
+# Output files
+full-book.md
+*.pdf
+*.epub
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
