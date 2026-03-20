@@ -8,25 +8,25 @@ Cuốn sách tổng hợp những câu chuyện cười hay nhất từ khắp n
 
 | Chương | Nội dung | Số truyện |
 |--------|----------|-----------|
-| [Lời nói đầu](book/00-loi-noi-dau.md) | Giới thiệu cuốn sách | - |
-| [Chương 01](book/01-truyen-cuoi-my.md) | Truyện cười Mỹ | *đang cập nhật* |
-| [Chương 02](book/02-truyen-cuoi-anh.md) | Truyện cười Anh | *đang cập nhật* |
-| [Chương 03](book/03-truyen-cuoi-phap.md) | Truyện cười Pháp | *đang cập nhật* |
-| [Chương 04](book/04-truyen-cuoi-duc.md) | Truyện cười Đức | *đang cập nhật* |
-| [Chương 05](book/05-truyen-cuoi-nga.md) | Truyện cười Nga | *đang cập nhật* |
-| [Chương 06](book/06-truyen-cuoi-nhat.md) | Truyện cười Nhật Bản | *đang cập nhật* |
-| [Chương 07](book/07-truyen-cuoi-han.md) | Truyện cười Hàn Quốc | *đang cập nhật* |
-| [Chương 08](book/08-truyen-cuoi-trung.md) | Truyện cười Trung Quốc | *đang cập nhật* |
-| [Chương 09](book/09-truyen-cuoi-an-do.md) | Truyện cười Ấn Độ | *đang cập nhật* |
-| [Chương 10](book/10-truyen-cuoi-trung-dong.md) | Truyện cười Trung Đông | *đang cập nhật* |
-| [Chương 11](book/11-truyen-cuoi-chau-phi.md) | Truyện cười Châu Phi | *đang cập nhật* |
-| [Chương 12](book/12-truyen-cuoi-my-latin.md) | Truyện cười Mỹ Latin | *đang cập nhật* |
-| [Chương 13](book/13-truyen-cuoi-bac-au.md) | Truyện cười Bắc Âu | *đang cập nhật* |
-| [Chương 14](book/14-truyen-cuoi-dong-nam-a.md) | Truyện cười Đông Nam Á | *đang cập nhật* |
-| [Chương 15](book/15-truyen-cuoi-uc.md) | Truyện cười Úc & New Zealand | *đang cập nhật* |
-| [Chương 16](book/16-truyen-cuoi-quoc-te.md) | Truyện cười quốc tế | *đang cập nhật* |
-| [Chương 17](book/17-bonus-truyen-cuoi-kinh-dien.md) | Bonus: Truyện cười kinh điển thế giới | *đang cập nhật* |
-| [Lời kết](book/99-loi-ket.md) | Lời kết | - |
+| [Lời nói đầu](sach/00-loi-noi-dau.md) | Giới thiệu cuốn sách | - |
+| [Chương 01](sach/01-truyen-cuoi-my.md) | Truyện cười Mỹ | *đang cập nhật* |
+| [Chương 02](sach/02-truyen-cuoi-anh.md) | Truyện cười Anh | *đang cập nhật* |
+| [Chương 03](sach/03-truyen-cuoi-phap.md) | Truyện cười Pháp | *đang cập nhật* |
+| [Chương 04](sach/04-truyen-cuoi-duc.md) | Truyện cười Đức | *đang cập nhật* |
+| [Chương 05](sach/05-truyen-cuoi-nga.md) | Truyện cười Nga | *đang cập nhật* |
+| [Chương 06](sach/06-truyen-cuoi-nhat.md) | Truyện cười Nhật Bản | *đang cập nhật* |
+| [Chương 07](sach/07-truyen-cuoi-han.md) | Truyện cười Hàn Quốc | *đang cập nhật* |
+| [Chương 08](sach/08-truyen-cuoi-trung.md) | Truyện cười Trung Quốc | *đang cập nhật* |
+| [Chương 09](sach/09-truyen-cuoi-an-do.md) | Truyện cười Ấn Độ | *đang cập nhật* |
+| [Chương 10](sach/10-truyen-cuoi-trung-dong.md) | Truyện cười Trung Đông | *đang cập nhật* |
+| [Chương 11](sach/11-truyen-cuoi-chau-phi.md) | Truyện cười Châu Phi | *đang cập nhật* |
+| [Chương 12](sach/12-truyen-cuoi-my-latin.md) | Truyện cười Mỹ Latin | *đang cập nhật* |
+| [Chương 13](sach/13-truyen-cuoi-bac-au.md) | Truyện cười Bắc Âu | *đang cập nhật* |
+| [Chương 14](sach/14-truyen-cuoi-dong-nam-a.md) | Truyện cười Đông Nam Á | *đang cập nhật* |
+| [Chương 15](sach/15-truyen-cuoi-uc.md) | Truyện cười Úc & New Zealand | *đang cập nhật* |
+| [Chương 16](sach/16-truyen-cuoi-quoc-te.md) | Truyện cười quốc tế | *đang cập nhật* |
+| [Chương 17](sach/17-bonus-truyen-cuoi-kinh-dien.md) | Bonus: Truyện cười kinh điển thế giới | *đang cập nhật* |
+| [Lời kết](sach/99-loi-ket.md) | Lời kết | - |
 
 ## ⭐ Hệ Thống Đánh Giá
 
@@ -47,10 +47,10 @@ Mỗi truyện được chấm điểm theo 5 tiêu chí (thang 10):
 
 ```bash
 # Ghép tất cả chương thành 1 file
-bash scripts/build-book.sh
+bash kich-ban/build-book.sh
 
 # Export sang PDF/EPUB/DOCX
-bash scripts/export.sh
+bash kich-ban/export.sh
 ```
 
 ## 📝 Đóng Góp
