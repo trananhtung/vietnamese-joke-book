@@ -244,6 +244,7 @@ Day 14: Final review, export scripts, tag v1.0
 6. Đưa truyện đạt (≥ 35) vào chương, truyện không đạt vào `rejected/`
 7. Cập nhật `CHANGELOG.md` và `metadata/scoring-log.md`
 8. `git add [files] && git commit -m "Day X: ..."`
+9. `git push origin [tên_nhánh]`
 
 ---
 
