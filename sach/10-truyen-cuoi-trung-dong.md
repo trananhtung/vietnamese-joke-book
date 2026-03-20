@@ -1,4 +1,4 @@
-# Chương 10: Truyện Cười Trung Đông 🕌
+# Chương 10: Truyện Cười Trung Đông 🐪
 
 > *"Placeholder - Sẽ được bổ sung nội dung"*
 
