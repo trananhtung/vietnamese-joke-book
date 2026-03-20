@@ -33,3 +33,18 @@ Lưu trữ những truyện không đạt điểm (< 35/50) để tham khảo.
 
 ### R5. Marmite Love-Hate (26/50)
 **Lý do loại:** Marmite là gia vị đặc trưng Anh với slogan "Love it or hate it." Sản phẩm hoàn toàn xa lạ ở Việt Nam, không thể Việt hóa.
+
+### R6. Bác sĩ người Anh (39/50)
+**Lý do loại:** Điểm dưới 40. Nâng chuẩn chất lượng, thay bằng truyện "Di chúc quý ông" (42/50).
+
+### R7. Bữa tối kiểu Anh (38/50)
+**Lý do loại:** Điểm dưới 40. Punchline chưa đủ mạnh, thay bằng "Thang máy ở London" (41/50).
+
+### R8. Thời tiết xã giao (37/50)
+**Lý do loại:** Điểm dưới 40. Dạng liệt kê, thiếu twist bất ngờ, thay bằng "Quý ông gặp cướp" (44/50).
+
+### R9. Bưu điện Anh (36/50)
+**Lý do loại:** Điểm dưới 40. Punchline yếu, thay bằng "Quý ông mất ví" (41/50).
+
+### R10. Đi du lịch nước ngoài (38/50)
+**Lý do loại:** Điểm dưới 40. Dạng liệt kê thiếu câu chốt hạ, thay bằng "Đám cháy lịch sự" (43/50).

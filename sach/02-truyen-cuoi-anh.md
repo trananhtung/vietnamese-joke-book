@@ -130,19 +130,17 @@ Bà cụ ngồi xuống. Xe chạy qua 5 trạm, ông vẫn đứng đó.
 
 ---
 
-### 9. Bác sĩ người Anh
+### 9. Di chúc quý ông
 
-> 🌍 Nguồn gốc: Anh | Điểm: 39/50
+> 🌍 Nguồn gốc: Anh | ⭐ Điểm: 42/50
 
-Bệnh nhân: "Bác sĩ ơi, tôi bị gãy chân rồi!"
+Một quý ông người Anh nằm trên giường bệnh, gọi luật sư đến viết di chúc:
 
-Bác sĩ người Anh bình tĩnh nhấp trà:
+— Tôi để lại toàn bộ tài sản cho vợ tôi... với điều kiện bà ấy tái hôn trong vòng một năm.
 
-— Ồ, thật bất tiện. Ông có muốn uống trà không? Trà giúp mọi thứ dễ chịu hơn.
+— Tại sao vậy, thưa ông?
 
-— Nhưng chân tôi gãy!
-
-— Vâng, tôi nghe rồi. Nhưng trà đã nguội thì mới thật sự là thảm họa.
+— Vì tôi muốn ít nhất có một người đàn ông trên đời này hối hận vì cái chết của tôi.
 
 ---
 
@@ -160,21 +158,23 @@ Người kia nghĩ bụng: "Ông này hôm nay sao nhiều chuyện thế!"
 
 ---
 
-### 11. Bữa tối kiểu Anh
+### 11. Thang máy ở London
 
-> 🌍 Nguồn gốc: Anh | Điểm: 38/50
+> 🌍 Nguồn gốc: Anh | ⭐ Điểm: 41/50
 
-Một du khách đến nhà hàng ở London, gọi món đặc sản Anh.
+Trong thang máy ở London, có 5 người đứng im lặng. Thang máy bị kẹt.
 
-Phục vụ mang ra một đĩa đồ ăn nhạt nhẽo. Du khách nếm thử rồi hỏi:
+30 phút trôi qua. Im lặng.
 
-— Xin lỗi, ở đây có muối và tiêu không?
+1 tiếng trôi qua. Im lặng.
 
-— Có ạ, nhưng chúng tôi để ở bếp. Ông muốn thì phải viết đơn xin.
+2 tiếng sau, một người lên tiếng:
 
-— Viết đơn?
+— Chắc mình nên gọi ai đó nhỉ?
 
-— Vâng, đây là nước Anh. Gia vị là một đặc quyền, không phải quyền cơ bản.
+Bốn người còn lại nhìn anh ta như thể anh vừa hét vào mặt họ giữa thư viện.
+
+— Anh bạn, bình tĩnh. Mới có 2 tiếng thôi mà.
 
 ---
 
@@ -196,25 +196,21 @@ Người đó vuốt con chó, bị cắn ngay.
 
 ---
 
-### 13. Thời tiết xã giao
+### 13. Quý ông gặp cướp
 
-> 🌍 Nguồn gốc: Anh | Điểm: 37/50
+> 🌍 Nguồn gốc: Anh | ⭐ Điểm: 44/50
 
-Ở Anh, 90% các cuộc trò chuyện bắt đầu bằng thời tiết.
+Một quý ông người Anh bị cướp chặn đường giữa đêm:
 
-— Hôm nay trời đẹp nhỉ?
+— Đưa hết tiền đây!
 
-— Ừ, chắc sắp mưa.
+Quý ông bình tĩnh móc ví, lấy ra tờ 50 bảng rồi nói:
 
-— Hôm nay mưa nhỉ?
+— Đây, nhưng xin anh cho tôi lại 10 bảng. Tôi còn phải bắt taxi về nhà.
 
-— Ừ, cũng bình thường thôi.
+Tên cướp ngạc nhiên quá, thối lại 10 bảng.
 
-— Hôm nay bão nhỉ?
-
-— Ừ, ít nhất không nóng.
-
-Kết luận: Người Anh không bàn thời tiết vì quan tâm. Họ bàn vì không biết nói gì khác.
+— Cảm ơn. À, anh có cần biên lai không? Để tôi khai thuế cho tiện.
 
 ---
 
@@ -268,23 +264,17 @@ Mưa tầm tã ở London. Một quý ông đi bộ giữa mưa không có ô. N
 
 ---
 
-### 17. Bưu điện Anh
+### 17. Quý ông mất ví
 
-> 🌍 Nguồn gốc: Anh | Điểm: 36/50
+> 🌍 Nguồn gốc: Anh | ⭐ Điểm: 41/50
 
-Một người đến bưu điện ở Anh:
+Một quý ông người Anh phát hiện bị mất ví trên tàu điện ngầm. Ông đứng dậy, hắng giọng lịch sự:
 
-— Tôi muốn gửi thư khẩn.
+— Thưa quý vị, tôi vừa mất chiếc ví chứa 500 bảng. Nếu ai tìm thấy, tôi xin biếu 50 bảng cảm ơn.
 
-— Được ạ. Thư sẽ đến trong 5-7 ngày làm việc.
+Một giọng nói từ cuối toa:
 
-— Thế thư thường?
-
-— 5-7 ngày làm việc.
-
-— Vậy khác nhau chỗ nào?
-
-— Giá khác nhau ạ.
+— Tôi biếu 100!
 
 ---
 
@@ -314,21 +304,23 @@ Một quý ông người Anh cầu hôn:
 
 ---
 
-### 20. Đi du lịch nước ngoài
+### 20. Đám cháy lịch sự
 
-> 🌍 Nguồn gốc: Anh | Điểm: 38/50
+> 🌍 Nguồn gốc: Anh | ⭐ Điểm: 43/50
 
-Người Anh đi du lịch Tây Ban Nha. Nắng 35 độ.
+Một tòa nhà ở London bốc cháy. Lính cứu hỏa chạy đến, thấy một quý ông đang đứng trước cửa.
 
-Ngày 1: "Thời tiết tuyệt vời!"
+— Ông ơi, chạy đi! Nhà cháy rồi!
 
-Ngày 2: "Hơi nóng nhỉ."
+— Tôi biết.
 
-Ngày 3: "Tôi nhớ mưa."
+— Sao ông không chạy?!
 
-Ngày 4: *Đặt vé về London.*
+— Tôi đang chờ vợ tôi. Bà ấy dặn: "Đứng đây đợi em, em quay lại ngay." Quý ông nước Anh nói là làm.
 
-Ngày 5: *Đứng dưới mưa London, mỉm cười mãn nguyện.*
+— Nhưng nhà cháy rồi!
+
+— Vâng, nhưng tôi đã hứa rồi. Với lại đứng đây cũng ấm.
 
 ---
 
@@ -337,7 +329,7 @@ Ngày 5: *Đứng dưới mưa London, mỉm cười mãn nguyện.*
 ## 📊 Thống kê chương
 
 - **Tổng số truyện:** 20
-- **Truyện đạt (≥ 35 điểm):** 20
-- **Truyện hay đặc biệt ⭐ (≥ 40 điểm):** 14
-- **Điểm trung bình:** 41.1/50
-- **Truyện bị loại:** 5 (xem rejected-log)
+- **Truyện đạt (≥ 40 điểm):** 20
+- **Truyện hay đặc biệt ⭐ (≥ 40 điểm):** 20
+- **Điểm trung bình:** 42.2/50
+- **Truyện bị loại:** 10 (xem rejected-log)
