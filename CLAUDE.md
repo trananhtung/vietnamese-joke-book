@@ -131,6 +131,8 @@
 
 [Nội dung truyện - setup rõ ràng, punchline mạnh]
 
+> 💡 *[1-2 câu giải thích ngắn gọn vì sao truyện này buồn cười — điểm hài, cơ chế gây cười]*
+
 ---
 ```
 
@@ -138,6 +140,7 @@
 - Truyện ≥ 40 điểm: dùng `⭐ Điểm:`
 - Truyện 35-39 điểm: dùng `Điểm:` (không có ⭐)
 - Nội dung: văn phong tự nhiên, gần gũi, giữ nhịp điệu gây cười
+- **Bắt buộc** thêm bình luận `> 💡 *...*` sau mỗi truyện, giải thích ngắn gọn vì sao truyện buồn cười (cơ chế hài: twist bất ngờ, mâu thuẫn logic, châm biếm, v.v.)
 
 ### 4.2 Format chương sách
 
