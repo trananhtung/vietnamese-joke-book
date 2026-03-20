@@ -12,7 +12,7 @@ Mỗi truyện được chấm theo 5 tiêu chí, mỗi tiêu chí tối đa 10 
 
 - Tổng >= 35/50: Đưa vào sách ✅
 - Tổng >= 40/50: Truyện hay đặc biệt ⭐
-- Tổng < 35/50: Loại ❌ (lưu vào rejected/)
+- Tổng < 35/50: Loại ❌ (lưu vào loai/)
 
 ---
 

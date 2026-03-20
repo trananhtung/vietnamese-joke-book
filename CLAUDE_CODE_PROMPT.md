@@ -30,35 +30,35 @@ Bạn là một biên tập viên truyện cười chuyên nghiệp, am hiểu s
 vietnamese-joke-book/
 ├── README.md                    # Giới thiệu dự án
 ├── CHANGELOG.md                 # Nhật ký thay đổi theo ngày
-├── book/
-│   ├── 00-loi-noi-dau.md       # Lời nói đầu
-│   ├── 01-truyen-cuoi-my.md    # Truyện cười Mỹ
-│   ├── 02-truyen-cuoi-anh.md   # Truyện cười Anh
-│   ├── 03-truyen-cuoi-phap.md  # Truyện cười Pháp
-│   ├── 04-truyen-cuoi-duc.md   # Truyện cười Đức
-│   ├── 05-truyen-cuoi-nga.md   # Truyện cười Nga
-│   ├── 06-truyen-cuoi-nhat.md  # Truyện cười Nhật Bản
-│   ├── 07-truyen-cuoi-han.md   # Truyện cười Hàn Quốc
-│   ├── 08-truyen-cuoi-trung.md # Truyện cười Trung Quốc
-│   ├── 09-truyen-cuoi-an-do.md # Truyện cười Ấn Độ
-│   ├── 10-truyen-cuoi-trung-dong.md  # Truyện cười Trung Đông
-│   ├── 11-truyen-cuoi-chau-phi.md    # Truyện cười Châu Phi
-│   ├── 12-truyen-cuoi-my-latin.md    # Truyện cười Mỹ Latin
-│   ├── 13-truyen-cuoi-bac-au.md      # Truyện cười Bắc Âu
-│   ├── 14-truyen-cuoi-dong-nam-a.md  # Truyện cười Đông Nam Á
-│   ├── 15-truyen-cuoi-uc.md          # Truyện cười Úc & New Zealand
-│   ├── 16-truyen-cuoi-quoc-te.md     # Truyện cười quốc tế (không rõ nguồn gốc)
-│   ├── 17-bonus-truyen-cuoi-kinh-dien.md  # Truyện cười kinh điển thế giới
-│   └── 99-loi-ket.md                 # Lời kết
-├── drafts/                      # Bản nháp chưa duyệt
-│   └── [tên-nước]-draft.md
-├── rejected/                    # Truyện bị loại (lưu để tham khảo)
+├── sach/
+│   ├── 00-loi-noi-dau.md       # Loi noi dau
+│   ├── 01-truyen-cuoi-my.md    # Truyen cuoi My
+│   ├── 02-truyen-cuoi-anh.md   # Truyen cuoi Anh
+│   ├── 03-truyen-cuoi-phap.md  # Truyen cuoi Phap
+│   ├── 04-truyen-cuoi-duc.md   # Truyen cuoi Duc
+│   ├── 05-truyen-cuoi-nga.md   # Truyen cuoi Nga
+│   ├── 06-truyen-cuoi-nhat.md  # Truyen cuoi Nhat Ban
+│   ├── 07-truyen-cuoi-han.md   # Truyen cuoi Han Quoc
+│   ├── 08-truyen-cuoi-trung.md # Truyen cuoi Trung Quoc
+│   ├── 09-truyen-cuoi-an-do.md # Truyen cuoi An Do
+│   ├── 10-truyen-cuoi-trung-dong.md  # Truyen cuoi Trung Dong
+│   ├── 11-truyen-cuoi-chau-phi.md    # Truyen cuoi Chau Phi
+│   ├── 12-truyen-cuoi-my-latin.md    # Truyen cuoi My Latin
+│   ├── 13-truyen-cuoi-bac-au.md      # Truyen cuoi Bac Au
+│   ├── 14-truyen-cuoi-dong-nam-a.md  # Truyen cuoi Dong Nam A
+│   ├── 15-truyen-cuoi-uc.md          # Truyen cuoi Uc & New Zealand
+│   ├── 16-truyen-cuoi-quoc-te.md     # Truyen cuoi quoc te (khong ro nguon goc)
+│   ├── 17-bonus-truyen-cuoi-kinh-dien.md  # Truyen cuoi kinh dien the gioi
+│   └── 99-loi-ket.md                 # Loi ket
+├── nhap/                        # Ban nhap chua duyet
+│   └── [ten-nuoc]-draft.md
+├── loai/                        # Truyen bi loai (luu de tham khao)
 │   └── rejected-log.md
-├── metadata/
-│   ├── scoring-log.md           # Bảng chấm điểm từng truyện
-│   └── sources.md               # Nguồn tham khảo
-├── scripts/
-│   ├── build-book.sh            # Script ghép thành sách hoàn chỉnh
+├── du-lieu/
+│   ├── scoring-log.md           # Bang cham diem tung truyen
+│   └── sources.md               # Nguon tham khao
+├── kich-ban/
+│   ├── build-book.sh            # Script ghep thanh sach hoan chinh
 │   └── export.sh                # Script export PDF/EPUB
 └── .gitignore
 ```
@@ -69,7 +69,7 @@ vietnamese-joke-book/
 3. Research truyện cười từ nguồn gốc tương ứng
 4. Việt hóa - điều chỉnh context cho phù hợp người Việt
 5. Chấm điểm từng truyện theo tiêu chí
-6. Đưa truyện đạt điểm vào chương, truyện không đạt vào rejected/
+6. Đưa truyện đạt điểm vào chương, truyen khong dat vao loai/
 7. Cập nhật CHANGELOG.md và scoring-log.md
 8. `git add . && git commit -m "Day X: [Mô tả công việc]"`
 9. Review lại và polish nếu cần
@@ -457,14 +457,14 @@ Hôm nay là Ngày 14 - NGÀY CUỐI CÙNG. Nhiệm vụ:
    - Sửa lỗi chính tả, ngữ pháp
    - Đảm bảo không có truyện trùng lặp
 
-2. TẠO SCRIPT BUILD (scripts/build-book.sh):
+2. TAO SCRIPT BUILD (kich-ban/build-book.sh):
    ```bash
    #!/bin/bash
    # Ghép tất cả chương thành 1 file markdown
-   cat book/00-*.md book/01-*.md ... book/99-*.md > full-book.md
+   cat sach/00-*.md sach/01-*.md ... sach/99-*.md > full-book.md
    ```
 
-3. TẠO SCRIPT EXPORT (scripts/export.sh):
+3. TAO SCRIPT EXPORT (kich-ban/export.sh):
    ```bash
    #!/bin/bash
    # Export sang các định dạng
