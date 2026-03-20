@@ -14,3 +14,9 @@ Lưu trữ những truyện không đạt điểm (< 35/50) để tham khảo.
 
 ### R3. IRS Audit (28/50)
 **Lý do loại:** Truyện về kiểm toán thuế IRS (cơ quan thuế Mỹ). Context quá đặc thù nước Mỹ, người Việt không có trải nghiệm tương đương để thấy buồn cười.
+
+### R4. Why Did the Chicken Cross the Road (30/50)
+**Lý do loại:** Truyện "Tại sao con gà qua đường?" quá phổ biến quốc tế, punchline "Để sang bên kia đường" mất hoàn toàn tính bất ngờ khi dịch sang tiếng Việt. Không còn giá trị hài hước.
+
+### R5. Spelling Bee (27/50)
+**Lý do loại:** Truyện về cuộc thi đánh vần tiếng Anh, chơi chữ dựa trên cách phát âm và chính tả tiếng Anh. Không thể chuyển sang tiếng Việt vì tiếng Việt không có hệ thống đánh vần tương tự.

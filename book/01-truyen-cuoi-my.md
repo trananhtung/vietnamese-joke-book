@@ -362,12 +362,62 @@ Bố: "8 đô? 6 đô để làm gì? Bố đâu có 4 đô. Đây, 2 đô, chia
 
 ---
 
+### 23. Bác sĩ thú y và kế toán
+
+🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 41/50
+
+Một bác sĩ thú y và một kế toán gặp nhau trong tiệc. Kế toán than thở:
+
+— Tôi ghét đi tiệc. Mỗi lần người ta biết tôi là kế toán, họ liền hỏi về thuế.
+
+Bác sĩ thú y cười:
+
+— Ông còn sướng chán. Mỗi lần người ta biết tôi là bác sĩ thú y, họ liền kéo tôi ra góc rồi... kéo quần lên cho tôi xem cái đầu gối.
+
+---
+
+### 24. Đếm cừu
+
+🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 40/50
+
+Một người đến gặp bác sĩ vì mất ngủ.
+
+— Bác sĩ ơi, tôi đếm cừu mãi mà không ngủ được.
+
+— Anh đếm đến bao nhiêu?
+
+— 48.735 con.
+
+— Rồi sao?
+
+— Thì lúc đó tôi phải thức dậy cắt lông cho chúng nó chứ sao!
+
+---
+
+### 25. Thang máy
+
+🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 42/50
+
+Hai người lạ đứng trong thang máy. Một người bỗng quay sang hỏi:
+
+— Tôi có thể bấm giúp anh tầng nào không?
+
+— Tầng 5, cảm ơn.
+
+— Tôi cũng tầng 5! Chúng ta có nhiều điểm chung quá nhỉ?
+
+— ...
+
+— Anh có thở oxy không? Tôi cũng thở oxy! Duyên ghê!
+
+---
+
 ---
 
 ## 📊 Thống kê chương
 
-- **Tổng số truyện:** 22
-- **Truyện đạt (≥ 35 điểm):** 22
-- **Truyện hay đặc biệt ⭐ (≥ 40 điểm):** 14
-- **Điểm trung bình:** 40.5/50
-- **Truyện bị loại:** 3 (xem rejected-log)
+- **Tổng số truyện:** 25
+- **Truyện đạt (≥ 35 điểm):** 25
+- **Truyện hay đặc biệt ⭐ (≥ 40 điểm):** 17
+- **Điểm trung bình:** 40.6/50
+- **Truyện bị loại:** 5 (xem rejected-log)

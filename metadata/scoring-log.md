@@ -42,13 +42,16 @@ Mỗi truyện được chấm theo 5 tiêu chí, mỗi tiêu chí tối đa 10 
 | 20 | Đi khám bệnh | 9 | 9 | 9 | 9 | 8 | 44 | ⭐ |
 | 21 | Câu hỏi triệu đô | 8 | 8 | 8 | 8 | 7 | 39 | ✅ |
 | 22 | Cha và con | 8 | 9 | 8 | 8 | 8 | 41 | ⭐ |
+| 23 | Bác sĩ thú y và kế toán | 8 | 8 | 8 | 8 | 9 | 41 | ⭐ |
+| 24 | Đếm cừu | 8 | 8 | 8 | 8 | 8 | 40 | ⭐ |
+| 25 | Thang máy | 9 | 8 | 9 | 8 | 8 | 42 | ⭐ |
 
 ### Thống kê
-- **Tổng truyện đánh giá:** 25 (22 đạt + 3 loại)
-- **Đạt (≥ 35):** 22 truyện
-- **Hay đặc biệt ⭐ (≥ 40):** 14 truyện
-- **Loại ❌ (< 35):** 3 truyện
-- **Điểm trung bình (truyện đạt):** 40.5/50
+- **Tổng truyện đánh giá:** 30 (25 đạt + 5 loại)
+- **Đạt (≥ 35):** 25 truyện
+- **Hay đặc biệt ⭐ (≥ 40):** 17 truyện
+- **Loại ❌ (< 35):** 5 truyện
+- **Điểm trung bình (truyện đạt):** 40.6/50
 
 ### Truyện bị loại
 
@@ -57,3 +60,5 @@ Mỗi truyện được chấm theo 5 tiêu chí, mỗi tiêu chí tối đa 10 
 | R1 | Knock knock - Orange | 5 | 4 | 5 | 4 | 10 | 28 | Chơi chữ tiếng Anh, không chuyển được |
 | R2 | Yo mama joke | 6 | 5 | 7 | 6 | 4 | 28 | Nhạy cảm, xúc phạm |
 | R3 | IRS audit | 7 | 3 | 4 | 5 | 9 | 28 | Context thuế Mỹ, người VN không hiểu |
+| R4 | Why did the chicken cross the road | 5 | 4 | 6 | 5 | 10 | 30 | Quá phổ biến, mất tính bất ngờ khi dịch |
+| R5 | Spelling bee | 6 | 3 | 4 | 4 | 10 | 27 | Chơi chữ tiếng Anh, không áp dụng được cho tiếng Việt |
