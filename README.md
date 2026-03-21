@@ -30,7 +30,7 @@ Cuốn sách tổng hợp những câu chuyện cười hay nhất từ khắp n
 
 ## ⭐ Hệ Thống Đánh Giá
 
-Mỗi truyện được chấm điểm theo 5 tiêu chí (thang 10):
+Mỗi truyện được chấm điểm theo 4 tiêu chí (thang 10):
 
 | Tiêu chí | Mô tả |
 |----------|--------|
@@ -38,10 +38,9 @@ Mỗi truyện được chấm điểm theo 5 tiêu chí (thang 10):
 | Phù hợp văn hóa Việt | Người Việt có đồng cảm không? |
 | Dễ hiểu | Không cần giải thích thêm? |
 | Khả năng kể lại | Có thể kể cho bạn bè nghe? |
-| Không xúc phạm | Không nhạy cảm, an toàn? |
 
-- **Tổng >= 35/50**: Đưa vào sách ✅
-- **Tổng >= 40/50**: Truyện hay đặc biệt ⭐
+- **Tổng >= 30/40**: Đưa vào sách ✅
+- **Tổng >= 35/40**: Truyện hay đặc biệt ⭐
 
 ## 🛠 Cách Build Sách
 

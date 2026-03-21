@@ -10,7 +10,7 @@ Nước Mỹ là cái nôi của stand-up comedy hiện đại. Truyện cười
 
 ### 1. Bác sĩ thông báo
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 43/50
+🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
 
 Một người đàn ông đến gặp bác sĩ. Bác sĩ nói:
 
@@ -28,7 +28,7 @@ Một người đàn ông đến gặp bác sĩ. Bác sĩ nói:
 
 ### 2. Luật sư dưới đáy biển
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 41/50
+🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
 — Bạn gọi một nghìn luật sư dưới đáy biển là gì?
 
@@ -40,7 +40,7 @@ Một người đàn ông đến gặp bác sĩ. Bác sĩ nói:
 
 ### 3. Trộm nhầm nhà
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 42/50
+🌍 Nguồn gốc: Mỹ | Điểm: 34/40
 
 Một tên trộm đột nhập vào nhà nọ giữa đêm. Hắn đang lục lọi thì nghe một giọng nói:
 
@@ -60,7 +60,7 @@ Hắn giật mình, bật đèn pin soi quanh. Hóa ra là một con vẹt.
 
 ### 4. Đám tang hoàn hảo
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 40/50
+🌍 Nguồn gốc: Mỹ | Điểm: 32/40
 
 Ba người bạn đi dự đám tang. Một người hỏi:
 
@@ -76,7 +76,7 @@ Người thứ ba: "Nhìn kìa, hình như ổng cử động!"
 
 ### 5. Giá của sự thật
 
-🌍 Nguồn gốc: Mỹ | Điểm: 39/50
+🌍 Nguồn gốc: Mỹ | Điểm: 31/40
 
 Một đứa bé hỏi bố:
 
@@ -92,7 +92,7 @@ Một đứa bé hỏi bố:
 
 ### 6. Gọi món ở nhà hàng
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 42/50
+🌍 Nguồn gốc: Mỹ | Điểm: 34/40
 
 Một ông khách gọi phục vụ:
 
@@ -106,7 +106,7 @@ Phục vụ quay lại sau 5 phút:
 
 ### 7. Ai đó gõ cửa
 
-🌍 Nguồn gốc: Mỹ | Điểm: 37/50
+🌍 Nguồn gốc: Mỹ | Điểm: 29/40
 
 *Cốc cốc.*
 
@@ -122,7 +122,7 @@ Phục vụ quay lại sau 5 phút:
 
 ### 8. Chồng ngoan
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 44/50
+🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
 
 Vợ gọi điện cho chồng:
 
@@ -138,7 +138,7 @@ Vợ gọi điện cho chồng:
 
 ### 9. Cá cược trên máy bay
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 41/50
+🌍 Nguồn gốc: Mỹ | Điểm: 32/40
 
 Trên máy bay, một người đàn ông ngồi cạnh một phụ nữ xinh đẹp. Anh ta bảo:
 
@@ -162,7 +162,7 @@ Cô gái im lặng đưa anh ta 5 đô.
 
 ### 10. Toán học vợ chồng
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 40/50
+🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
 — Anh yêu, trước khi cưới anh phải biết: em không giỏi nấu ăn.
 
@@ -182,7 +182,7 @@ Cô gái im lặng đưa anh ta 5 đô.
 
 ### 11. Phỏng vấn xin việc
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 43/50
+🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
 
 Nhà tuyển dụng hỏi:
 
@@ -198,7 +198,7 @@ Nhà tuyển dụng hỏi:
 
 ### 12. Lái xe với vợ
 
-🌍 Nguồn gốc: Mỹ | Điểm: 38/50
+🌍 Nguồn gốc: Mỹ | Điểm: 31/40
 
 Chồng lái xe, vợ ngồi bên cạnh.
 
@@ -222,7 +222,7 @@ Chồng: "Biết đâu anh trai anh đang chạy từ hướng kia."
 
 ### 13. Con khôn nhà người ta
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 42/50
+🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
 Ông bố tự hào khoe:
 
@@ -240,7 +240,7 @@ Chồng: "Biết đâu anh trai anh đang chạy từ hướng kia."
 
 ### 14. WiFi nhà thờ
 
-🌍 Nguồn gốc: Mỹ | Điểm: 38/50
+🌍 Nguồn gốc: Mỹ | Điểm: 30/40
 
 — Tại sao nhà thờ không có WiFi?
 
@@ -250,7 +250,7 @@ Chồng: "Biết đâu anh trai anh đang chạy từ hướng kia."
 
 ### 15. Ông chồng mua sắm
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 41/50
+🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
 Vợ sai chồng đi siêu thị:
 
@@ -266,7 +266,7 @@ Chồng về với 6 bịch sữa.
 
 ### 16. Nói dối hoàn hảo
 
-🌍 Nguồn gốc: Mỹ | Điểm: 36/50
+🌍 Nguồn gốc: Mỹ | Điểm: 29/40
 
 Thầy giáo hỏi:
 
@@ -280,7 +280,7 @@ Bé Tèo giơ tay:
 
 ### 17. Bác sĩ tâm lý
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 40/50
+🌍 Nguồn gốc: Mỹ | Điểm: 32/40
 
 Bệnh nhân: "Bác sĩ ơi, không ai thèm để ý đến tôi."
 
@@ -290,7 +290,7 @@ Bác sĩ: "Người tiếp theo, mời vào!"
 
 ### 18. Sếp và nhân viên
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 42/50
+🌍 Nguồn gốc: Mỹ | Điểm: 34/40
 
 Sếp đến văn phòng sớm, thấy nhân viên đang ngủ gật. Sếp đập bàn:
 
@@ -304,7 +304,7 @@ Nhân viên giật mình:
 
 ### 19. Logic đàn ông
 
-🌍 Nguồn gốc: Mỹ | Điểm: 37/50
+🌍 Nguồn gốc: Mỹ | Điểm: 29/40
 
 Vợ: "Anh có nhớ hôm nay là ngày gì không?"
 
@@ -318,7 +318,7 @@ Vợ (xúc động): "Trời ơi, đây là sinh nhật con mèo vui nhất từ
 
 ### 20. Đi khám bệnh
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 44/50
+🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
 
 Bệnh nhân: "Bác sĩ ơi, tôi bị gãy tay ở hai chỗ."
 
@@ -328,7 +328,7 @@ Bác sĩ: "Vậy thì đừng đến hai chỗ đó nữa."
 
 ### 21. Câu hỏi triệu đô
 
-🌍 Nguồn gốc: Mỹ | Điểm: 39/50
+🌍 Nguồn gốc: Mỹ | Điểm: 32/40
 
 Vợ hỏi chồng:
 
@@ -354,7 +354,7 @@ Vợ hỏi chồng:
 
 ### 22. Cha và con
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 41/50
+🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
 Con trai: "Bố ơi, cho con 10 đô."
 
@@ -367,7 +367,9 @@ Bố: "8 đô? 6 đô để làm gì? Bố đâu có 4 đô. Đây, 2 đô, chia
 ## 📊 Thống kê chương
 
 - **Tổng số truyện:** 22
-- **Truyện đạt (≥ 35 điểm):** 22
-- **Truyện hay đặc biệt ⭐ (≥ 40 điểm):** 14
-- **Điểm trung bình:** 40.5/50
+- **Truyện đạt (≥ 30 điểm):** 19
+- **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 4
+- **Điểm trung bình:** 33.1/40
 - **Truyện bị loại:** 3 (xem rejected-log)
+
+> ⚠️ Truyện #7, #16, #19 (29/40) thêm vào dưới hệ thống cũ, chưa đạt ngưỡng mới. Cân nhắc thay thế.
