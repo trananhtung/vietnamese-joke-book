@@ -31,9 +31,9 @@
 
 ### 2.2 Tiêu chí chấp nhận
 
-- **Tổng >= 28/40** → Đưa vào sách ✅
-- **Tổng >= 32/40** → Truyện hay đặc biệt ⭐
-- **Tổng < 28/40** → Loại ❌ (lưu vào `rejected/rejected-log.md` để tham khảo)
+- **Tổng >= 30/40** → Đưa vào sách ✅
+- **Tổng >= 35/40** → Truyện hay đặc biệt ⭐
+- **Tổng < 30/40** → Loại ❌ (lưu vào `rejected/rejected-log.md` để tham khảo)
 
 ### 2.3 Format bảng chấm điểm (dùng trong `metadata/scoring-log.md`)
 
@@ -42,15 +42,15 @@
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
 |---|-----------|---------|------------|---------|--------|------|------|
-| 1 | Tên truyện | 8 | 7 | 9 | 8 | 32 | ⭐ |
+| 1 | Tên truyện | 9 | 9 | 9 | 8 | 35 | ⭐ |
 | 2 | Tên truyện | 6 | 5 | 7 | 6 | 24 | ❌ |
-| 3 | Tên truyện | 7 | 8 | 8 | 7 | 30 | ✅ |
+| 3 | Tên truyện | 8 | 8 | 8 | 7 | 31 | ✅ |
 
 ### Thống kê
 - **Tổng truyện đánh giá:** N
-- **Đạt (≥ 28):** X truyện
-- **Hay đặc biệt ⭐ (≥ 32):** Y truyện
-- **Loại ❌ (< 28):** Z truyện
+- **Đạt (≥ 30):** X truyện
+- **Hay đặc biệt ⭐ (≥ 35):** Y truyện
+- **Loại ❌ (< 30):** Z truyện
 - **Điểm trung bình (truyện đạt):** A/40
 ```
 
@@ -173,8 +173,8 @@
 ```
 
 **Lưu ý:**
-- Truyện ≥ 32 điểm: dùng `⭐ Điểm:`
-- Truyện 28-31 điểm: dùng `Điểm:` (không có ⭐)
+- Truyện ≥ 35 điểm: dùng `⭐ Điểm:`
+- Truyện 30-34 điểm: dùng `Điểm:` (không có ⭐)
 - Nội dung: văn phong tiếu lâm, đời thường, gần gũi người Việt. TRÁNH giọng văn dịch máy, khô khan
 - **Bắt buộc** dùng emoji trong nội dung truyện (tối đa 3-5 emoji/truyện, đặt đúng điểm cao trào)
 - **Bắt buộc** thêm bình luận `> 😂💬 *...*` sau mỗi truyện — bình luận phải:
@@ -285,7 +285,7 @@ Day 14: Final review, export scripts, tag v1.0
 3. Research truyện cười từ nguồn gốc tương ứng
 4. Việt hóa theo quy tắc mục 3
 5. Chấm điểm từng truyện theo mục 2
-6. Đưa truyện đạt (≥ 28) vào chương, truyện không đạt vào `rejected/`
+6. Đưa truyện đạt (≥ 30) vào chương, truyện không đạt vào `rejected/`
 7. Cập nhật `CHANGELOG.md` và `metadata/scoring-log.md`
 8. `git add [files] && git commit -m "Day X: ..."`
 9. `git push origin [tên_nhánh]`
@@ -295,7 +295,7 @@ Day 14: Final review, export scripts, tag v1.0
 ## 7. Checklist Kiểm Tra Trước Khi Commit
 
 - [ ] Tất cả truyện đã được chấm điểm
-- [ ] Truyện < 28 điểm đã được chuyển sang `rejected/`
+- [ ] Truyện < 30 điểm đã được chuyển sang `rejected/`
 - [ ] `metadata/scoring-log.md` đã được cập nhật
 - [ ] `CHANGELOG.md` đã được cập nhật
 - [ ] Format Markdown nhất quán (kiểm tra heading, dấu `---`)
