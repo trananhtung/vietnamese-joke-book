@@ -14,3 +14,37 @@ Lưu trữ những truyện không đạt điểm (< 35/50) để tham khảo.
 
 ### R3. IRS Audit (28/50)
 **Lý do loại:** Truyện về kiểm toán thuế IRS (cơ quan thuế Mỹ). Context quá đặc thù nước Mỹ, người Việt không có trải nghiệm tương đương để thấy buồn cười.
+
+---
+
+## Chương 02: Truyện Cười Anh - Ngày 2
+
+### R1. Cricket Explanation (26/50)
+**Lý do loại:** Truyện dựa trên luật chơi cricket — môn thể thao gần như không ai ở Việt Nam biết. Không thể thay bằng môn khác mà giữ được ý hài.
+
+### R2. Brexit Dinner Party (26/50)
+**Lý do loại:** Nhạy cảm chính trị, nội dung xoay quanh Brexit. Context quá đặc thù nước Anh, người Việt không có trải nghiệm tương đương.
+
+### R3. Anti-Gravity Book Pun (27/50)
+**Lý do loại:** Chơi chữ "I can't put it down" (không thể đặt xuống / không thể ngừng đọc). Wordplay tiếng Anh, không chuyển được sang tiếng Việt.
+
+### R4. Queen's Guard Joke (27/50)
+**Lý do loại:** Cần hiểu biết chi tiết về lính canh Hoàng gia Anh (không được phép cử động). Quá xa lạ với đa số người Việt.
+
+### R5. Marmite Love-Hate (26/50)
+**Lý do loại:** Marmite là gia vị đặc trưng Anh với slogan "Love it or hate it." Sản phẩm hoàn toàn xa lạ ở Việt Nam, không thể Việt hóa.
+
+### R6. Bác sĩ người Anh (39/50)
+**Lý do loại:** Điểm dưới 40. Nâng chuẩn chất lượng, thay bằng truyện "Di chúc quý ông" (42/50).
+
+### R7. Bữa tối kiểu Anh (38/50)
+**Lý do loại:** Điểm dưới 40. Punchline chưa đủ mạnh, thay bằng "Thang máy ở London" (41/50).
+
+### R8. Thời tiết xã giao (37/50)
+**Lý do loại:** Điểm dưới 40. Dạng liệt kê, thiếu twist bất ngờ, thay bằng "Quý ông gặp cướp" (44/50).
+
+### R9. Bưu điện Anh (36/50)
+**Lý do loại:** Điểm dưới 40. Punchline yếu, thay bằng "Quý ông mất ví" (41/50).
+
+### R10. Đi du lịch nước ngoài (38/50)
+**Lý do loại:** Điểm dưới 40. Dạng liệt kê thiếu câu chốt hạ, thay bằng "Đám cháy lịch sự" (43/50).

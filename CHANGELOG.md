@@ -14,3 +14,19 @@
 - Tổng hợp và Việt hóa truyện cười Mỹ
 - Chấm điểm theo tiêu chí 5 mục
 - Chi tiết xem scoring-log.md
+
+## Ngày 2 - 2026-03-20
+
+### Chương 02: Truyện Cười Anh
+- Tổng hợp và Việt hóa 20 truyện cười phong cách Anh (dry humor, sarcasm, self-deprecating)
+- Chủ đề chính: thời tiết, trà, xếp hàng, lịch sự thái quá, phong cách quý ông
+- Chấm điểm 25 truyện: 20 đạt, 5 loại
+- 14 truyện hay đặc biệt ⭐ (≥ 40 điểm)
+- Điểm trung bình truyện đạt: 41.1/50
+- Chi tiết xem scoring-log.md
+
+### Chỉnh sửa Chương 02: Nâng chuẩn chất lượng
+- Loại 5 truyện dưới 40 điểm: Bác sĩ người Anh (39), Bữa tối kiểu Anh (38), Thời tiết xã giao (37), Bưu điện Anh (36), Đi du lịch nước ngoài (38)
+- Thay bằng 5 truyện mới ≥40 điểm: Di chúc quý ông (42), Thang máy ở London (41), Quý ông gặp cướp (44), Quý ông mất ví (41), Đám cháy lịch sự (43)
+- Toàn bộ 20 truyện giờ đều ≥40 điểm ⭐
+- Điểm trung bình tăng từ 41.1 lên 42.2/50
