@@ -20,7 +20,7 @@
 
 ## 2. Template Chấm Điểm (Scoring Template)
 
-### 2.1 Bảng tiêu chí (tổng 50 điểm)
+### 2.1 Bảng tiêu chí (tổng 40 điểm)
 
 | # | Tiêu chí | Mô tả chi tiết | Điểm tối đa |
 |---|----------|----------------|-------------|
@@ -28,31 +28,30 @@
 | 2 | **Phù hợp văn hóa Việt** | Người Việt có đồng cảm không? Context có gần gũi không? | /10 |
 | 3 | **Dễ hiểu** | Không cần giải thích thêm? Hiểu ngay khi đọc/nghe lần đầu? | /10 |
 | 4 | **Khả năng kể lại** | Có thể kể cho bạn bè nghe miệng? Dễ nhớ, dễ truyền? | /10 |
-| 5 | **Không xúc phạm** | Không nhạy cảm, không phân biệt, an toàn cho mọi đối tượng? | /10 |
 
 ### 2.2 Tiêu chí chấp nhận
 
-- **Tổng >= 35/50** → Đưa vào sách ✅
-- **Tổng >= 40/50** → Truyện hay đặc biệt ⭐
-- **Tổng < 35/50** → Loại ❌ (lưu vào `rejected/rejected-log.md` để tham khảo)
+- **Tổng >= 28/40** → Đưa vào sách ✅
+- **Tổng >= 32/40** → Truyện hay đặc biệt ⭐
+- **Tổng < 28/40** → Loại ❌ (lưu vào `rejected/rejected-log.md` để tham khảo)
 
 ### 2.3 Format bảng chấm điểm (dùng trong `metadata/scoring-log.md`)
 
 ```markdown
 ## [Tên chương] - Ngày [X]
 
-| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | An toàn | Tổng | Đạt? |
-|---|-----------|---------|------------|---------|--------|---------|------|------|
-| 1 | Tên truyện | 8 | 7 | 9 | 8 | 10 | 42 | ⭐ |
-| 2 | Tên truyện | 6 | 5 | 7 | 6 | 10 | 34 | ❌ |
-| 3 | Tên truyện | 7 | 8 | 8 | 7 | 8 | 38 | ✅ |
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Tên truyện | 8 | 7 | 9 | 8 | 32 | ⭐ |
+| 2 | Tên truyện | 6 | 5 | 7 | 6 | 24 | ❌ |
+| 3 | Tên truyện | 7 | 8 | 8 | 7 | 30 | ✅ |
 
 ### Thống kê
 - **Tổng truyện đánh giá:** N
-- **Đạt (≥ 35):** X truyện
-- **Hay đặc biệt ⭐ (≥ 40):** Y truyện
-- **Loại ❌ (< 35):** Z truyện
-- **Điểm trung bình (truyện đạt):** A/50
+- **Đạt (≥ 28):** X truyện
+- **Hay đặc biệt ⭐ (≥ 32):** Y truyện
+- **Loại ❌ (< 28):** Z truyện
+- **Điểm trung bình (truyện đạt):** A/40
 ```
 
 ---
@@ -109,7 +108,44 @@
 | Chơi chữ không chuyển được | Loại truyện (ghi vào rejected với lý do) |
 | Muốn giữ lại để tham khảo | Thêm ghi chú: `[Gốc: chơi chữ tiếng X, không Việt hóa được]` |
 
-### 3.6 Mức độ phù hợp
+### 3.6 Phong cách ngôn ngữ — Tiếu Lâm Việt Nam 🇻🇳
+
+**Nguyên tắc cốt lõi:** Truyện cười phải đọc lên nghe như người Việt kể cho nhau nghe ở quán cà phê, KHÔNG phải như dịch máy. Phải có "chất" tiếu lâm, dí dỏm, đời thường.
+
+#### 3.6.1 Từ ngữ & cách diễn đạt
+
+| ❌ Tránh (khô khan, dịch máy) | ✅ Dùng (tiếu lâm, đời thường) |
+|-------------------------------|-------------------------------|
+| "Ông ấy nói" | "Ổng phán", "Ổng tỉnh bơ", "Ổng cà rỡn" |
+| "Rất ngạc nhiên" | "Mắt chữ O mồm chữ A", "đứng hình", "muốn xỉu" |
+| "Trả lời" | "Phang một câu", "chốt hạ", "phản dame" |
+| "Bình tĩnh" | "Tỉnh bơ như không", "mặt lạnh như tiền", "chill như không có gì" |
+| "Rất buồn cười" | "Cười muốn nội thương", "cười xỉu", "cười rớt hàm" |
+| "Người đó rất ngu" | "Khờ hết phần thiên hạ", "ngây thơ vô số tội" |
+| "Không quan tâm" | "Kệ mẹ nó", "thây kệ", "mặc kệ đời" (tùy mức độ) |
+| "Kết thúc câu chuyện" | Không cần — punchline tự kết, đừng giải thích thêm |
+
+#### 3.6.2 Thành ngữ & cách nói Việt nên xài
+
+- "Ăn cơm nhà vác tù và hàng tổng" → khi nhân vật lo chuyện bao đồng
+- "Già kén kẹn hom" → khi nói về chuyện hôn nhân
+- "Trời đánh tránh bữa ăn" → khi nhân vật bình tĩnh giữa hỗn loạn
+- "Chưa thấy quan tài chưa đổ lệ" → khi nhân vật cứng đầu
+- Dùng cách gọi thân mật: "ông anh", "bác", "chú em", "cưng", "mẹ ơi!"
+- Dùng từ cảm thán Việt: "Trời ơi!", "Ủa?", "Hả?!", "Chết mẹ rồi!", "Bó tay!"
+
+#### 3.6.3 Emoji trong truyện 🎭
+
+**Bắt buộc sử dụng emoji** để tăng cảm xúc và tính trực quan:
+
+| Vị trí | Cách dùng emoji |
+|--------|----------------|
+| Tên truyện | Thêm 1 emoji phù hợp chủ đề: "Quý ông trên tàu Titanic 🚢" |
+| Trong nội dung truyện | Dùng emoji tại các điểm cao trào, phản ứng bất ngờ, hoặc hành động hài: 😳🤦😂💀 |
+| Punchline | Có thể thêm emoji để "đánh dấu" khoảnh khắc chốt hạ |
+| Không lạm dụng | Tối đa 3-5 emoji mỗi truyện, đặt đúng chỗ để tăng hiệu ứng, KHÔNG rải khắp nơi |
+
+### 3.7 Mức độ phù hợp
 
 | Loại nội dung | Quyết định |
 |--------------|-----------|
@@ -126,21 +162,26 @@
 ### 4.1 Format mỗi truyện đơn lẻ
 
 ```markdown
-### [Số thứ tự]. [Tên truyện]
-> 🌍 Nguồn gốc: [Tên nước] | ⭐ Điểm: [X/50]
+### [Số thứ tự]. [Tên truyện] [emoji phù hợp]
+> 🌍 Nguồn gốc: [Tên nước] | ⭐ Điểm: [X/40]
 
-[Nội dung truyện - setup rõ ràng, punchline mạnh]
+[Nội dung truyện - văn phong tiếu lâm, dí dỏm, có chất Việt Nam. Dùng emoji tại điểm cao trào]
 
-> 💡 *[1-2 câu giải thích ngắn gọn vì sao truyện này buồn cười — điểm hài, cơ chế gây cười]*
+> 😂💬 *[Bình luận hài hước, vui nhộn — viết như kiểu bạn bè bình luận cho nhau nghe. Vừa giải thích vì sao buồn cười, vừa thêm 1 câu "đá xoáy" hoặc liên hệ thực tế Việt Nam để người đọc cười thêm lần nữa]*
 
 ---
 ```
 
 **Lưu ý:**
-- Truyện ≥ 40 điểm: dùng `⭐ Điểm:`
-- Truyện 35-39 điểm: dùng `Điểm:` (không có ⭐)
-- Nội dung: văn phong tự nhiên, gần gũi, giữ nhịp điệu gây cười
-- **Bắt buộc** thêm bình luận `> 💡 *...*` sau mỗi truyện, giải thích ngắn gọn vì sao truyện buồn cười (cơ chế hài: twist bất ngờ, mâu thuẫn logic, châm biếm, v.v.)
+- Truyện ≥ 32 điểm: dùng `⭐ Điểm:`
+- Truyện 28-31 điểm: dùng `Điểm:` (không có ⭐)
+- Nội dung: văn phong tiếu lâm, đời thường, gần gũi người Việt. TRÁNH giọng văn dịch máy, khô khan
+- **Bắt buộc** dùng emoji trong nội dung truyện (tối đa 3-5 emoji/truyện, đặt đúng điểm cao trào)
+- **Bắt buộc** thêm bình luận `> 😂💬 *...*` sau mỗi truyện — bình luận phải:
+  - Hài hước, vui nhộn — viết như đang kể cho bạn bè nghe
+  - Giải thích cơ chế hài (twist, mâu thuẫn logic, châm biếm...)
+  - Thêm 1 câu "đá xoáy", liên hệ thực tế VN, hoặc so sánh dí dỏm để người đọc cười thêm lần nữa
+  - Dùng emoji trong bình luận để thêm phần sinh động 🤣🔥💀
 
 ### 4.2 Format chương sách
 
@@ -154,14 +195,14 @@
 ---
 
 ### 1. [Tên truyện đầu tiên - nên là truyện HAY NHẤT của chương]
-> 🌍 Nguồn gốc: [Nước] | ⭐ Điểm: 43/50
+> 🌍 Nguồn gốc: [Nước] | ⭐ Điểm: 35/40
 
 [Nội dung truyện]
 
 ---
 
 ### 2. [Tên truyện]
-> 🌍 Nguồn gốc: [Nước] | Điểm: 38/50
+> 🌍 Nguồn gốc: [Nước] | Điểm: 30/40
 
 [Nội dung truyện]
 
@@ -171,7 +212,7 @@
 
 ---
 
-📊 **Thống kê chương:** [X] truyện | Điểm trung bình: [Y]/50 | Truyện ⭐: [Z]
+📊 **Thống kê chương:** [X] truyện | Điểm trung bình: [Y]/40 | Truyện ⭐: [Z]
 ```
 
 **Quy tắc sắp xếp truyện trong chương:**
@@ -244,7 +285,7 @@ Day 14: Final review, export scripts, tag v1.0
 3. Research truyện cười từ nguồn gốc tương ứng
 4. Việt hóa theo quy tắc mục 3
 5. Chấm điểm từng truyện theo mục 2
-6. Đưa truyện đạt (≥ 35) vào chương, truyện không đạt vào `rejected/`
+6. Đưa truyện đạt (≥ 28) vào chương, truyện không đạt vào `rejected/`
 7. Cập nhật `CHANGELOG.md` và `metadata/scoring-log.md`
 8. `git add [files] && git commit -m "Day X: ..."`
 9. `git push origin [tên_nhánh]`
@@ -254,7 +295,7 @@ Day 14: Final review, export scripts, tag v1.0
 ## 7. Checklist Kiểm Tra Trước Khi Commit
 
 - [ ] Tất cả truyện đã được chấm điểm
-- [ ] Truyện < 35 điểm đã được chuyển sang `rejected/`
+- [ ] Truyện < 28 điểm đã được chuyển sang `rejected/`
 - [ ] `metadata/scoring-log.md` đã được cập nhật
 - [ ] `CHANGELOG.md` đã được cập nhật
 - [ ] Format Markdown nhất quán (kiểm tra heading, dấu `---`)
