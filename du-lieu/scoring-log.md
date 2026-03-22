@@ -25,7 +25,7 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | 4 | Đám tang hoàn hảo | 8 | 8 | 8 | 8 | 32 | ✅ |
 | 5 | Giá của sự thật | 7 | 8 | 8 | 8 | 31 | ✅ |
 | 6 | Gọi món ở nhà hàng | 9 | 8 | 9 | 8 | 34 | ✅ |
-| 7 | Ai đó gõ cửa | 7 | 7 | 8 | 7 | 29 | ❌ |
+| 7 | GPS và vợ | 9 | 9 | 9 | 8 | 35 | ⭐ |
 | 8 | Chồng ngoan | 9 | 9 | 9 | 9 | 36 | ⭐ |
 | 9 | Cá cược trên máy bay | 8 | 8 | 8 | 8 | 32 | ✅ |
 | 10 | Toán học vợ chồng | 8 | 9 | 8 | 8 | 33 | ✅ |
@@ -34,22 +34,22 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | 13 | Con khôn nhà người ta | 8 | 9 | 8 | 8 | 33 | ✅ |
 | 14 | WiFi nhà thờ | 7 | 7 | 8 | 8 | 30 | ✅ |
 | 15 | Ông chồng mua sắm | 9 | 8 | 8 | 8 | 33 | ✅ |
-| 16 | Nói dối hoàn hảo | 7 | 7 | 8 | 7 | 29 | ❌ |
+| 16 | Ông ngoại và cháu | 9 | 9 | 9 | 8 | 35 | ⭐ |
 | 17 | Bác sĩ tâm lý | 8 | 8 | 8 | 8 | 32 | ✅ |
 | 18 | Sếp và nhân viên | 8 | 9 | 9 | 8 | 34 | ✅ |
-| 19 | Logic đàn ông | 7 | 8 | 7 | 7 | 29 | ❌ |
+| 19 | Siêu thị lúc nửa đêm | 8 | 8 | 9 | 8 | 33 | ✅ |
 | 20 | Đi khám bệnh | 9 | 9 | 9 | 9 | 36 | ⭐ |
 | 21 | Câu hỏi triệu đô | 8 | 8 | 8 | 8 | 32 | ✅ |
 | 22 | Cha và con | 8 | 9 | 8 | 8 | 33 | ✅ |
 
 ### Thống kê
-- **Tổng truyện đánh giá:** 25 (19 đạt + 6 loại)
-- **Đạt (≥ 30):** 19 truyện
-- **Hay đặc biệt ⭐ (≥ 35):** 4 truyện
-- **Loại ❌ (< 30):** 6 truyện (3 bị loại từ đầu + 3 dưới ngưỡng mới)
-- **Điểm trung bình (truyện đạt):** 33.1/40
+- **Tổng truyện đánh giá:** 28 (22 đạt + 6 loại)
+- **Đạt (≥ 30):** 22 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 6 truyện
+- **Loại ❌ (< 30):** 6 truyện
+- **Điểm trung bình (truyện đạt):** 33.3/40
 
-> ⚠️ **Ghi chú:** Truyện #7, #16, #19 được thêm vào sách dưới hệ thống chấm điểm cũ (50 điểm). Với ngưỡng mới 30/40, các truyện này (29/40) không còn đạt. Cân nhắc thay thế.
+> ✅ **Cập nhật Ngày 3:** Thay 3 truyện dưới ngưỡng (#7 Ai đó gõ cửa 29/40, #16 Nói dối hoàn hảo 29/40, #19 Logic đàn ông 29/40) bằng 3 truyện mới (GPS và vợ 35/40, Ông ngoại và cháu 35/40, Siêu thị lúc nửa đêm 33/40). Chuẩn hóa format toàn chương: thêm bình luận, emoji, sửa heading.
 
 ### Truyện bị loại
 
@@ -58,6 +58,9 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | R1 | Knock knock - Orange | 5 | 4 | 5 | 4 | 18 | Chơi chữ tiếng Anh, không chuyển được |
 | R2 | Yo mama joke | 6 | 5 | 7 | 6 | 24 | Nhạy cảm, xúc phạm |
 | R3 | IRS audit | 7 | 3 | 4 | 5 | 19 | Context thuế Mỹ, người VN không hiểu |
+| R4 | Ai đó gõ cửa | 7 | 7 | 8 | 7 | 29 | Chơi chữ "gián/gián đoạn" gượng, punchline yếu |
+| R5 | Nói dối hoàn hảo | 7 | 7 | 8 | 7 | 29 | Twist không đủ mạnh, quá ngắn thiếu build-up |
+| R6 | Logic đàn ông | 7 | 8 | 7 | 7 | 29 | Punchline "sinh nhật con mèo" chưa đủ bất ngờ |
 
 ---
 

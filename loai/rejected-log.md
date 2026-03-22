@@ -15,6 +15,15 @@ Lưu trữ những truyện không đạt điểm (< 30/40) để tham khảo.
 ### R3. IRS Audit (19/40)
 **Lý do loại:** Truyện về kiểm toán thuế IRS (cơ quan thuế Mỹ). Context quá đặc thù nước Mỹ, người Việt không có trải nghiệm tương đương để thấy buồn cười.
 
+### R4. Ai đó gõ cửa (29/40)
+**Lý do loại:** Chơi chữ "gián/gián đoạn" gượng ép, punchline yếu. Dạng knock-knock joke khó Việt hóa tự nhiên.
+
+### R5. Nói dối hoàn hảo (29/40)
+**Lý do loại:** Twist "bố mẹ cưới cùng ngày" quá ngắn, thiếu build-up, punchline không đủ bất ngờ.
+
+### R6. Logic đàn ông (29/40)
+**Lý do loại:** Punchline "sinh nhật con mèo" chưa đủ sức nặng, câu chuyện thiếu lớp lang để tạo twist mạnh.
+
 ---
 
 ## Chương 02: Truyện Cười Anh - Ngày 2

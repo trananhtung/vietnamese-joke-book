@@ -33,6 +33,15 @@
 
 ## Ngày 3 - 2026-03-22
 
+### Cập nhật Chương 01: Truyện Cười Mỹ
+- Chuẩn hóa format toàn chương: thêm `>` trước dòng nguồn gốc, thêm emoji trong nội dung, thêm bình luận `> 😂💬` sau mỗi truyện
+- Thay 3 truyện dưới ngưỡng 30/40:
+  - #7 "Ai đó gõ cửa" (29) → "GPS và vợ" (35 ⭐)
+  - #16 "Nói dối hoàn hảo" (29) → "Ông ngoại và cháu" (35 ⭐)
+  - #19 "Logic đàn ông" (29) → "Siêu thị lúc nửa đêm" (33)
+- Toàn bộ 22 truyện giờ đều ≥ 30/40, 6 truyện ⭐
+- Điểm trung bình: 33.3/40
+
 ### Chương 03: Truyện Cười Pháp
 - Tổng hợp và Việt hóa 20 truyện cười phong cách Pháp (lãng mạn, rượu vang, ẩm thực, triết học, kiêu hãnh dân tộc)
 - Chủ đề chính: tình yêu, rượu vang & pho mát, đình công, bồi bàn Paris, triết học đời thường
