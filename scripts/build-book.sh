@@ -1,33 +1,24 @@
 #!/usr/bin/env bash
 # Ghép tất cả chương thành full-book.md (thứ tự: 00 → 01–17 → 99).
 # Chèn \newpage giữa các chương — pandoc giữ cho PDF (xelatex), bỏ qua khi export EPUB/DOCX.
+# Chương: mọi file sach/NN-*.md (glob hai chữ số đầu), sắp xếp bằng sort -V (00…99).
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SACH="${ROOT}/sach"
 OUTPUT="${ROOT}/full-book.md"
 
-CHAPTERS=(
-  "00-loi-noi-dau.md"
-  "01-truyen-cuoi-my.md"
-  "02-truyen-cuoi-anh.md"
-  "03-truyen-cuoi-phap.md"
-  "04-truyen-cuoi-duc.md"
-  "05-truyen-cuoi-nga.md"
-  "06-truyen-cuoi-nhat.md"
-  "07-truyen-cuoi-han.md"
-  "08-truyen-cuoi-trung.md"
-  "09-truyen-cuoi-an-do.md"
-  "10-truyen-cuoi-trung-dong.md"
-  "11-truyen-cuoi-chau-phi.md"
-  "12-truyen-cuoi-my-latin.md"
-  "13-truyen-cuoi-bac-au.md"
-  "14-truyen-cuoi-dong-nam-a.md"
-  "15-truyen-cuoi-uc.md"
-  "16-truyen-cuoi-quoc-te.md"
-  "17-bonus-truyen-cuoi-kinh-dien.md"
-  "99-loi-ket.md"
+mapfile -t CHAPTERS < <(
+  shopt -s nullglob
+  for f in "${SACH}"/[0-9][0-9]-*.md; do
+    printf '%s\n' "$(basename "$f")"
+  done | sort -V
 )
+
+if ((${#CHAPTERS[@]} == 0)); then
+  echo "❌ Không tìm thấy file chương nào (mẫu tên: NN-ten.md) trong ${SACH}" >&2
+  exit 1
+fi
 
 echo "Đang ghép sách..."
 
