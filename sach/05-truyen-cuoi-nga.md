@@ -440,4 +440,4 @@ Thần đèn hiện ra, bảo ông Nga:
 
 ---
 
-📊 **Thống kê chương:** 18 truyện | Điểm trung bình: 34.3/40 | Truyện ⭐: 8
+📊 **Thống kê chương:** 18 truyện | Điểm trung bình: 34.5/40 | Truyện ⭐: 8

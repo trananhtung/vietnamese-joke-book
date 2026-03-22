@@ -70,5 +70,5 @@
 - Chủ đề chính: vodka & triết học, mùa đông Siberia, xếp hàng thời Xô Viết, babushka, dashcam, tình hàng xóm
 - Chấm điểm 25 truyện: 21 đạt, 4 loại, chọn 18 truyện tốt nhất vào sách
 - 8 truyện hay đặc biệt ⭐ (≥ 35 điểm)
-- Điểm trung bình truyện đạt: 33.9/40
+- Điểm trung bình truyện đạt: 34.0/40
 - Chi tiết xem scoring-log.md

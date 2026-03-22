@@ -37,7 +37,7 @@
 - **Đạt (≥ 30):** 21 truyện
 - **Hay đặc biệt ⭐ (≥ 35):** 8 truyện
 - **Loại ❌ (< 30):** 4 truyện
-- **Điểm trung bình (truyện đạt):** 33.9/40
+- **Điểm trung bình (truyện đạt):** 34.0/40
 
 ---
 
