@@ -424,4 +424,4 @@ Người Phần Lan khác: "Ổng nhìn bạn 2 giây lận á? Ổng yêu bạn
 
 ---
 
-📊 **Thống kê chương:** 18 truyện | Điểm trung bình: 33.8/40 | Truyện ⭐: 6
+📊 **Thống kê chương:** 18 truyện | Điểm trung bình: 33.8/40 | Truyện ⭐: 8
