@@ -48,3 +48,22 @@ Lưu trữ những truyện không đạt điểm (< 30/40) để tham khảo.
 
 ### R10. Đi du lịch nước ngoài (30/40)
 **Lý do loại:** Đạt ngưỡng tối thiểu nhưng dạng liệt kê thiếu câu chốt hạ, thay bằng "Đám cháy lịch sự" (34/40).
+
+---
+
+## Chương 03: Truyện Cười Pháp - Ngày 3
+
+### R1. Cách mạng Pháp hiện đại (29/40)
+**Lý do loại:** Truyện về người Pháp biểu tình phản đối chính việc biểu tình. Ý tưởng hay nhưng punchline yếu, dạng liệt kê thiếu twist bất ngờ.
+
+### R2. Nấu ăn kiểu Pháp (28/40)
+**Lý do loại:** Đầu bếp Pháp dạy nấu ăn bằng cách vứt hết nguyên liệu không phải Pháp. Twist không đủ mạnh, truyện kết thúc nhạt.
+
+### R3. Jeu de mots - Poisson (16/40)
+**Lý do loại:** Chơi chữ tiếng Pháp "poisson" (cá) và "poison" (thuốc độc). Wordplay không chuyển được sang tiếng Việt.
+
+### R4. Escargot Pun (17/40)
+**Lý do loại:** Chơi chữ "es-car-go" (ốc sên / xe chạy đi). Wordplay tiếng Anh/Pháp, không thể Việt hóa mà giữ được ý hài.
+
+### R5. Napoléon Complex (22/40)
+**Lý do loại:** Truyện dựa trên "Napoléon complex" (mặc cảm chiều cao). Cần hiểu biết lịch sử đặc thù, phải giải thích nhiều, mất tính tự nhiên.

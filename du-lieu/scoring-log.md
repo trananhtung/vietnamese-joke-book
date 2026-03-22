@@ -107,3 +107,47 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | R8 | Thời tiết xã giao | 7 | 7 | 8 | 7 | 29 | Dạng liệt kê, thiếu twist bất ngờ |
 | R9 | Bưu điện Anh | 7 | 7 | 7 | 7 | 28 | Punchline yếu |
 | R10 | Đi du lịch nước ngoài | 7 | 8 | 8 | 7 | 30 | Dạng liệt kê, thiếu câu chốt hạ, thay bằng truyện tốt hơn |
+
+---
+
+## Chương 03: Truyện Cười Pháp - Ngày 3
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Tình yêu kiểu Pháp | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 2 | Rượu vang và thuốc | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 3 | Đình công quốc dân | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 4 | Bồi bàn Paris | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 5 | Đầu bếp Pháp ở Sài Gòn | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 6 | 365 loại pho mát | 8 | 7 | 9 | 8 | 32 | ✅ |
+| 7 | Ly hôn kiểu Pháp | 9 | 8 | 9 | 8 | 34 | ✅ |
+| 8 | Triết học lúc 3 giờ sáng | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 9 | Phong cách ăn mặc | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 10 | Người Pháp ở McDonald's | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 11 | Cầu hôn trên tháp Eiffel | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 12 | Bữa trưa 2 tiếng | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 13 | Taxi ở Paris | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 14 | Ngoại tình và triết học | 8 | 7 | 8 | 8 | 31 | ✅ |
+| 15 | Chó ở nhà hàng Paris | 8 | 8 | 9 | 9 | 34 | ✅ |
+| 16 | Tình yêu tam giác | 8 | 7 | 8 | 8 | 31 | ✅ |
+| 17 | Du khách ở Louvre | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 18 | Cà phê Pháp | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 19 | Rượu vang và nước lọc | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 20 | Đầu hàng kiểu Pháp | 8 | 8 | 8 | 8 | 32 | ✅ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 25 (20 đạt + 5 loại)
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 6 truyện
+- **Loại ❌ (< 30):** 5 truyện
+- **Điểm trung bình (truyện đạt):** 33.6/40
+
+### Truyện bị loại
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Lý do loại |
+|---|-----------|---------|------------|---------|--------|------|-----------|
+| R1 | Cách mạng Pháp hiện đại | 7 | 7 | 8 | 7 | 29 | Punchline yếu, dạng liệt kê |
+| R2 | Nấu ăn kiểu Pháp | 7 | 7 | 7 | 7 | 28 | Twist không đủ bất ngờ |
+| R3 | Jeu de mots - Poisson | 5 | 3 | 4 | 4 | 16 | Chơi chữ tiếng Pháp, không chuyển được |
+| R4 | Escargot pun | 5 | 4 | 4 | 4 | 17 | Chơi chữ "es-car-go" tiếng Anh/Pháp, không Việt hóa được |
+| R5 | Napoléon complex | 6 | 5 | 6 | 5 | 22 | Context lịch sử quá đặc thù, cần giải thích nhiều |
