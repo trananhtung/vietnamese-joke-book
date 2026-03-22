@@ -450,8 +450,6 @@ Một tòa nhà ở London bốc cháy ngùn ngụt. Lính cứu hỏa chạy đ
 
 ---
 
----
-
 ## 📊 Thống kê chương
 
 - **Tổng số truyện:** 20

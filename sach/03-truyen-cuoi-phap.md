@@ -412,8 +412,6 @@ Một ông Pháp và ông Đức cãi nhau. Ông Đức nói:
 
 ---
 
----
-
 ## 📊 Thống kê chương
 
 - **Tổng số truyện:** 20
