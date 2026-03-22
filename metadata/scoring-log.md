@@ -2,6 +2,42 @@
 
 ---
 
+## Chương 15: Truyện Cười Úc & New Zealand — Ngày 2026-03-22
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Chào mừng đến Úc | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 2 | Cá sấu Úc và du khách Mỹ | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 3 | Drop Bear — Loài gấu rơi | 10 | 9 | 9 | 9 | 37 | ⭐ |
+| 4 | Úc vs New Zealand: Cuộc chiến vĩnh cửu | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 5 | Thời tiết ở Úc | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 6 | Kangaroo và ông tài xế | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 7 | Nhện trong toilet | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 8 | Người NZ và người Úc đi phỏng vấn | 8 | 8 | 9 | 9 | 34 | ✅ |
+| 9 | BBQ quốc dân | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 10 | Giọng nói New Zealand | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 11 | Khoảng cách ở Úc | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 12 | Vegemite — Vũ khí hóa học hợp pháp | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 13 | Người Úc đi du lịch châu Âu | 8 | 9 | 9 | 7 | 33 | ✅ |
+| 14 | Bơi với cá mập | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 15 | Cách người Úc chỉ đường | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 16 | Sự khác biệt giữa Úc và NZ | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 17 | Emu đại chiến | 10 | 8 | 9 | 9 | 36 | ⭐ |
+| 18 | "No worries, mate" — Triết lý sống | 8 | 9 | 9 | 7 | 33 | ✅ |
+| 19 | Boomerang không quay lại | 7 | 6 | 8 | 7 | 28 | ❌ |
+| 20 | Koala ngủ 22 tiếng | 7 | 7 | 7 | 6 | 27 | ❌ |
+| 21 | Thợ săn cá sấu và vợ | 6 | 6 | 7 | 7 | 26 | ❌ |
+| 22 | Accent Úc vs accent Anh | 7 | 6 | 6 | 6 | 25 | ❌ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 22
+- **Đạt (≥ 30):** 18 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 11 truyện
+- **Loại ❌ (< 30):** 4 truyện
+- **Điểm trung bình (truyện đạt):** 34.3/40
+
+---
+
 ## Chương 13: Truyện Cười Bắc Âu — Ngày 2026-03-22
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |

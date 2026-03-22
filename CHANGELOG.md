@@ -1,5 +1,15 @@
 # Nhật Ký Thay Đổi - CƯỜI VỠ BỤNG
 
+## Ngày 4 - 2026-03-22
+
+### Chương 15: Truyện Cười Úc & New Zealand
+- Tổng hợp và Việt hóa 22 truyện cười Úc & New Zealand
+- Chủ đề chính: động vật nguy hiểm, khoảng cách xa, BBQ, Vegemite, Úc vs NZ rivalry, "no worries" attitude
+- Chấm điểm 22 truyện: 18 đạt, 4 loại
+- 11 truyện hay đặc biệt ⭐ (≥ 35 điểm)
+- Điểm trung bình truyện đạt: 34.3/40
+- Chi tiết xem scoring-log.md
+
 ## Ngày 1 - 2026-03-20
 
 ### Thiết lập dự án
