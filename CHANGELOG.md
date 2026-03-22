@@ -33,14 +33,15 @@
 
 ## Ngày 3 - 2026-03-22
 
-### Cập nhật Chương 01: Truyện Cười Mỹ
-- Chuẩn hóa format toàn chương: thêm `>` trước dòng nguồn gốc, thêm emoji trong nội dung, thêm bình luận `> 😂💬` sau mỗi truyện
-- Thay 3 truyện dưới ngưỡng 30/40:
-  - #7 "Ai đó gõ cửa" (29) → "GPS và vợ" (35 ⭐)
-  - #16 "Nói dối hoàn hảo" (29) → "Ông ngoại và cháu" (35 ⭐)
-  - #19 "Logic đàn ông" (29) → "Siêu thị lúc nửa đêm" (33)
-- Toàn bộ 22 truyện giờ đều ≥ 30/40, 6 truyện ⭐
-- Điểm trung bình: 33.3/40
+### Viết lại Chương 01: Truyện Cười Mỹ
+- Viết lại toàn bộ 22 truyện với ngôn ngữ tiếu lâm Việt Nam (dùng "ổng phán", "tỉnh bơ", "phang một câu", "chốt hạ", "phản dame", thành ngữ VN)
+- Thay 5 truyện yếu/quá ngắn bằng truyện mới có narrative tốt hơn:
+  - "Luật sư dưới đáy biển" → "Vợ chồng già ở bệnh viện" (36 ⭐)
+  - "Giá của sự thật" → "Mua bảo hiểm nhân thọ" (35 ⭐)
+  - "Gọi món ở nhà hàng" → "Đồng nghiệp chăm chỉ" (34)
+  - "WiFi nhà thờ" → "Bảo hiểm xe hơi" (33)
+  - "Bác sĩ tâm lý" → "Wifi miễn phí" (33)
+- 9 truyện ⭐ (tăng từ 6), điểm TB 34.0/40 (tăng từ 33.3)
 
 ### Cập nhật Chương 02: Truyện Cười Anh
 - Chuẩn hóa format toàn chương: thêm emoji tiêu đề + nội dung, đổi `> 💡` thành `> 😂💬` với bình luận vui hơn + liên hệ VN

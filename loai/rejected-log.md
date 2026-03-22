@@ -24,6 +24,21 @@ Lưu trữ những truyện không đạt điểm (< 30/40) để tham khảo.
 ### R6. Logic đàn ông (29/40)
 **Lý do loại:** Punchline "sinh nhật con mèo" chưa đủ sức nặng, câu chuyện thiếu lớp lang để tạo twist mạnh.
 
+### R7. Luật sư dưới đáy biển (33/40)
+**Lý do loại:** One-liner quá ngắn, không có narrative. Dù punchline tốt nhưng thiếu sức nặng khi đọc trong sách — phù hợp stand-up hơn.
+
+### R8. Giá của sự thật (31/40)
+**Lý do loại:** Punchline "sự thật rất đắt" yếu, thiếu twist bất ngờ. Câu chuyện quá ngắn và nhạt.
+
+### R9. Gọi món ở nhà hàng (34/40)
+**Lý do loại:** Dù điểm cao nhưng quá ngắn (chỉ 3 câu), hài nhẹ thiếu sức nặng cho format sách. Thay bằng truyện có narrative tốt hơn.
+
+### R10. WiFi nhà thờ (30/40)
+**Lý do loại:** One-liner, không đủ narrative để kể lại. Hài ổn nhưng không phù hợp format truyện kể.
+
+### R11. Bác sĩ tâm lý (32/40)
+**Lý do loại:** One-liner quá ngắn (2 câu), thiếu build-up và context. Punchline tốt nhưng cần narrative dài hơn để tạo hiệu ứng trong sách.
+
 ---
 
 ## Chương 02: Truyện Cười Anh - Ngày 2

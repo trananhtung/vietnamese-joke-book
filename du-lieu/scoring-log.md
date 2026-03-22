@@ -19,37 +19,37 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
 |---|-----------|---------|------------|---------|--------|------|------|
-| 1 | Bác sĩ thông báo | 9 | 8 | 9 | 9 | 35 | ⭐ |
-| 2 | Luật sư dưới đáy biển | 8 | 7 | 9 | 9 | 33 | ✅ |
-| 3 | Trộm nhầm nhà | 9 | 8 | 9 | 8 | 34 | ✅ |
-| 4 | Đám tang hoàn hảo | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 5 | Giá của sự thật | 7 | 8 | 8 | 8 | 31 | ✅ |
-| 6 | Gọi món ở nhà hàng | 9 | 8 | 9 | 8 | 34 | ✅ |
-| 7 | GPS và vợ | 9 | 9 | 9 | 8 | 35 | ⭐ |
-| 8 | Chồng ngoan | 9 | 9 | 9 | 9 | 36 | ⭐ |
-| 9 | Cá cược trên máy bay | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 10 | Toán học vợ chồng | 8 | 9 | 8 | 8 | 33 | ✅ |
-| 11 | Phỏng vấn xin việc | 9 | 8 | 9 | 9 | 35 | ⭐ |
-| 12 | Lái xe với vợ | 8 | 7 | 8 | 8 | 31 | ✅ |
-| 13 | Con khôn nhà người ta | 8 | 9 | 8 | 8 | 33 | ✅ |
-| 14 | WiFi nhà thờ | 7 | 7 | 8 | 8 | 30 | ✅ |
-| 15 | Ông chồng mua sắm | 9 | 8 | 8 | 8 | 33 | ✅ |
-| 16 | Ông ngoại và cháu | 9 | 9 | 9 | 8 | 35 | ⭐ |
-| 17 | Bác sĩ tâm lý | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 18 | Sếp và nhân viên | 8 | 9 | 9 | 8 | 34 | ✅ |
-| 19 | Siêu thị lúc nửa đêm | 8 | 8 | 9 | 8 | 33 | ✅ |
-| 20 | Đi khám bệnh | 9 | 9 | 9 | 9 | 36 | ⭐ |
-| 21 | Câu hỏi triệu đô | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 22 | Cha và con | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 1 | Bác sĩ thông báo | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 2 | Trộm nhầm nhà | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 3 | Vợ chồng già ở bệnh viện | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 4 | Chồng ngoan | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 5 | Phỏng vấn xin việc | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 6 | GPS và vợ | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 7 | Đám tang hoàn hảo | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 8 | Cá cược trên máy bay | 9 | 8 | 8 | 9 | 34 | ✅ |
+| 9 | Sếp và nhân viên | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 10 | Ông chồng đi siêu thị | 9 | 8 | 8 | 8 | 33 | ✅ |
+| 11 | Mua bảo hiểm nhân thọ | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 12 | Toán học vợ chồng | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 13 | Lái xe với vợ | 8 | 7 | 8 | 8 | 31 | ✅ |
+| 14 | Ông ngoại và cháu | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 15 | Đi khám bệnh | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 16 | Con khôn nhà người ta | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 17 | Siêu thị lúc nửa đêm | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 18 | Câu hỏi triệu đô | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 19 | Cha và con | 9 | 9 | 8 | 8 | 34 | ✅ |
+| 20 | Đồng nghiệp chăm chỉ | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 21 | Bảo hiểm xe hơi | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 22 | Wifi miễn phí | 8 | 9 | 8 | 8 | 33 | ✅ |
 
 ### Thống kê
-- **Tổng truyện đánh giá:** 28 (22 đạt + 6 loại)
+- **Tổng truyện đánh giá:** 33 (22 đạt + 11 loại)
 - **Đạt (≥ 30):** 22 truyện
-- **Hay đặc biệt ⭐ (≥ 35):** 6 truyện
-- **Loại ❌ (< 30):** 6 truyện
-- **Điểm trung bình (truyện đạt):** 33.3/40
+- **Hay đặc biệt ⭐ (≥ 35):** 9 truyện
+- **Loại ❌ (< 30):** 11 truyện
+- **Điểm trung bình (truyện đạt):** 34.0/40
 
-> ✅ **Cập nhật Ngày 3:** Thay 3 truyện dưới ngưỡng (#7 Ai đó gõ cửa 29/40, #16 Nói dối hoàn hảo 29/40, #19 Logic đàn ông 29/40) bằng 3 truyện mới (GPS và vợ 35/40, Ông ngoại và cháu 35/40, Siêu thị lúc nửa đêm 33/40). Chuẩn hóa format toàn chương: thêm bình luận, emoji, sửa heading.
+> ✅ **Cập nhật Ngày 3 (lần 2):** Viết lại toàn bộ chương với ngôn ngữ tiếu lâm Việt Nam. Thay 5 truyện yếu/quá ngắn (Luật sư dưới đáy biển, Giá của sự thật, Gọi món ở nhà hàng, WiFi nhà thờ, Bác sĩ tâm lý) bằng 5 truyện mới (Vợ chồng già ở bệnh viện, Mua bảo hiểm nhân thọ, Đồng nghiệp chăm chỉ, Bảo hiểm xe hơi, Wifi miễn phí). Nâng cấp văn phong toàn bộ 22 truyện theo phong cách tiếu lâm VN.
 
 ### Truyện bị loại
 
@@ -61,6 +61,11 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | R4 | Ai đó gõ cửa | 7 | 7 | 8 | 7 | 29 | Chơi chữ "gián/gián đoạn" gượng, punchline yếu |
 | R5 | Nói dối hoàn hảo | 7 | 7 | 8 | 7 | 29 | Twist không đủ mạnh, quá ngắn thiếu build-up |
 | R6 | Logic đàn ông | 7 | 8 | 7 | 7 | 29 | Punchline "sinh nhật con mèo" chưa đủ bất ngờ |
+| R7 | Luật sư dưới đáy biển | 8 | 7 | 9 | 9 | 33 | One-liner quá ngắn, thiếu narrative |
+| R8 | Giá của sự thật | 7 | 8 | 8 | 8 | 31 | Punchline yếu, thiếu twist |
+| R9 | Gọi món ở nhà hàng | 9 | 8 | 9 | 8 | 34 | Quá ngắn, hài nhẹ thiếu sức nặng |
+| R10 | WiFi nhà thờ | 7 | 7 | 8 | 8 | 30 | One-liner, không đủ narrative để kể lại |
+| R11 | Bác sĩ tâm lý | 8 | 8 | 8 | 8 | 32 | One-liner quá ngắn, thiếu build-up |
 
 ---
 
