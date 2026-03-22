@@ -56,6 +56,20 @@ jobs:
           bash scripts/export.sh
           ls -la Cuoi-Vo-Bung.pdf Cuoi-Vo-Bung.epub Cuoi-Vo-Bung.docx
 
+      # Tên file đính kèm = Cuoi-Vo-Bung-<tag>.{pdf,epub,docx} (tag được chuẩn hóa cho tên file)
+      - name: Đổi tên artifact theo tag
+        id: asset
+        env:
+          TAG: ${{ inputs.tag }}
+        run: |
+          SAFE="${TAG//\//-}"
+          SAFE="${SAFE//:/-}"
+          for ext in pdf epub docx; do
+            mv "Cuoi-Vo-Bung.${ext}" "Cuoi-Vo-Bung-${SAFE}.${ext}"
+          done
+          ls -la "Cuoi-Vo-Bung-${SAFE}".*
+          echo "safe=${SAFE}" >> "$GITHUB_OUTPUT"
+
       - name: Tạo GitHub Release và đính kèm PDF, EPUB, DOCX
         uses: softprops/action-gh-release@v2
         with:
@@ -66,8 +80,8 @@ jobs:
           generate_release_notes: true
           fail_on_unmatched_files: true
           files: |
-            Cuoi-Vo-Bung.pdf
-            Cuoi-Vo-Bung.epub
-            Cuoi-Vo-Bung.docx
+            Cuoi-Vo-Bung-${{ steps.asset.outputs.safe }}.pdf
+            Cuoi-Vo-Bung-${{ steps.asset.outputs.safe }}.epub
+            Cuoi-Vo-Bung-${{ steps.asset.outputs.safe }}.docx
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

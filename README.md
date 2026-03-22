@@ -58,7 +58,7 @@ bash scripts/export.sh
 
 ### Release trên GitHub
 
-Vào **Actions** → workflow **Release sách (PDF / EPUB / DOCX)** → **Run workflow**: nhập **tag** (vd: `v1.0.0`), tùy chọn tiêu đề / draft / prerelease. Workflow sẽ build và đính kèm `Cuoi-Vo-Bung.pdf`, `.epub`, `.docx` vào trang **Releases** của repo (cần quyền ghi nội dung).
+Vào **Actions** → workflow **Release sách (PDF / EPUB / DOCX)** → **Run workflow**: nhập **tag** (vd: `v1.0.0`), tùy chọn tiêu đề / draft / prerelease. Workflow sẽ build và đính kèm các file có tên theo tag, ví dụ `Cuoi-Vo-Bung-v1.0.0.pdf` (và `.epub`, `.docx`) vào trang **Releases** của repo (cần quyền ghi nội dung).
 
 ## 📝 Đóng Góp
 
