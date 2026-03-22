@@ -415,6 +415,4 @@ Người Úc dùng "No worries" cho MỌI tình huống. Nếu ngày nào đó k
 
 ---
 
----
-
 📊 **Thống kê chương:** 18 truyện | Điểm trung bình: 34.3/40 | Truyện ⭐: 11
