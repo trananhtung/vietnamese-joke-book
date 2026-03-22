@@ -2,6 +2,22 @@
 
 ---
 
+## Chương 13: Truyện Cười Bắc Âu — Ngày 2026-03-22
+
+### 1. Hướng dẫn sử dụng thang máy Phần Lan (29/40) ❌
+**Lý do loại:** Tình huống "đứng im trong thang máy" hơi đơn giản, thiếu twist bất ngờ. Punchline không đủ mạnh để kể lại.
+
+### 2. Người Thụy Điển và đồ nội thất (28/40) ❌
+**Lý do loại:** Trùng ý tưởng với truyện IKEA đã chọn. Punchline yếu hơn, không thêm giá trị mới.
+
+### 3. Viking hiện đại (27/40) ❌
+**Lý do loại:** Cần kiến thức về lịch sử Viking mà người Việt ít quen. Tính "phù hợp VN" thấp, khó liên hệ.
+
+### 4. Phần Lan vs Estonia (25/40) ❌
+**Lý do loại:** Truyện dựa trên quan hệ Phần Lan-Estonia mà người Việt không nắm. Thiếu context, punchline không chuyển được.
+
+---
+
 ## Chương 05: Truyện Cười Nga — Ngày 2026-03-22
 
 ### 1. Cảnh sát giao thông Nga (29/40) ❌

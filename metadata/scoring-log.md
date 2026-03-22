@@ -2,6 +2,42 @@
 
 ---
 
+## Chương 13: Truyện Cười Bắc Âu — Ngày 2026-03-22
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Hai người Phần Lan đi nhậu | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 2 | Sauna ngoại giao | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 3 | Na Uy và Thụy Điển đi câu cá | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 4 | Phần Lan và nghệ thuật giao tiếp | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 5 | Người Đan Mạch giải thích hygge | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 6 | Ba nước Bắc Âu thi im lặng | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 7 | Thụy Điển vs Na Uy: Biên giới | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 8 | Mùa đông Bắc Âu qua các giai đoạn | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 9 | Người Phần Lan hẹn hò | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 10 | Người Đan Mạch và thuế | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 11 | Tại sao người Na Uy giàu | 8 | 8 | 9 | 9 | 34 | ✅ |
+| 12 | Sauna Phần Lan và du khách Nhật | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 13 | Mùa hè Bắc Âu | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 14 | Thi uống rượu giữa các nước Bắc Âu | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 15 | Lái xe ở Na Uy mùa đông | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 16 | Người Thụy Điển lắp tủ IKEA | 8 | 8 | 8 | 7 | 31 | ✅ |
+| 17 | Đan Mạch và xe đạp | 8 | 8 | 8 | 7 | 31 | ✅ |
+| 18 | Cách người Bắc Âu thể hiện tình cảm | 8 | 8 | 7 | 7 | 30 | ✅ |
+| 19 | Hướng dẫn sử dụng thang máy Phần Lan | 7 | 7 | 8 | 7 | 29 | ❌ |
+| 20 | Người Thụy Điển và đồ nội thất | 7 | 7 | 7 | 7 | 28 | ❌ |
+| 21 | Viking hiện đại | 7 | 6 | 8 | 6 | 27 | ❌ |
+| 22 | Phần Lan vs Estonia | 6 | 6 | 7 | 6 | 25 | ❌ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 22
+- **Đạt (≥ 30):** 18 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 8 truyện
+- **Loại ❌ (< 30):** 4 truyện
+- **Điểm trung bình (truyện đạt):** 33.8/40
+
+---
+
 ## Chương 05: Truyện Cười Nga — Ngày 2026-03-22
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
