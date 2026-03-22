@@ -55,3 +55,12 @@
 - 6 truyện hay đặc biệt ⭐ (≥ 35 điểm)
 - Điểm trung bình truyện đạt: 33.6/40
 - Chi tiết xem scoring-log.md
+
+### Chương 04: Truyện Cười Đức
+- Tổng hợp và Việt hóa 16 truyện cười phong cách Đức (kỷ luật, đúng giờ, logic cứng nhắc, quy tắc, German efficiency)
+- Chủ đề chính: đúng giờ, xếp hàng, luật lệ, bia, bảo hiểm, meta joke về humor Đức
+- Chấm điểm 20 truyện: 16 đạt, 4 loại
+- 7 truyện hay đặc biệt ⭐ (≥ 35 điểm)
+- Điểm trung bình truyện đạt: 33.8/40
+- Tạo metadata/scoring-log.md và rejected/rejected-log.md
+- Chi tiết xem scoring-log.md
