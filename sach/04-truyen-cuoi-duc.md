@@ -370,6 +370,4 @@ Khán giả cười to hơn.
 
 ---
 
----
-
 📊 **Thống kê chương:** 16 truyện | Điểm trung bình: 33.8/40 | Truyện ⭐: 7
