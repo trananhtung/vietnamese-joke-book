@@ -1,5 +1,14 @@
 # Nhật Ký Thay Đổi - CƯỜI VỠ BỤNG
 
+## Ngày 5 - 2026-03-22
+
+### Build & export (issue #26)
+- Thêm `scripts/build-book.sh`: ghép `sach/*.md` theo thứ tự 00 → 01–17 → 99 → `full-book.md`, chèn `\newpage` giữa các chương (PDF qua xelatex)
+- Thêm `scripts/export.sh`: PDF (Noto Sans, margin 1in, TOC depth 2), EPUB (metadata title/author, TOC depth 2), DOCX
+- `kich-ban/*.sh` ủy quyền sang `scripts/`; README cập nhật hướng dẫn và phụ thuộc
+- GitHub Actions **Release sách (PDF / EPUB / DOCX)** (`workflow_dispatch`): build trên Ubuntu, tạo Release và đính kèm `Cuoi-Vo-Bung-<tag>.{pdf,epub,docx}` (tên file theo phiên bản/tag)
+- **`metadata/scoring-log.md`**: bổ sung hướng dẫn chấm điểm, sắp xếp chương 01–05, 13, 15; chuẩn hóa `rejected/` và link `rejected/rejected-log.md`
+
 ## Ngày 4 - 2026-03-22
 
 ### Chương 15: Truyện Cười Úc & New Zealand
