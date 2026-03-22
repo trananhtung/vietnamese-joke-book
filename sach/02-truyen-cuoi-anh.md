@@ -4,127 +4,159 @@
 
 ## Về nền hài kịch Anh
 
-Người Anh nổi tiếng với lối hài "dry humor" — khô khan, nhẹ nhàng nhưng sâu cay. Họ tự giễu mình, châm biếm xã hội bằng giọng điềm tĩnh nhất có thể. Truyện cười Anh thường xoay quanh thời tiết xấu, trà, xếp hàng, sự lịch sự thái quá, và phong cách "quý ông" đặc trưng — nói điều cay đắng nhất bằng giọng bình thản nhất.
+Người Anh nổi tiếng với lối hài "dry humor" — khô khan, nhẹ nhàng nhưng sâu cay đến tận xương. Họ tự giễu mình, châm biếm xã hội bằng cái giọng bình thản nhất quả đất. Truyện cười Anh xoay quanh thời tiết xấu, trà, xếp hàng, sự lịch sự thái quá, và phong cách "quý ông" — nói điều cay đắng nhất bằng giọng nhẹ tênh nhất. Đọc xong phải nghĩ một giây mới thấm.
 
 ---
 
-### 1. Quý ông trên tàu Titanic
+### 1. Quý ông trên tàu Titanic 🚢
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
-Khi tàu Titanic đang chìm, một quý ông người Anh bình tĩnh nhấp trà và nói với người bên cạnh:
+Tàu Titanic đang chìm, hành khách la hét chạy tán loạn. Giữa đám hỗn loạn, một quý ông người Anh ngồi yên tại chỗ, tỉnh bơ nhấp trà rồi quay sang bác ngồi cạnh, phán:
 
-— Tôi có gọi nước đá, nhưng đây là hơi quá rồi.
+— Tôi có gọi nước đá, nhưng kiểu này là hơi quá rồi 🧊
 
-> 💡 *Hài dry humor kinh điển: giữa thảm họa chết người, quý ông Anh vẫn bình tĩnh pha trò chơi chữ "nước đá" — biến bi kịch thành câu đùa nhẹ tênh.*
+> 😂💬 *Tàu đang chìm vì đâm băng mà ổng vẫn ngồi tỉnh queo pha trò chơi chữ "nước đá" — biến thảm họa thế kỷ thành lời phàn nàn về dịch vụ nhà hàng. Trời đánh tránh bữa ăn, quý ông Anh thì trời đánh cũng tránh giờ trà. Nếu là người Việt thì kêu "Chết mẹ rồi!" từ lâu 💀*
 
 ---
 
-### 2. Dự báo thời tiết
+### 2. Dự báo thời tiết 🌧️
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
+
+Một bác du khách hỏi ông người Anh:
 
 — Mùa hè ở nước Anh thế nào?
 
+Ổng tỉnh bơ:
+
 — Ồ, đó là ngày đẹp nhất trong năm.
 
-— Ngày? Ý anh là mùa chứ?
+— Ngày? Ý anh là MÙA chứ?
 
-— Không, tôi nói đúng rồi. Ngày.
+— Không, tôi nói đúng rồi. Ngày. Một ngày duy nhất 😐
 
-> 💡 *Tự châm biếm thời tiết Anh: "mùa hè" chỉ có đúng một ngày đẹp trời — phóng đại đến mức vô lý nhưng ai cũng biết nước Anh mưa quanh năm.*
+— Vậy... ngày đó năm nay rơi vào khi nào?
+
+— Chưa biết. Nhưng năm ngoái là thứ Tư, tuần thứ hai tháng Bảy, từ 2 giờ chiều đến 4 giờ chiều.
+
+> 😂💬 *"Mùa hè" = đúng 2 tiếng vào một buổi chiều thứ Tư! Phóng đại đến mức absurd nhưng ai từng ở Anh đều gật gù — mưa quanh năm là chuyện thường. Dân Sài Gòn nghe xong chắc thương: ở đây nắng 300 ngày mà còn than nóng, người Anh mà nghe được chắc muốn xỉu 🤣*
 
 ---
 
-### 3. Xếp hàng
+### 3. Xếp hàng 🚶‍♂️
 
 > 🌍 Nguồn gốc: Anh | Điểm: 33/40
 
-Một du khách hỏi người Anh:
+Du khách hỏi một ông người Anh:
 
 — Tại sao người Anh thích xếp hàng đến vậy?
 
-— Thật ra chúng tôi không thích. Nhưng nếu thấy một hàng người đang đứng, bản năng bắt chúng tôi phải đứng vào. Hôm qua tôi xếp hàng 20 phút mới phát hiện đó là hàng chờ xe buýt... mà tôi đi ô tô.
+Ổng nhíu mày:
 
-> 💡 *Châm biếm "bản năng xếp hàng" của người Anh — thấy hàng là đứng vào, không cần biết để làm gì. Twist cuối hoàn toàn vô lý nhưng rất đúng stereotype.*
+— Thật ra chúng tôi không thích. Nhưng thấy một hàng người đang đứng thì bản năng bắt phải đứng vào. Hôm qua tôi xếp hàng 20 phút mới phát hiện đó là hàng chờ xe buýt...
+
+— Rồi sao?
+
+— Tôi đi ô tô 😅
+
+— Vậy ông bỏ đi chứ?
+
+— Không, tôi đứng hết hàng rồi mới đi. Bỏ giữa chừng thì mất lịch sự.
+
+> 😂💬 *"Bản năng xếp hàng" — thấy hàng là đứng vào, biết sai rồi vẫn đứng cho xong vì... bỏ giữa chừng mất lịch sự! Giống mấy bác Việt Nam thấy quán đông là chen vào, hỏi "bán gì?" sau. Khác ở chỗ: người Việt chen vào, người Anh xếp hàng chờ — nhưng cả hai đều không biết mình đang chờ cái gì 🤦*
 
 ---
 
-### 4. Phong cách xin lỗi
+### 4. Phong cách xin lỗi 🙇
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 36/40
 
 Ở Anh, nếu ai đó giẫm lên chân bạn, bạn sẽ là người nói "Xin lỗi."
 
-Một ông người Anh bị người khác đâm sầm vào, làm đổ cà phê lên áo. Ông ta nói:
+Một bác người Anh đang đi trên phố thì bị một ông khác đâm sầm vào, làm đổ nguyên ly cà phê lên áo sơ mi trắng tinh. Ổng nhìn xuống cái áo ướt nhẹp, rồi quay sang ông kia, mặt lạnh như tiền:
 
-— Xin lỗi anh, áo tôi đã làm bẩn giày anh.
+— Xin lỗi anh, áo tôi đã làm bẩn giày anh 😳
 
-> 💡 *Đảo ngược hoàn toàn logic: người bị hại lại xin lỗi người gây hại — châm biếm sự lịch sự thái quá đến mức phi lý của người Anh.*
-
----
-
-### 5. Trà hay cà phê
-
-> 🌍 Nguồn gốc: Anh | Điểm: 32/40
-
-Một người Anh bị bắt cóc. Kẻ bắt cóc gọi điện đòi tiền chuộc:
-
-— Chúng tôi có con tin của ông. Ông có muốn nói chuyện với ông ấy không?
-
-Người nhà:
-
-— Được.
-
-Con tin cầm điện thoại:
-
-— Mình ơi, anh ổn. Chỗ này cũng tạm được. Nhưng mà... bọn nó cho anh uống cà phê. Trả tiền chuộc nhanh nhanh giùm anh.
-
-> 💡 *Thứ tự ưu tiên bất ngờ: bị bắt cóc không sao, nhưng phải uống cà phê thay vì trà mới là "tra tấn" thực sự đối với người Anh.*
+> 😂💬 *Bị đâm, bị đổ cà phê, mà lại xin lỗi vì áo mình "làm bẩn giày" người gây ra. Đảo ngược logic hoàn toàn — nạn nhân xin lỗi thủ phạm. Ở Việt Nam mà thế này chắc bị gọi là "hiền quá hóa dại." Nhưng ở Anh, đây là nghệ thuật sống 💀*
 
 ---
 
-### 6. Câu cá ở sông Thames
-
-> 🌍 Nguồn gốc: Anh | Điểm: 32/40
-
-Hai ông người Anh ngồi câu cá bên sông Thames. Im lặng suốt 3 tiếng.
-
-Ông thứ nhất: "Hôm nay trời đẹp nhỉ."
-
-Ông thứ hai: "Tôi ra đây câu cá, không phải để nói chuyện."
-
-> 💡 *Châm biếm tính trầm lặng cực đoan của người Anh: 3 tiếng im lặng là bình thường, một câu xã giao lại bị coi là "quá nhiều chuyện".*
-
----
-
-### 7. Nha sĩ lịch sự
+### 5. Trà hay cà phê ☕
 
 > 🌍 Nguồn gốc: Anh | Điểm: 33/40
 
-Bệnh nhân người Anh đến nha sĩ:
+Một bác người Anh bị bắt cóc. Bọn bắt cóc gọi điện cho gia đình đòi tiền chuộc:
 
-— Bác sĩ, tôi bị đau răng kinh khủng.
+— Chúng tôi có con tin của ông. Ông có muốn nói chuyện với ổng không?
+
+Bà vợ:
+
+— Được.
+
+Bác con tin cầm điện thoại, giọng bình tĩnh:
+
+— Mình ơi, anh ổn. Chỗ này cũng tạm. Bọn nó cho anh ăn đầy đủ, phòng cũng sạch sẽ. Nhưng mà...
+
+— Nhưng mà sao?!
+
+— Bọn nó cho anh uống CÀ PHÊ 😨 Trả tiền chuộc nhanh giùm anh. Anh chịu không nổi nữa rồi!
+
+> 😂💬 *Bị bắt cóc — kệ. Phòng giam — chấp nhận. Nhưng phải uống cà phê thay vì trà? KHÔNG THỂ CHẤP NHẬN! Thứ tự ưu tiên: tính mạng thì thây kệ, trà mới là sống còn. Giống dân Hà Nội mà bắt uống cà phê hòa tan thay vì cà phê phin — cũng đòi "cứu" y vậy 🍵*
+
+---
+
+### 6. Câu cá ở sông Thames 🎣
+
+> 🌍 Nguồn gốc: Anh | Điểm: 32/40
+
+Hai ông người Anh rủ nhau ra sông Thames câu cá. Ngồi cạnh nhau, im lặng suốt 3 tiếng đồng hồ. Không ai nói một lời.
+
+Đến tiếng thứ tư, ông thứ nhất mở miệng:
+
+— Hôm nay trời đẹp nhỉ.
+
+Ông thứ hai liếc sang, mặt khó chịu:
+
+— Tôi ra đây câu cá, không phải để tám chuyện 😐
+
+Rồi im lặng tiếp... 3 tiếng nữa.
+
+> 😂💬 *4 tiếng im re là bình thường, một câu xã giao bị coi là "tám chuyện." Tối giản giao tiếp đến cực đoan — ở Việt Nam mà đi câu cá, chưa thả cần đã kể hết chuyện vợ con, hàng xóm, và thời sự rồi. Hai ông Anh này mà câu cá ở Việt Nam chắc bị tưởng là... câm 🤣*
+
+---
+
+### 7. Nha sĩ lịch sự 🦷
+
+> 🌍 Nguồn gốc: Anh | Điểm: 33/40
+
+Một bác người Anh nhăn nhó đi vào phòng nha:
+
+— Bác sĩ ơi, tôi bị đau răng kinh khủng!
+
+Bác sĩ gật gù:
 
 — Ông uống trà nóng có đau không?
 
-— Có ạ.
+— Đau lắm ạ.
 
 — Uống trà lạnh?
 
 — Cũng đau.
 
-— Vậy ông thử uống trà ấm xem.
+— Vậy thử uống trà ấm xem.
 
-— ...Bác sĩ, đó có phải là lời khuyên y khoa không?
+Bác nhìn bác sĩ, đứng hình:
 
-— Không, đó là lời khuyên pha trà.
+— ...Bác sĩ, đó có phải là lời khuyên y khoa không? 🤨
 
-> 💡 *Mâu thuẫn vai trò: nha sĩ thay vì chữa răng lại tư vấn cách uống trà — vì với người Anh, trà quan trọng hơn sức khỏe răng miệng.*
+— Không, đó là lời khuyên pha trà. Còn răng thì... ông uống trà ấm rồi sẽ quên đau thôi.
+
+> 😂💬 *Nha sĩ quên mất mình là nha sĩ — tư vấn nhiệt độ trà thay vì chữa răng! Với người Anh, mọi con đường đều dẫn về trà. Giống bà ngoại Việt Nam: đau đầu — bôi dầu gió, đau bụng — bôi dầu gió, gãy chân — cũng bôi dầu gió. Vạn bệnh quy nhất dược 🔥*
 
 ---
 
-### 8. Lịch sự trên xe buýt
+### 8. Lịch sự trên xe buýt 🚌
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
@@ -136,111 +168,137 @@ Trên xe buýt ở London, một bà cụ đứng mà không ai nhường ghế.
 
 — Không có gì, tôi xuống trạm sau rồi.
 
-Bà cụ ngồi xuống. Xe chạy qua 5 trạm, ông vẫn đứng đó.
+Bà cụ ngồi xuống. Xe chạy qua 5 trạm, ổng vẫn đứng đó, mặt không biến sắc 😬
 
 — Ông ơi, ông bảo xuống trạm sau mà?
 
-— Vâng, nhưng tôi nói vậy cho lịch sự thôi. Trạm tôi xuống còn 8 trạm nữa. Mà nói ra thì mất lịch sự.
+Ổng hắng giọng:
 
-> 💡 *Lịch sự đến mức tự hại mình: nhường ghế rồi nói dối "xuống trạm sau" để không ai áy náy, rồi đứng thêm 8 trạm vì... sửa lời cũng mất lịch sự.*
+— Vâng, nhưng tôi nói vậy cho lịch sự thôi. Trạm tôi xuống còn 8 trạm nữa. Mà nói ra thì... mất lịch sự.
 
----
+— Vậy ông cứ đứng à?
 
-### 9. Di chúc quý ông
+— Chứ biết sao giờ. Sửa lời cũng mất lịch sự, ngồi xuống cũng mất lịch sự. Thôi đứng cho chắc.
 
-> 🌍 Nguồn gốc: Anh | Điểm: 33/40
-
-Một quý ông người Anh nằm trên giường bệnh, gọi luật sư đến viết di chúc:
-
-— Tôi để lại toàn bộ tài sản cho vợ tôi... với điều kiện bà ấy tái hôn trong vòng một năm.
-
-— Tại sao vậy, thưa ông?
-
-— Vì tôi muốn ít nhất có một người đàn ông trên đời này hối hận vì cái chết của tôi.
-
-> 💡 *Twist cay đắng kiểu Anh: tưởng là lãng mạn để lại tài sản cho vợ, hóa ra là "trả thù" người chồng mới bằng chính bà vợ — hài đen rất tinh tế.*
+> 😂💬 *Lịch sự đến mức tự gài bẫy mình: nhường ghế → nói dối "xuống trạm sau" → bị kẹt đứng thêm 8 trạm vì sửa lời cũng mất lịch sự. Vòng xoáy lễ phép không lối thoát! Ở Việt Nam thì đơn giản hơn: nhường ghế xong nói thẳng "tôi xuống xa lắm" — thà thật thà còn hơn đau chân 🤣*
 
 ---
 
-### 10. Hàng xóm người Anh
+### 9. Di chúc quý ông 📜
+
+> 🌍 Nguồn gốc: Anh | Điểm: 34/40
+
+Một quý ông người Anh nằm trên giường bệnh, thều thào gọi luật sư đến viết di chúc:
+
+— Tôi để lại toàn bộ tài sản cho vợ tôi...
+
+Luật sư gật gù, cảm động.
+
+— ...với điều kiện bà ấy phải tái hôn trong vòng một năm.
+
+Luật sư ngạc nhiên:
+
+— Thưa ông, tại sao lại có điều kiện này?
+
+Ổng mỉm cười, mắt lấp lánh:
+
+— Vì tôi muốn ít nhất có một người đàn ông trên đời này... hối hận vì cái chết của tôi 😏
+
+> 😂💬 *Tưởng lãng mạn để lại tài sản cho vợ, hóa ra là đòn "trả thù" từ cõi âm: ép vợ tái hôn để người chồng mới phải sống với bà ấy. Hài đen tinh tế, cay đắng mà vẫn sang. Mấy ông chồng Việt Nam nghe xong chắc vỗ đùi: "Hay! Ghi vào di chúc luôn!" 💀*
+
+---
+
+### 10. Hàng xóm người Anh 🏠
 
 > 🌍 Nguồn gốc: Anh | Điểm: 32/40
 
-Hai người Anh sống cạnh nhau 20 năm. Mỗi sáng gặp nhau đều gật đầu chào. Không nói gì thêm.
+Hai ông người Anh sống cạnh nhau 20 năm. Mỗi sáng gặp nhau ngoài cổng, gật đầu chào. Không nói một lời. Suốt 20 năm.
 
-Năm thứ 21, một người nói:
+Năm thứ 21, ông bên trái bỗng mở miệng:
 
 — Chào buổi sáng.
 
-Người kia nghĩ bụng: "Ông này hôm nay sao nhiều chuyện thế!"
+Ông bên phải đứng hình 😳 Về nhà bảo vợ:
 
-> 💡 *Phóng đại tính dè dặt: 20 năm chỉ gật đầu đã là "thân thiết", nói thêm hai từ "chào buổi sáng" đã bị coi là "nhiều chuyện" — tối giản giao tiếp đến cực đoan.*
+— Bà ơi, ông Smith hôm nay nhiều chuyện quá! Nói cả một câu luôn! Chắc ổng có vấn đề gì rồi.
+
+> 😂💬 *20 năm gật đầu đã là "thân thiết", nói thêm hai từ bị coi là "nhiều chuyện" — còn về kể vợ nghe vì quá sốc! Ở Việt Nam thì ngược lại 180 độ: hàng xóm dọn đến chưa kịp bê đồ đã bị hỏi "làm nghề gì, lương bao nhiêu, lấy vợ chưa." Hai cực của nhân loại 🤣*
 
 ---
 
-### 11. Thang máy ở London
+### 11. Thang máy ở London 🛗
 
-> 🌍 Nguồn gốc: Anh | Điểm: 32/40
+> 🌍 Nguồn gốc: Anh | Điểm: 33/40
 
-Trong thang máy ở London, có 5 người đứng im lặng. Thang máy bị kẹt.
+Thang máy một tòa nhà ở London bị kẹt. Bên trong có 5 người, đứng im thin thít.
 
 30 phút trôi qua. Im lặng.
 
 1 tiếng trôi qua. Im lặng.
 
-2 tiếng sau, một người lên tiếng:
+2 tiếng. Vẫn im lặng.
 
-— Chắc mình nên gọi ai đó nhỉ?
+Cuối cùng, một anh chàng trẻ rụt rè lên tiếng:
 
-Bốn người còn lại nhìn anh ta như thể anh vừa hét vào mặt họ giữa thư viện.
+— Ờ... chắc mình nên gọi ai đó nhỉ?
 
-— Anh bạn, bình tĩnh. Mới có 2 tiếng thôi mà.
+Bốn người còn lại đồng loạt quay sang nhìn anh ta, mắt mở to như thể anh vừa hét giữa thư viện 😳
 
-> 💡 *Đảo ngược phản ứng: tình huống khẩn cấp nhưng người đề nghị gọi cứu hộ lại bị coi là "hoảng loạn" — vì người Anh coi việc không phàn nàn là mỹ đức tối thượng.*
+Một ông lớn tuổi chậm rãi:
+
+— Anh bạn, bình tĩnh. Mới có 2 tiếng thôi mà. Hoảng loạn cái gì.
+
+> 😂💬 *Kẹt thang máy 2 tiếng mà đề nghị gọi cứu hộ bị coi là "hoảng loạn"! Người Anh coi việc không phàn nàn là mỹ đức tối thượng — chết trong im lặng vẫn hơn mở miệng kêu cứu. Ở Việt Nam mà kẹt thang máy 2 PHÚT thì đã livestream, gọi 114, tag báo chí, lên trend TikTok rồi 📱*
 
 ---
 
-### 12. Chó của quý ông
+### 12. Chó của quý ông 🐕
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
-Một quý ông người Anh dắt chó đi dạo. Người qua đường hỏi:
+Một quý ông người Anh đang dắt chó đi dạo trong công viên. Bác đi đường thấy con chó dễ thương, lại gần hỏi:
 
 — Con chó của ông có cắn không?
 
+Ổng tỉnh bơ:
+
 — Không.
 
-Người đó vuốt con chó, bị cắn ngay.
+Bác kia yên tâm, cúi xuống vuốt ve. Con chó ngoạm một phát 😱
 
-— Ông nói con chó không cắn mà!
+— Trời ơi! Ông nói con chó không cắn mà!
 
-— Đúng vậy. Con chó của tôi không cắn. Nhưng đây không phải con chó của tôi.
+Ổng vẫn mặt lạnh như tiền:
 
-> 💡 *Logic đúng mà sai: câu trả lời hoàn toàn chính xác về mặt kỹ thuật nhưng cố tình gây hiểu lầm — kiểu hài "technically correct" rất đặc trưng Anh.*
+— Đúng vậy. Con chó CỦA TÔI không cắn. Nhưng đây không phải con chó của tôi.
+
+> 😂💬 *"Technically correct" — câu trả lời đúng 100% về mặt ngữ pháp nhưng sai 100% về mặt đạo đức. Ổng trả lời chính xác từng chữ mà vẫn để người ta bị cắn. Logic kiểu này mà áp dụng ở Việt Nam chắc bị phang dép vào mặt, không cần hỏi con chó của ai 🤣*
 
 ---
 
-### 13. Quý ông gặp cướp
+### 13. Quý ông gặp cướp 💰
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
-Một quý ông người Anh bị cướp chặn đường giữa đêm:
+Đêm khuya ở London, một quý ông đang đi bộ về nhà thì bị tên cướp chặn đường, rút dao:
 
 — Đưa hết tiền đây!
 
-Quý ông bình tĩnh móc ví, lấy ra tờ 50 bảng rồi nói:
+Ổng tỉnh bơ như không, từ từ móc ví ra, lấy tờ 50 bảng đưa cho tên cướp:
 
-— Đây, nhưng xin anh cho tôi lại 10 bảng. Tôi còn phải bắt taxi về nhà.
+— Đây. Nhưng xin anh cho tôi lại 10 bảng — tôi còn phải bắt taxi về nhà.
 
 Tên cướp ngạc nhiên quá, thối lại 10 bảng.
 
-— Cảm ơn. À, anh có cần biên lai không? Để tôi khai thuế cho tiện.
+— Cảm ơn anh. À, anh có cần biên lai không? Để tôi khai thuế cho tiện 🧾
 
-> 💡 *Bình tĩnh đến phi lý: bị cướp mà vẫn mặc cả, xin tiền lẻ, và hỏi biên lai — biến tình huống nguy hiểm thành giao dịch lịch sự kiểu quý ông.*
+Tên cướp đứng hình...
+
+> 😂💬 *Bị cướp mà vẫn mặc cả, xin tiền thối, rồi hỏi biên lai để khai thuế — biến vụ cướp thành giao dịch tài chính có hóa đơn! Tên cướp chắc về nhà suy nghĩ lại nghề nghiệp. Kiểu "ăn cơm nhà vác tù và hàng tổng" phiên bản cướp: cướp xong còn phải lo giấy tờ cho nạn nhân 🔥*
 
 ---
 
-### 14. Phỏng vấn kiểu Anh
+### 14. Phỏng vấn kiểu Anh 💼
 
 > 🌍 Nguồn gốc: Anh | Điểm: 33/40
 
@@ -252,117 +310,143 @@ Nhà tuyển dụng người Anh hỏi ứng viên:
 
 — Cho tôi một ví dụ.
 
-— Tôi đã ngồi chờ ở phòng đợi 3 tiếng mà không phàn nàn.
+— Tôi đã ngồi chờ ở phòng đợi 3 tiếng mà không phàn nàn một lời.
 
 — Nhưng cuộc phỏng vấn bắt đầu đúng giờ mà?
 
-— Tôi biết. Tôi đến sớm 3 tiếng để chắc chắn.
+Ổng tỉnh bơ:
 
-> 💡 *Kiên nhẫn hay ám ảnh? "Điểm mạnh" kiên nhẫn được chứng minh bằng hành động... cực đoan quá mức cần thiết, biến ưu điểm thành điều buồn cười.*
+— Tôi biết. Tôi đến sớm 3 tiếng. Để chắc chắn 😊
 
----
+— ...Vậy 3 tiếng đó anh làm gì?
 
-### 15. Taxi ở London
+— Ngồi. Im lặng. Kiên nhẫn mà. Tôi còn đếm được có 847 ô gạch trên trần nhà.
 
-> 🌍 Nguồn gốc: Anh | Điểm: 32/40
-
-Du khách lên taxi ở London:
-
-— Cho tôi đến chỗ nào có thể ăn ngon, uống vui, và gặp gái đẹp!
-
-Tài xế:
-
-— Ông nên ra khỏi nước Anh.
-
-> 💡 *Tự giễu quốc gia mình: tài xế thành thật đến tàn nhẫn — nước Anh thiếu tất cả những gì du khách muốn, và họ tự biết điều đó.*
+> 😂💬 *Đến sớm 3 tiếng rồi ngồi im đếm gạch trên trần — ranh giới giữa "kiên nhẫn" và "cần gặp bác sĩ tâm thần" mỏng lắm. Nhưng ở Anh thì đây là ưu điểm thật: khả năng chịu đựng sự nhàm chán mà không phàn nàn = nhân tài quốc gia 🤣*
 
 ---
 
-### 16. Quý ông và cơn mưa
+### 15. Taxi ở London 🚕
 
 > 🌍 Nguồn gốc: Anh | Điểm: 32/40
 
-Mưa tầm tã ở London. Một quý ông đi bộ giữa mưa không có ô. Người đi đường hỏi:
+Du khách lên taxi ở London, hào hứng:
+
+— Bác tài ơi, cho tôi đến chỗ nào có thể ăn ngon, uống vui, và gặp gái đẹp!
+
+Bác tài xế người Anh im lặng một lúc, rồi tỉnh bơ phán:
+
+— Ông nên ra khỏi nước Anh 🙂
+
+— Hả?! Ý bác là...?
+
+— Tôi nói nghiêm túc đó. Ăn ngon thì qua Pháp, uống vui thì qua Đức, gái đẹp thì qua Ý. Nước Anh chỉ có mưa, trà, và xếp hàng thôi ông ạ.
+
+> 😂💬 *Tự giễu quốc gia mình không chút ngượng mồm: nước Anh chỉ có 3 thứ — mưa, trà, xếp hàng. Tài xế thành thật đến mức tàn nhẫn, nhưng đó mới là tinh thần "self-deprecating" chuẩn Anh. Tự chê mình trước, ai chê cũng không đau! Dân Sài Gòn mà hỏi bác xe ôm cũng sẽ được nghe: "Ở đây có kẹt xe với ngập nước thôi ông" 💀*
+
+---
+
+### 16. Quý ông và cơn mưa ☔
+
+> 🌍 Nguồn gốc: Anh | Điểm: 32/40
+
+Mưa tầm tã ở London. Một quý ông đi bộ giữa mưa, ướt như chuột lột. Bác đi đường thấy thương, gọi:
 
 — Ông ơi, sao không mang ô?
 
+Ổng tỉnh bơ:
+
 — Tôi có mang.
 
-— Ô đâu?
+— Ủa? Ô đâu?
 
-— Ở nhà. Trời mưa thế này mang ô ra ngoài, lỡ hỏng thì sao?
+— Ở nhà. Trời mưa thế này mà mang ô ra ngoài, lỡ hỏng thì sao? 🤷
 
-> 💡 *Logic ngược đời: mua ô để che mưa nhưng lại sợ mưa làm hỏng ô — trân trọng đồ vật hơn bản thân, rất "tiết kiệm kiểu Anh".*
+— ...Vậy mua ô để làm gì?
 
----
+— Để trong nhà cho đẹp. Nó hợp với cái kệ trong phòng khách lắm.
 
-### 17. Quý ông mất ví
-
-> 🌍 Nguồn gốc: Anh | Điểm: 32/40
-
-Một quý ông người Anh phát hiện bị mất ví trên tàu điện ngầm. Ông đứng dậy, hắng giọng lịch sự:
-
-— Thưa quý vị, tôi vừa mất chiếc ví chứa 500 bảng. Nếu ai tìm thấy, tôi xin biếu 50 bảng cảm ơn.
-
-Một giọng nói từ cuối toa:
-
-— Tôi biếu 100!
-
-> 💡 *Twist bất ngờ: tên trộm ngồi ngay trong toa, nghe thấy tiền thưởng ít quá nên... trả giá cao hơn — vô tình tự lộ mình là thủ phạm.*
+> 😂💬 *Mua ô để... trưng trong nhà cho đẹp, không phải để che mưa! Trân trọng đồ vật hơn bản thân — "tiết kiệm kiểu Anh" level tối thượng. Giống mấy bà Việt Nam bọc remote TV trong nilon suốt 10 năm: sợ bẩn remote hơn sợ bấm không ăn phím 🤣*
 
 ---
 
-### 18. Người Anh và mặt trời
+### 17. Quý ông mất ví 👛
+
+> 🌍 Nguồn gốc: Anh | Điểm: 33/40
+
+Trên tàu điện ngầm London, một quý ông phát hiện bị mất ví. Ổng đứng dậy, hắng giọng lịch sự:
+
+— Thưa quý vị, tôi vừa mất chiếc ví chứa 500 bảng. Nếu ai tìm thấy, tôi xin biếu 50 bảng tiền cảm ơn.
+
+Im lặng...
+
+Rồi một giọng nói từ cuối toa vọng lại:
+
+— Tôi biếu 100! 😏
+
+> 😂💬 *Tên trộm ngồi ngay trong toa, nghe thấy tiền thưởng ít quá nên... trả giá cao hơn — trộm mà còn mặc cả, tham mà tự lộ! Giống mấy vụ ở Việt Nam trộm xong đăng bán đồ lên Facebook, geolocate đúng nhà mình. Tội phạm thời đại 4.0 💀*
+
+---
+
+### 18. Người Anh và mặt trời ☀️
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
-Tại sao người Anh không bao giờ tức giận với mặt trời?
+— Tại sao người Anh không bao giờ tức giận với mặt trời?
 
-Vì họ hiếm khi gặp mặt.
+— Vì họ hiếm khi gặp mặt.
 
-Nhưng một năm nọ, London nắng được 3 ngày liên tục. Toàn bộ thành phố hỗn loạn: ai cũng mua kem chống nắng, siêu thị hết sạch quạt, và BBC phải phát cảnh báo khẩn: "Xin đừng hoảng loạn. Mặt trời sẽ đi sớm thôi."
+Nhưng một năm nọ, London bỗng nắng được 3 ngày liên tục. Cả thành phố náo loạn: siêu thị hết sạch kem chống nắng, dân tình đổ xô mua quạt, và BBC phải phát cảnh báo khẩn:
 
-> 💡 *Phóng đại đến mức absurd: 3 ngày nắng = thảm họa quốc gia, BBC phát cảnh báo khẩn về... nắng đẹp. Châm biếm nước Anh quá quen với mưa.*
+"Xin quý vị đừng hoảng loạn. Mặt trời sẽ đi sớm thôi. Chúng tôi đã liên hệ với mây rồi." 😂
+
+> 😂💬 *3 ngày nắng = thảm họa quốc gia! BBC phát cảnh báo khẩn về... trời đẹp, và còn "liên hệ với mây" để giải quyết. Trong khi Sài Gòn nắng 38°C cả tháng mà ai cũng bình thường — ở Anh 25°C đã breakdown tập thể. Hai thế giới, hai tiêu chuẩn chịu nắng 🔥*
 
 ---
 
-### 19. Lời cầu hôn kiểu Anh
+### 19. Lời cầu hôn kiểu Anh 💍
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
-Một quý ông người Anh cầu hôn:
+Một quý ông người Anh quỳ gối cầu hôn:
 
 — Em yêu, anh muốn dành phần còn lại của cuộc đời... để phàn nàn về thời tiết cùng em. Em đồng ý không?
 
-— Ôi anh, lãng mạn quá!
+Cô gái rưng rưng:
 
-— Anh cũng đã xin phép mẹ em, bố em, con mèo em, và xếp hàng 3 tháng chờ đến lượt hỏi em.
+— Ôi anh, lãng mạn quá! 🥰
 
-> 💡 *Lãng mạn kiểu Anh = phàn nàn thời tiết cùng nhau. Câu cuối chồng thêm: xin phép cả con mèo và xếp hàng 3 tháng — mọi thứ đều phải theo quy trình.*
+— Anh cũng đã xin phép mẹ em, bố em, con mèo em...
+
+— Anh xin phép cả con mèo?!
+
+— Tất nhiên. Và anh đã xếp hàng 3 tháng chờ đến lượt hỏi em. Trước anh có 7 người, nhưng 6 người bỏ cuộc vì chờ lâu quá.
+
+> 😂💬 *Lãng mạn kiểu Anh = phàn nàn thời tiết cùng nhau đến già. Xin phép cả con mèo, xếp hàng 3 tháng, và 6 người trước đã bỏ cuộc — nghĩa là anh kiên nhẫn nhất trong 7 người theo đuổi. Ở Việt Nam thì khỏi xếp hàng: mẹ vợ tương lai đã điều tra lý lịch, xem tuổi, coi ngày, hỏi lương trước khi anh kịp mở miệng 🤣*
 
 ---
 
-### 20. Đám cháy lịch sự
+### 20. Đám cháy lịch sự 🔥
 
 > 🌍 Nguồn gốc: Anh | Điểm: 34/40
 
-Một tòa nhà ở London bốc cháy. Lính cứu hỏa chạy đến, thấy một quý ông đang đứng trước cửa.
+Một tòa nhà ở London bốc cháy ngùn ngụt. Lính cứu hỏa chạy đến, thấy một quý ông đứng trước cửa, mặt không biến sắc.
 
 — Ông ơi, chạy đi! Nhà cháy rồi!
 
 — Tôi biết.
 
-— Sao ông không chạy?!
+— Sao ông không chạy?! 😰
+
+Ổng tỉnh bơ:
 
 — Tôi đang chờ vợ tôi. Bà ấy dặn: "Đứng đây đợi em, em quay lại ngay." Quý ông nước Anh nói là làm.
 
-— Nhưng nhà cháy rồi!
+— Nhưng nhà cháy rồi ông ơi!
 
-— Vâng, nhưng tôi đã hứa rồi. Với lại đứng đây cũng ấm.
+— Vâng, nhưng tôi đã hứa rồi. Với lại... đứng đây cũng ấm. Mùa đông mà được sưởi miễn phí thế này thì tội gì bỏ đi.
 
-> 💡 *Lịch sự + giữ lời hứa đến mức nguy hiểm tính mạng. Câu chốt "đứng đây cũng ấm" biến bi kịch thành hài — tìm mặt tích cực ngay cả khi nhà đang cháy.*
-
----
+> 😂💬 *Giữ lời hứa đến mức nguy hiểm tính mạng, rồi còn tìm ra mặt tích cực: nhà cháy = sưởi miễn phí! "Trời đánh tránh bữa ăn," quý ông Anh thì trời cháy nhà cũng tránh giờ đợi vợ. Lạc quan hay ngoan cố? Chắc cả hai — và rất Anh 💀*
 
 ---
 

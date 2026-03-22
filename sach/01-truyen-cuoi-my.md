@@ -4,335 +4,421 @@
 
 ## Về nền hài kịch Mỹ
 
-Nước Mỹ là cái nôi của stand-up comedy hiện đại. Truyện cười Mỹ thường ngắn gọn, bất ngờ, và đi thẳng vào "punchline" (câu chốt hạ). Từ những câu one-liner sắc bén đến dad jokes (truyện cười kiểu ông bố), từ truyện tình huống đến truyện nghề nghiệp — phong cách Mỹ luôn đề cao sự nhanh, gọn, và twist bất ngờ ở cuối.
+Nước Mỹ là cái nôi của stand-up comedy hiện đại. Truyện cười Mỹ thường ngắn gọn, đi thẳng vào "punchline" — twist bất ngờ ở cuối mới là linh hồn. Từ những câu one-liner sắc lẹm đến dad jokes kiểu ông bố, từ truyện tình huống vợ chồng đến truyện nghề nghiệp — phong cách Mỹ luôn nhanh, gọn, và đánh úp người nghe khi họ ít ngờ nhất.
 
 ---
 
-### 1. Bác sĩ thông báo
+### 1. Bác sĩ thông báo 🏥
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
 
-Một người đàn ông đến gặp bác sĩ. Bác sĩ nói:
+Anh Tèo đi khám bệnh. Bác sĩ nhìn kết quả xét nghiệm, mặt nghiêm trọng lắm rồi phán:
 
 — Tôi có một tin xấu và một tin rất xấu cho anh.
+
+Tèo nuốt nước bọt:
 
 — Tin xấu là gì, bác sĩ?
 
 — Anh chỉ còn sống được 24 giờ.
 
-— Trời ơi! Thế tin rất xấu là gì?
+Tèo muốn xỉu:
 
-— Tôi đã gọi cho anh từ hôm qua mà anh không nghe máy.
+— Trời ơi! 😳 Vậy tin RẤT xấu là cái gì nữa?!
 
----
+— Tôi gọi cho anh từ hôm qua mà anh không nghe máy.
 
-### 2. Luật sư dưới đáy biển
-
-🌍 Nguồn gốc: Mỹ | Điểm: 33/40
-
-— Bạn gọi một nghìn luật sư dưới đáy biển là gì?
-
-— Là gì?
-
-— Một khởi đầu tốt đẹp.
+> 😂💬 *Tưởng "còn 24 giờ" đã là đỉnh của đau khổ, ai ngờ 24 giờ đó đã bắt đầu từ hôm qua — tức là anh Tèo đã xài hết quota sống rồi mà không biết. Lần duy nhất trong đời mà missed call thật sự "chết người." Bài học: nhớ bắt máy bác sĩ, đừng ấn từ chối rồi nhắn "ai đấy?" 💀*
 
 ---
 
-### 3. Trộm nhầm nhà
+### 2. Trộm nhầm nhà 🦜
 
-🌍 Nguồn gốc: Mỹ | Điểm: 34/40
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
 
-Một tên trộm đột nhập vào nhà nọ giữa đêm. Hắn đang lục lọi thì nghe một giọng nói:
+Một tên trộm đột nhập vào nhà nọ giữa đêm khuya. Hắn đang rón rén lục lọi thì bỗng nghe một giọng nói vang lên từ góc phòng:
 
 — Chúa đang nhìn mày đấy.
 
-Hắn giật mình, bật đèn pin soi quanh. Hóa ra là một con vẹt.
+Hắn đứng hình 😳, bật đèn pin soi quanh. Hóa ra là một con vẹt đang đậu trên cây sào.
 
 — Mày là con vẹt à? Mày tên gì?
 
 — Tao tên Moses.
 
-— Ai lại đặt tên con vẹt là Moses?
+Hắn bật cười:
 
-— Cùng người đặt tên con chó Rottweiler là "Chúa" đó.
+— Hả?! Ai đời đặt tên con vẹt là Moses?
 
----
+Con vẹt tỉnh bơ:
 
-### 4. Đám tang hoàn hảo
+— Cùng ông chủ đặt tên con Rottweiler là "Chúa" đó.
 
-🌍 Nguồn gốc: Mỹ | Điểm: 32/40
+Từ góc bếp vọng ra tiếng gầm gừ...
 
-Ba người bạn đi dự đám tang. Một người hỏi:
-
-— Nếu bạn nằm trong quan tài và mọi người đến viếng, bạn muốn nghe họ nói gì?
-
-Người thứ nhất: "Anh ấy là một bác sĩ tuyệt vời, đã cứu sống hàng nghìn người."
-
-Người thứ hai: "Anh ấy là một người cha, người chồng mẫu mực."
-
-Người thứ ba: "Nhìn kìa, hình như ổng cử động!"
+> 😂💬 *Twist nhiều lớp: tưởng con vẹt dọa chơi, hóa ra nó đang cảnh báo thật — "Chúa" không phải trên trời, mà là con chó 50 ký đang ngồi sau lưng. Tên trộm chưa kịp cười đã hết hồn. Bài học rút ra: trước khi trộm, hỏi thăm xem nhà có nuôi "thánh thần" gì không 🐕*
 
 ---
 
-### 5. Giá của sự thật
+### 3. Vợ chồng già ở bệnh viện 💑
 
-🌍 Nguồn gốc: Mỹ | Điểm: 31/40
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
 
-Một đứa bé hỏi bố:
+Bác Năm nằm viện, bà vợ ngồi cạnh giường, nắm tay rưng rưng. Bác Năm mắt nhắm mắt mở, thều thào:
 
-— Bố ơi, luật sư là gì?
+— Bà ơi... bà luôn ở bên tôi.
 
-— Luật sư là người ta trả tiền để nói thay mình, con à.
+— Dạ, ông ơi... 🥹
 
-— Vậy tại sao mỗi lần luật sư nói xong, bố lại phải trả thêm tiền?
+— Hồi tôi phá sản, bà cũng ở đây.
 
-— Vì sự thật rất đắt, con ạ.
+— Dạ...
 
----
+— Hồi tôi bị tai nạn xe, bà cũng ở đây.
 
-### 6. Gọi món ở nhà hàng
+— Dạ ông...
 
-🌍 Nguồn gốc: Mỹ | Điểm: 34/40
+— Hồi nhà mình bị cháy, bà cũng ở đây.
 
-Một ông khách gọi phục vụ:
+Bà vợ nước mắt lưng tròng:
 
-— Cho tôi một ly cà phê không đường, không sữa.
+— Ông ơi, em luôn bên ông mà...
 
-Phục vụ quay lại sau 5 phút:
+Bác Năm mở mắt, nhìn bà rồi phán:
 
-— Xin lỗi anh, hết sữa rồi. Anh dùng không đường, không kem được không ạ?
+— Bà ơi... tôi nghĩ bà là... sao quả tạ của tôi 😐
 
----
-
-### 7. Ai đó gõ cửa
-
-🌍 Nguồn gốc: Mỹ | Điểm: 29/40
-
-*Cốc cốc.*
-
-— Ai đó?
-
-— Gián.
-
-— Gián nào?
-
-— Gián... đoạn rồi, tôi quên mất câu đùa!
+> 😂💬 *Setup lãng mạn như phim Hàn, ai cũng tưởng ổng sắp tỏ tình cảm động — ai ngờ ổng tổng kết lại thì ra bà vợ là nguồn cơn của mọi thảm họa! Từ "luôn bên anh" thành "sao quả tạ" chỉ trong một giây. Mấy bà vợ Việt Nam nghe xong chắc rút dép liền 🩴💀*
 
 ---
 
-### 8. Chồng ngoan
+### 4. Chồng ngoan 🍺
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
 
-Vợ gọi điện cho chồng:
+Vợ anh Tèo gọi điện cho chồng:
 
-— Anh ơi, em vừa đọc báo thấy nói uống bia nhiều làm giảm trí nhớ.
+— Anh ơi, em vừa đọc báo thấy nói uống bia nhiều làm giảm trí nhớ đó!
 
-— Vậy em nhắn tin đi, anh đang ở quán nhậu, ồn quá không nghe rõ.
+Tèo hét vào điện thoại:
 
-— Anh nói gì? Ở đâu cơ?
+— Hả? Em nhắn tin đi, anh đang ở quán nhậu, ồn quá không nghe rõ!
 
-— À... à... anh đang ở thư viện.
+— Anh nói gì? Ở ĐÂU cơ?! 😳
 
----
+Tèo chợt nhận ra mình vừa lỡ miệng, ấp úng:
 
-### 9. Cá cược trên máy bay
+— À... à... anh đang ở... thư viện!
 
-🌍 Nguồn gốc: Mỹ | Điểm: 32/40
+— Thư viện mà ồn?
 
-Trên máy bay, một người đàn ông ngồi cạnh một phụ nữ xinh đẹp. Anh ta bảo:
+— ...Hôm nay có sự kiện đọc sách... bằng loa phóng thanh.
 
-— Tôi cá 100 đô, tôi hỏi một câu mà chị không trả lời được.
-
-Cô gái đáp:
-
-— Được, nhưng tôi cũng cá. Tôi hỏi anh, anh không trả lời thì mất 100 đô. Anh hỏi tôi, tôi không trả lời thì chỉ mất 5 đô thôi, vì tôi không giỏi bằng anh.
-
-Anh ta đồng ý. Cô gái hỏi trước:
-
-— Con gì lên núi thì 3 chân, xuống núi thì 5 chân?
-
-Anh ta nghĩ mãi không ra, đành đưa cô 100 đô, rồi hỏi lại:
-
-— Thế con gì vậy?
-
-Cô gái im lặng đưa anh ta 5 đô.
+> 😂💬 *Bia chưa uống mà não đã lag: lỡ miệng khai "quán nhậu" rồi vá víu bằng "thư viện có loa phóng thanh" — càng giải thích càng lộ. Bà vợ chưa cần tra hỏi, ổng đã tự khai hết. Đúng kiểu chưa thấy quan tài chưa đổ lệ, mà thấy rồi cũng không biết đổ kiểu gì 🍻*
 
 ---
 
-### 10. Toán học vợ chồng
+### 5. Phỏng vấn xin việc 💼
 
-🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
 
-— Anh yêu, trước khi cưới anh phải biết: em không giỏi nấu ăn.
+Nhà tuyển dụng nhìn hồ sơ rồi hỏi:
 
-— Không sao em, anh cũng không kiếm được nhiều tiền.
+— Anh cho tôi biết, điểm yếu lớn nhất của anh là gì?
 
-— Vậy thì ai nấu ăn?
-
-— Ai kiếm được tiền thì người đó nấu.
-
-— ...
-
-— ...
-
-— Hay mình ăn mì gói đi anh.
-
----
-
-### 11. Phỏng vấn xin việc
-
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
-
-Nhà tuyển dụng hỏi:
-
-— Điểm yếu lớn nhất của anh là gì?
+Ứng viên tỉnh bơ:
 
 — Sự thành thật.
 
-— Tôi không nghĩ đó là điểm yếu.
+Nhà tuyển dụng gật gù:
 
-— Tôi không quan tâm anh nghĩ gì.
+— Tôi không nghĩ đó là điểm yếu đâu.
 
----
+Ứng viên phang một câu:
 
-### 12. Lái xe với vợ
+— Tôi không quan tâm anh nghĩ gì 🙂
 
-🌍 Nguồn gốc: Mỹ | Điểm: 31/40
-
-Chồng lái xe, vợ ngồi bên cạnh.
-
-Vợ: "Anh vừa vượt đèn đỏ kìa!"
-
-Chồng: "Kệ đi, anh trai anh lái kiểu này suốt."
-
-Vợ: "Anh vừa suýt đâm xe người ta!"
-
-Chồng: "Kệ đi, anh trai anh lái kiểu này suốt."
-
-*Đến ngã tư đèn xanh.*
-
-Chồng dừng xe lại.
-
-Vợ: "Sao dừng? Đèn xanh mà!"
-
-Chồng: "Biết đâu anh trai anh đang chạy từ hướng kia."
+> 😂💬 *Chứng minh ngay tại chỗ, không cần giấy tờ: nói điểm yếu là "thành thật" rồi thành thật phang thẳng mặt nhà tuyển dụng. Một câu vừa trả lời câu hỏi, vừa minh họa câu trả lời — hiệu suất gấp đôi, cơ hội được nhận thì... gấp đôi bằng không 💀*
 
 ---
 
-### 13. Con khôn nhà người ta
+### 6. GPS và vợ 🚗
 
-🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
 
-Ông bố tự hào khoe:
+Anh Tèo đang lái xe, GPS phát:
 
-— Con trai tôi thông minh lắm! Nó gửi tiền về cho tôi hàng tháng.
+— Rẽ phải sau 200 mét.
 
-Ông hàng xóm:
+Bà xã ngồi bên cạnh chốt hạ:
 
-— Con trai tôi còn thông minh hơn! Nó không gửi tiền mà gửi đơn thuốc. Tôi mang ra hiệu thuốc, người ta đưa thuốc miễn phí!
+— Rẽ trái đi anh, đi đường này nhanh hơn!
 
-Ông bố thứ ba:
+GPS:
 
-— Con trai tôi thông minh nhất! Nó đi làm xa, mỗi tuần đều gặp một ông bác sĩ tâm lý, trả 200 đô một giờ, chỉ để nói về tôi thôi!
+— Rẽ phải sau 100 mét.
+
+Bà xã:
+
+— Kệ cái máy đó! Rẽ trái!
+
+GPS im lặng một hồi... rồi phát:
+
+— Sau 50 mét... hãy nghe bà ấy đi. Tôi cũng không muốn cãi đâu 😅
+
+> 😂💬 *Đến GPS — cỗ máy không tim không óc — cũng biết đầu hàng bà xã! Cái máy tính đường đi nước bước, nhưng tính không bằng một câu "kệ cái máy đó" của vợ. Mấy ông chồng Việt Nam chắc muốn mua cái GPS này về làm đồng minh, nhưng nó cũng phản dame mất rồi 🤦*
 
 ---
 
-### 14. WiFi nhà thờ
+### 7. Đám tang hoàn hảo ⚰️
 
-🌍 Nguồn gốc: Mỹ | Điểm: 30/40
+> 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
-— Tại sao nhà thờ không có WiFi?
+Ba ông bạn ngồi nhậu, tự nhiên triết lý:
 
-— Vì họ không muốn cạnh tranh với một kết nối vô hình khác.
+— Nè, nếu mày nằm trong quan tài mà mọi người đến viếng, mày muốn nghe họ nói gì?
+
+Ông thứ nhất vuốt cằm:
+
+— "Ổng là một bác sĩ tuyệt vời, cứu sống hàng nghìn người."
+
+Ông thứ hai gật gù:
+
+— "Ổng là người cha, người chồng mẫu mực."
+
+Ông thứ ba cạn ly rồi phán:
+
+— "Nhìn kìa, hình như ổng cử động!" 😱
+
+> 😂💬 *Hai ông đầu muốn được người đời ca ngợi, ông thứ ba thực tế hơn — muốn SỐNG LẠI! Phá vỡ hoàn toàn cái khuôn câu hỏi "triết lý." Đúng kiểu trời đánh tránh bữa ăn — chết rồi mà vẫn tìm cách sống lại nhậu tiếp 🍻*
 
 ---
 
-### 15. Ông chồng mua sắm
+### 8. Cá cược trên máy bay ✈️
 
-🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+> 🌍 Nguồn gốc: Mỹ | Điểm: 34/40
 
-Vợ sai chồng đi siêu thị:
+Trên máy bay, một ông anh ngồi cạnh một cô gái xinh. Ổng cà rỡn:
+
+— Tôi cá 100 đô, tôi hỏi một câu mà chị trả lời không được.
+
+Cô gái cười nhẹ:
+
+— Được thôi. Nhưng tôi cũng cá. Anh hỏi tôi, tôi không trả lời thì mất 5 đô thôi — vì tôi đâu có giỏi bằng anh.
+
+Ổng gật đầu, tự tin lắm. Cô gái hỏi trước:
+
+— Con gì lên núi thì 3 chân, xuống núi thì 5 chân?
+
+Ổng nghĩ nát óc không ra, đành đưa 100 đô 😤 Xong hỏi lại:
+
+— Thế con gì vậy?
+
+Cô gái tỉnh bơ rút ra 5 đô đưa cho ổng 😏
+
+> 😂💬 *Cô gái chơi "game theory" cấp cao: tự nhận mình dở để hạ tiền cược, rồi bịa ra câu hỏi KHÔNG CÓ ĐÁP ÁN. Ổng mất 100 đô, cô chỉ mất 5 đô — lãi ròng 95 đô chỉ bằng một câu hỏi vớ vẩn. Khờ hết phần thiên hạ mà vẫn tưởng mình thông minh 🔥*
+
+---
+
+### 9. Sếp và nhân viên 😴
+
+> 🌍 Nguồn gốc: Mỹ | Điểm: 34/40
+
+Sếp đến công ty sớm, thấy anh Tèo đang gục mặt ngủ gật trên bàn. Sếp đập bàn cái rầm:
+
+— Này! Tôi trả lương cho anh không phải để anh ngủ!
+
+Tèo giật mình ngồi dậy, dụi mắt rồi chốt hạ:
+
+— Dạ đúng rồi, nên em mới ngủ miễn phí đây ạ 🙂
+
+> 😂💬 *Phản dame cấp thần thánh: sếp nói "không trả lương để ngủ", Tèo chốt "nên em ngủ miễn phí" — logic đúng y chang mà kết luận ngược 180 độ. Sếp chắc vừa muốn đuổi việc vừa muốn vỗ tay. Dân công sở Việt Nam nghe xong chắc muốn học thuộc câu này để dành phòng thân 💀*
+
+---
+
+### 10. Ông chồng đi siêu thị 🛒
+
+> 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+
+Bà xã sai anh Tèo đi siêu thị, dặn:
 
 "Mua 1 bịch sữa. Nếu có trứng thì mua 6."
 
-Chồng về với 6 bịch sữa.
+Tèo xách về 6 bịch sữa 🥛🥛🥛🥛🥛🥛
 
-— Sao mua 6 bịch sữa?!
+Bà xã mắt chữ O mồm chữ A:
+
+— Trời ơi! Sao mua 6 bịch sữa?!
+
+Tèo tỉnh bơ:
 
 — Tại có trứng.
 
----
-
-### 16. Nói dối hoàn hảo
-
-🌍 Nguồn gốc: Mỹ | Điểm: 29/40
-
-Thầy giáo hỏi:
-
-— Em nào có thể cho cô ví dụ về sự trùng hợp?
-
-Bé Tèo giơ tay:
-
-— Bố mẹ em cưới nhau cùng một ngày ạ!
+> 😂💬 *Bug kinh điển trong giao tiếp vợ chồng: "nếu có trứng thì mua 6" — bà xã ý là 6 quả trứng, ông chồng hiểu là 6 bịch sữa. Cùng một câu tiếng Việt mà hai cách hiểu, và ông chồng chọn đúng cách hiểu sai nhất có thể. Đàn ông xử lý ngôn ngữ tự nhiên còn tệ hơn ChatGPT 🤖*
 
 ---
 
-### 17. Bác sĩ tâm lý
+### 11. Mua bảo hiểm nhân thọ 📋
 
-🌍 Nguồn gốc: Mỹ | Điểm: 32/40
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
 
-Bệnh nhân: "Bác sĩ ơi, không ai thèm để ý đến tôi."
+Nhân viên bảo hiểm thuyết phục mãi, cuối cùng anh Tèo cũng ký hợp đồng bảo hiểm nhân thọ.
 
-Bác sĩ: "Người tiếp theo, mời vào!"
+Tuần sau, nhân viên bảo hiểm nhận được hộp quà từ vợ Tèo kèm thiệp:
 
----
+"Cảm ơn anh nhiều lắm! Từ ngày ông xã mua bảo hiểm, em cảm thấy tương lai tươi sáng hơn bao giờ hết 😊"
 
-### 18. Sếp và nhân viên
+Nhân viên bảo hiểm đọc xong... lặng người.
 
-🌍 Nguồn gốc: Mỹ | Điểm: 34/40
-
-Sếp đến văn phòng sớm, thấy nhân viên đang ngủ gật. Sếp đập bàn:
-
-— Tôi trả lương cho anh không phải để anh ngủ!
-
-Nhân viên giật mình:
-
-— Vâng, nên em mới ngủ miễn phí đây ạ.
+> 😂💬 *"Tương lai tươi sáng" — nhưng tươi sáng cho ai mới là câu hỏi! Bà vợ cảm ơn nhiệt tình quá mức bình thường, nghe ngọt ngào mà lạnh sống lưng. Anh Tèo nên cẩn thận mỗi bữa cơm từ giờ. Bảo hiểm chưa kịp bảo vệ mà đã thành mối nguy 💀*
 
 ---
 
-### 19. Logic đàn ông
+### 12. Toán học vợ chồng 💕
 
-🌍 Nguồn gốc: Mỹ | Điểm: 29/40
+> 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
-Vợ: "Anh có nhớ hôm nay là ngày gì không?"
+Trước ngày cưới, cô dâu thành thật:
 
-Chồng (hoảng hốt): "Tất nhiên rồi, em yêu!"
+— Anh yêu, trước khi cưới anh phải biết: em không biết nấu ăn.
 
-*Chồng lập tức ra ngoài mua hoa, mua bánh, đặt nhà hàng.*
+Chú rể tỉnh bơ:
 
-Vợ (xúc động): "Trời ơi, đây là sinh nhật con mèo vui nhất từ trước đến nay!"
+— Không sao em, anh cũng không kiếm được nhiều tiền.
+
+— Vậy ai nấu ăn?
+
+— Ai kiếm được tiền thì người đó nấu.
+
+Im lặng...
+
+Im lặng...
+
+— Hay mình ăn mì gói đi anh 😅
+
+> 😂💬 *Vòng lặp logic không lối thoát: không biết nấu + không có tiền = ai nấu cũng không xong, ai mua cũng không nổi. Giải pháp "mì gói" chính là đáp án thực tế nhất của cuộc sống vợ chồng trẻ Việt Nam — lãng mạn đâu không thấy, thấy toàn Hảo Hảo 🍜*
 
 ---
 
-### 20. Đi khám bệnh
+### 13. Lái xe với vợ 🚙
 
-🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
+> 🌍 Nguồn gốc: Mỹ | Điểm: 31/40
 
-Bệnh nhân: "Bác sĩ ơi, tôi bị gãy tay ở hai chỗ."
+Anh Tèo lái xe, bà xã ngồi bên cạnh.
 
-Bác sĩ: "Vậy thì đừng đến hai chỗ đó nữa."
+Bà xã: "Anh vừa vượt đèn đỏ kìa!"
+
+Tèo: "Kệ đi, anh trai anh lái kiểu này suốt."
+
+Bà xã: "Anh vừa suýt đâm xe người ta!"
+
+Tèo: "Kệ đi, anh trai anh lái kiểu này suốt."
+
+Đến ngã tư, đèn xanh. Tèo dừng xe lại.
+
+Bà xã: "Ủa sao dừng? Đèn xanh mà!"
+
+Tèo mặt lạnh như tiền:
+
+— Biết đâu anh trai anh đang chạy từ hướng kia 😬
+
+> 😂💬 *Logic sai từ gốc nhưng nhất quán đến cuối: đèn đỏ thì "anh trai cũng vậy", đèn xanh thì sợ anh trai vượt từ hướng kia. Nghe xong muốn cãi mà không biết cãi chỗ nào — vì ổng đúng theo logic của ổng! Bó tay chấm com 🤣*
 
 ---
 
-### 21. Câu hỏi triệu đô
+### 14. Ông ngoại và cháu 👴
 
-🌍 Nguồn gốc: Mỹ | Điểm: 32/40
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
 
-Vợ hỏi chồng:
+Thằng cháu 5 tuổi hỏi ông ngoại:
+
+— Ông ơi, hồi xưa ông có điện thoại không?
+
+— Không có, con.
+
+— Có internet không?
+
+— Cũng không.
+
+— Vậy ông có WiFi không?
+
+— Không luôn.
+
+Thằng nhỏ im lặng một hồi, mắt tròn xoe rồi hỏi nhỏ:
+
+— Ông ơi... vậy ông là khủng long hả? 🦕
+
+> 😂💬 *Logic trẻ con cực kỳ thuyết phục: không điện thoại + không internet + không WiFi = sống cùng thời khủng long, còn gì nữa! Ông ngoại bị "xếp loại" vào kỷ Jura chỉ trong 3 câu hỏi. Thế hệ iPad nhìn thế hệ đèn dầu — khoảng cách là mấy triệu năm 💀*
+
+---
+
+### 15. Đi khám bệnh 🩺
+
+> 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
+
+Anh Tèo nhăn nhó đi vào phòng khám:
+
+— Bác sĩ ơi, tôi bị gãy tay ở hai chỗ!
+
+Bác sĩ ngẩng lên, tỉnh bơ phán:
+
+— Vậy thì đừng đến hai chỗ đó nữa 🤷
+
+> 😂💬 *Dad joke đỉnh cao nước Mỹ: "gãy tay ở hai chỗ" (hai vị trí trên tay) bị bác sĩ hiểu thành "hai địa điểm." Lời khuyên y khoa vô dụng nhất lịch sử loài người — nhưng về mặt logic thì... ổng không sai! Kiểu bác sĩ mà dân mạng Việt Nam gọi là "bác sĩ Google" 🤣*
+
+---
+
+### 16. Con khôn nhà người ta 👨‍👦
+
+> 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+
+Ba ông bố ngồi quán cà phê khoe con:
+
+Ông thứ nhất vỗ ngực:
+
+— Con trai tôi thông minh lắm! Tháng nào cũng gửi tiền về cho tôi.
+
+Ông thứ hai hất mặt:
+
+— Con trai tôi còn giỏi hơn! Nó gửi đơn thuốc về, tôi mang ra hiệu thuốc người ta đưa thuốc miễn phí!
+
+Ông thứ ba cười tươi rói:
+
+— Con trai tôi thông minh nhất! Nó đi làm xa, mỗi tuần gặp bác sĩ tâm lý, trả 200 đô một giờ, chỉ để nói về tôi thôi! 😊
+
+> 😂💬 *Ông thứ ba tự hào nhất mà không biết mình chính là "vấn đề" của con. Con trai tốn 200 đô/giờ để than phiền về bố — mà bố lại coi đó là yêu thương. Hạnh phúc trong sự ngây thơ vô số tội! Mấy ông bố Việt Nam chắc cũng vậy — con than thở thì bảo "nó nhớ mình" 🤦*
+
+---
+
+### 17. Siêu thị lúc nửa đêm 🌙
+
+> 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+
+Anh Tèo đi siêu thị lúc 11 giờ đêm. Cô thu ngân nhìn giỏ hàng: kem, chocolate, khăn giấy, hoa hồng.
+
+Cô thu ngân:
+
+— Anh độc thân hả?
+
+Tèo mắt sáng rỡ:
+
+— Ủa, sao biết? Nhìn đồ mua đoán được luôn hả?
+
+— Không, vì anh xấu trai 😐
+
+> 😂💬 *Setup hoàn hảo: ai cũng tưởng cô thu ngân sắp phân tích giỏ hàng kiểu Sherlock Holmes — hóa ra lý do đơn giản phũ phàng: "vì anh xấu trai." Tèo tưởng gặp tri kỷ, ai ngờ ăn phản dame không kịp trở tay. Cười xong thấy thương 🤣*
+
+---
+
+### 18. Câu hỏi triệu đô 💍
+
+> 🌍 Nguồn gốc: Mỹ | Điểm: 32/40
+
+Bà xã hỏi anh Tèo:
 
 — Nếu em chết, anh có lấy vợ khác không?
+
+Tèo dứt khoát:
 
 — Không đời nào!
 
@@ -346,30 +432,98 @@ Vợ hỏi chồng:
 
 — ...
 
-— ...
+Tèo đứng hình mấy giây rồi thở dài:
 
-— Em thấy không, đây là câu hỏi không có đáp án đúng.
+— Em thấy không, đây là câu hỏi không có đáp án đúng 🫠
+
+> 😂💬 *Bẫy ngôn ngữ kinh điển: trả lời "không" bị hỏi "không thích phụ nữ?", trả lời "có" thì chết chắc. Anh Tèo sa vào ma trận và chọn cách duy nhất an toàn: đầu hàng. Mà nói thật, đàn ông toàn thế giới gặp câu này đều bó tay như nhau 🤣*
+
+---
+
+### 19. Cha và con 💵
+
+> 🌍 Nguồn gốc: Mỹ | Điểm: 34/40
+
+Thằng cu con chạy lại:
+
+— Bố ơi, cho con 10 đô!
+
+Bố nhướng mày:
+
+— 8 đô? 6 đô để làm gì? Bố đâu có 4 đô. Đây, 2 đô, chia cho em mày 1 đô. Nhớ trả lại bố 50 xu 💸
+
+> 😂💬 *Nghệ thuật mặc cả đỉnh cao: từ 10 đô bố "đàm phán" xuống còn... nợ bố tiền. Mỗi câu giảm một nửa, cuối cùng con không những không được gì mà còn phải trả lại! Dân buôn bán ở chợ Bến Thành cũng phải gọi bố bằng sư phụ 🔥*
 
 ---
 
-### 22. Cha và con
+### 20. Đồng nghiệp chăm chỉ 🏢
 
-🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+> 🌍 Nguồn gốc: Mỹ | Điểm: 34/40
 
-Con trai: "Bố ơi, cho con 10 đô."
+Ở công ty, anh Tèo nổi tiếng là người chăm chỉ nhất — luôn đến sớm nhất, về muộn nhất. Sếp cảm động, gọi vào phòng:
 
-Bố: "8 đô? 6 đô để làm gì? Bố đâu có 4 đô. Đây, 2 đô, chia cho em mày 1 đô. Nhớ trả lại bố 50 xu."
+— Tèo à, anh rất ấn tượng. Suốt 3 năm, cậu luôn là người đầu tiên ở văn phòng và cuối cùng rời đi. Tôi quyết định thăng chức cho cậu!
+
+Tèo gãi đầu:
+
+— Dạ thật ra... em đến sớm vì em không tìm được chỗ đậu xe, phải đi vòng vòng. Còn về muộn vì... em quên xe đậu ở đâu 😅
+
+> 😂💬 *"Chăm chỉ" hóa ra là "lú": đến sớm vì tìm chỗ đậu xe, về muộn vì quên xe đậu đâu. Sếp thăng chức cho lý do hoàn toàn sai — nhưng kết quả lại đúng: người nào cũng thấy ổng ở công ty suốt. Giống mấy ông Việt Nam "tăng ca" mà thật ra đang ngồi lướt TikTok chờ hết kẹt xe 💀*
 
 ---
+
+### 21. Bảo hiểm xe hơi 🚘
+
+> 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+
+Anh Tèo gọi điện cho công ty bảo hiểm:
+
+— Alô, tôi muốn báo tai nạn.
+
+— Ông kể chi tiết đi.
+
+— Tôi đang lái xe thì đâm vào cái cây.
+
+— Cây ở đâu?
+
+— Ở giữa đường.
+
+— Ở giữa đường sao có cây?
+
+Tèo tỉnh bơ:
+
+— Cây thì ở bên đường, nhưng tôi đang lái ở giữa vỉa hè 😐
+
+> 😂💬 *Twist bất ngờ: tưởng cái cây mọc giữa đường, hóa ra ổng lái xe lên vỉa hè đâm cây! Tự khai tội mà không biết — giống anh Tèo gọi điện quán nhậu vậy đó, cái miệng nhanh hơn cái đầu. Nhân viên bảo hiểm chắc muốn từ chức luôn 🤣*
+
+---
+
+### 22. Wifi miễn phí 📶
+
+> 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
+
+Anh Tèo vào quán cà phê, gọi ly nước rẻ nhất rồi hỏi:
+
+— Cho tôi xin mật khẩu WiFi.
+
+Nhân viên:
+
+— Mua thêm đồ đi anh.
+
+— Hả?! Mật khẩu gì dài vậy?
+
+— Không, ý tôi là anh phải mua thêm đồ mới được dùng WiFi.
+
+— À... cho tôi thêm 1 ống hút 😐
+
+> 😂💬 *Hiểu lầm xếp chồng hiểu lầm: "mua thêm đồ đi" tưởng là mật khẩu WiFi, sửa xong lại chọn mua thêm... 1 ống hút — thứ rẻ nhất có thể. Anh Tèo vừa khờ vừa keo, combo hoàn hảo. Giống mấy bác vào quán Starbucks gọi ly nước lọc rồi ngồi cả ngày xài WiFi vậy 🤦*
 
 ---
 
 ## 📊 Thống kê chương
 
 - **Tổng số truyện:** 22
-- **Truyện đạt (≥ 30 điểm):** 19
-- **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 4
-- **Điểm trung bình:** 33.1/40
-- **Truyện bị loại:** 3 (xem rejected-log)
-
-> ⚠️ Truyện #7, #16, #19 (29/40) thêm vào dưới hệ thống cũ, chưa đạt ngưỡng mới. Cân nhắc thay thế.
+- **Truyện đạt (≥ 30 điểm):** 22
+- **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 8
+- **Điểm trung bình:** 34.0/40
+- **Truyện bị loại:** 11 (xem rejected-log)

@@ -30,3 +30,28 @@
 - Thay bằng 5 truyện mới ≥40 điểm: Di chúc quý ông (42), Thang máy ở London (41), Quý ông gặp cướp (44), Quý ông mất ví (41), Đám cháy lịch sự (43)
 - Toàn bộ 20 truyện giờ đều ≥40 điểm ⭐
 - Điểm trung bình tăng từ 41.1 lên 42.2/50
+
+## Ngày 3 - 2026-03-22
+
+### Viết lại Chương 01: Truyện Cười Mỹ
+- Viết lại toàn bộ 22 truyện với ngôn ngữ tiếu lâm Việt Nam (dùng "ổng phán", "tỉnh bơ", "phang một câu", "chốt hạ", "phản dame", thành ngữ VN)
+- Thay 5 truyện yếu/quá ngắn bằng truyện mới có narrative tốt hơn:
+  - "Luật sư dưới đáy biển" → "Vợ chồng già ở bệnh viện" (36 ⭐)
+  - "Giá của sự thật" → "Mua bảo hiểm nhân thọ" (35 ⭐)
+  - "Gọi món ở nhà hàng" → "Đồng nghiệp chăm chỉ" (34)
+  - "WiFi nhà thờ" → "Bảo hiểm xe hơi" (33)
+  - "Bác sĩ tâm lý" → "Wifi miễn phí" (33)
+- 9 truyện ⭐ (tăng từ 6), điểm TB 34.0/40 (tăng từ 33.3)
+
+### Viết lại Chương 02: Truyện Cười Anh
+- Viết lại toàn bộ 20 truyện với ngôn ngữ tiếu lâm VN (ổng tỉnh bơ, phán, mặt lạnh như tiền, thành ngữ VN)
+- Bổ sung narrative cho truyện ngắn: thêm đối thoại, chi tiết build-up, câu punchline đậm hơn
+- Giữ nguyên 20 truyện (tất cả ≥ 30/40), nâng cấp văn phong và bình luận
+
+### Chương 03: Truyện Cười Pháp
+- Tổng hợp và Việt hóa 20 truyện cười phong cách Pháp (lãng mạn, rượu vang, ẩm thực, triết học, kiêu hãnh dân tộc)
+- Chủ đề chính: tình yêu, rượu vang & pho mát, đình công, bồi bàn Paris, triết học đời thường
+- Chấm điểm 25 truyện: 20 đạt, 5 loại
+- 6 truyện hay đặc biệt ⭐ (≥ 35 điểm)
+- Điểm trung bình truyện đạt: 33.6/40
+- Chi tiết xem scoring-log.md
