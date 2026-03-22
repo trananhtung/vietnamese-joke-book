@@ -42,6 +42,10 @@
 - Toàn bộ 22 truyện giờ đều ≥ 30/40, 6 truyện ⭐
 - Điểm trung bình: 33.3/40
 
+### Cập nhật Chương 02: Truyện Cười Anh
+- Chuẩn hóa format toàn chương: thêm emoji tiêu đề + nội dung, đổi `> 💡` thành `> 😂💬` với bình luận vui hơn + liên hệ VN
+- Không cần thay truyện (toàn bộ 20 truyện đều ≥ 30/40)
+
 ### Chương 03: Truyện Cười Pháp
 - Tổng hợp và Việt hóa 20 truyện cười phong cách Pháp (lãng mạn, rượu vang, ẩm thực, triết học, kiêu hãnh dân tộc)
 - Chủ đề chính: tình yêu, rượu vang & pho mát, đình công, bồi bàn Paris, triết học đời thường
