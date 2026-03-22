@@ -64,3 +64,11 @@
 - Điểm trung bình truyện đạt: 33.8/40
 - Tạo metadata/scoring-log.md và rejected/rejected-log.md
 - Chi tiết xem scoring-log.md
+
+### Chương 05: Truyện Cười Nga
+- Tổng hợp và Việt hóa 18 truyện cười phong cách Nga (anekdot, vodka, mùa đông, gấu, tâm hồn Nga, Xô Viết)
+- Chủ đề chính: vodka & triết học, mùa đông Siberia, xếp hàng thời Xô Viết, babushka, dashcam, tình hàng xóm
+- Chấm điểm 25 truyện: 21 đạt, 4 loại, chọn 18 truyện tốt nhất vào sách
+- 8 truyện hay đặc biệt ⭐ (≥ 35 điểm)
+- Điểm trung bình truyện đạt: 33.9/40
+- Chi tiết xem scoring-log.md

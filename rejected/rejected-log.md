@@ -2,6 +2,22 @@
 
 ---
 
+## Chương 05: Truyện Cười Nga — Ngày 2026-03-22
+
+### 1. Cảnh sát giao thông Nga (29/40) ❌
+**Lý do loại:** Punchline hơi đuối, tình huống hối lộ cảnh sát giao thông khá nhạy cảm và dễ bị hiểu sai context.
+
+### 2. Bài tập về nhà thời Xô Viết (28/40) ❌
+**Lý do loại:** Cần quá nhiều context về hệ thống giáo dục Xô Viết, người Việt trẻ khó đồng cảm. Tính "kể lại" thấp.
+
+### 3. Ông già Noel Nga (27/40) ❌
+**Lý do loại:** Truyện về Ded Moroz (Ông già Tuyết) dựa vào sự khác biệt văn hóa Nga-phương Tây mà người Việt không quen. Punchline yếu.
+
+### 4. Du lịch Nga bốn mùa (26/40) ❌
+**Lý do loại:** Truyện liệt kê 4 mùa ở Nga đều lạnh — ý tưởng đơn giản, thiếu twist bất ngờ. Không đủ chất để kể lại.
+
+---
+
 ## Chương 04: Truyện Cười Đức — Ngày 2026-03-22
 
 ### 1. Người Đức đi chợ Việt Nam (28/40) ❌
