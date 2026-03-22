@@ -44,13 +44,21 @@ Mỗi truyện được chấm điểm theo 4 tiêu chí (thang 10):
 
 ## 🛠 Cách Build Sách
 
-```bash
-# Ghép tất cả chương thành 1 file
-bash kich-ban/build-book.sh
+**Phụ thuộc:** [pandoc](https://pandoc.org/), TeX Live (xelatex cho PDF), font **Noto Sans** (tiếng Việt).
 
-# Export sang PDF/EPUB/DOCX
-bash kich-ban/export.sh
+```bash
+# Ghép tất cả chương thành full-book.md (có ngắt trang giữa các chương cho PDF)
+bash scripts/build-book.sh
+
+# Export sang PDF / EPUB / DOCX
+bash scripts/export.sh
 ```
+
+(`kich-ban/build-book.sh` và `kich-ban/export.sh` vẫn gọi các script trên để tương thích cũ.)
+
+### Release trên GitHub
+
+Vào **Actions** → workflow **Release sách (PDF / EPUB / DOCX)** → **Run workflow**: nhập **tag** (vd: `v1.0.0`), tùy chọn tiêu đề / draft / prerelease. Workflow sẽ build và đính kèm `Cuoi-Vo-Bung.pdf`, `.epub`, `.docx` vào trang **Releases** của repo (cần quyền ghi nội dung).
 
 ## 📝 Đóng Góp
 
