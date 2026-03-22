@@ -2,6 +2,22 @@
 
 ---
 
+## Chương 15: Truyện Cười Úc & New Zealand — Ngày 2026-03-22
+
+### 1. Boomerang không quay lại (28/40) ❌
+**Lý do loại:** Truyện dựa trên stereotype quá đơn giản, punchline dễ đoán. Thiếu twist bất ngờ.
+
+### 2. Koala ngủ 22 tiếng (27/40) ❌
+**Lý do loại:** Ý tưởng dễ thương nhưng không đủ hài. Punchline yếu, khó kể lại cho người khác nghe mà cười.
+
+### 3. Thợ săn cá sấu và vợ (26/40) ❌
+**Lý do loại:** Nội dung hơi nhạy cảm về giới, so sánh vợ với cá sấu có thể gây phản cảm. Không phù hợp tiêu chí "phù hợp VN."
+
+### 4. Accent Úc vs accent Anh (25/40) ❌
+**Lý do loại:** Truyện dựa vào sự khác biệt phát âm tiếng Anh mà người Việt khó nắm bắt. Tính "dễ hiểu" và "phù hợp VN" thấp.
+
+---
+
 ## Chương 13: Truyện Cười Bắc Âu — Ngày 2026-03-22
 
 ### 1. Hướng dẫn sử dụng thang máy Phần Lan (29/40) ❌
