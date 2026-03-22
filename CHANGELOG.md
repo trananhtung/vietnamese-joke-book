@@ -43,9 +43,10 @@
   - "Bác sĩ tâm lý" → "Wifi miễn phí" (33)
 - 9 truyện ⭐ (tăng từ 6), điểm TB 34.0/40 (tăng từ 33.3)
 
-### Cập nhật Chương 02: Truyện Cười Anh
-- Chuẩn hóa format toàn chương: thêm emoji tiêu đề + nội dung, đổi `> 💡` thành `> 😂💬` với bình luận vui hơn + liên hệ VN
-- Không cần thay truyện (toàn bộ 20 truyện đều ≥ 30/40)
+### Viết lại Chương 02: Truyện Cười Anh
+- Viết lại toàn bộ 20 truyện với ngôn ngữ tiếu lâm VN (ổng tỉnh bơ, phán, mặt lạnh như tiền, thành ngữ VN)
+- Bổ sung narrative cho truyện ngắn: thêm đối thoại, chi tiết build-up, câu punchline đậm hơn
+- Giữ nguyên 20 truyện (tất cả ≥ 30/40), nâng cấp văn phong và bình luận
 
 ### Chương 03: Truyện Cười Pháp
 - Tổng hợp và Việt hóa 20 truyện cười phong cách Pháp (lãng mạn, rượu vang, ẩm thực, triết học, kiêu hãnh dân tộc)
