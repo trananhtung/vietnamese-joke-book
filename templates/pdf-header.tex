@@ -1,0 +1,115 @@
+% templates/pdf-header.tex
+% Styling cho PDF export — Cười Vỡ Bụng
+% Dùng với LuaLaTeX + pandoc --include-in-header
+
+% ============================================================
+% EMOJI FONT FALLBACK
+% Đăng ký Noto Color Emoji làm fallback cho ký tự emoji/icon.
+% LuaLaTeX + luaotfload tự động chuyển sang font này khi gặp
+% ký tự mà Noto Sans không có.
+% ============================================================
+\directlua{
+  luaotfload.add_fallback("emojifallback", {
+    "NotoColorEmoji:mode=harf;"
+  })
+}
+\setmainfont{Noto Sans}[
+  RawFeature={fallback=emojifallback},
+  BoldFont={Noto Sans Bold},
+  ItalicFont={Noto Sans Italic},
+  BoldItalicFont={Noto Sans Bold Italic}
+]
+
+% ============================================================
+% MÀU SẮC
+% ============================================================
+\definecolor{chaptercolor}{HTML}{1A5276}
+\definecolor{storycolor}{HTML}{2E4053}
+\definecolor{quoteborder}{HTML}{2980B9}
+\definecolor{quotebg}{HTML}{EBF5FB}
+\definecolor{rulegray}{HTML}{AEB6BF}
+
+% ============================================================
+% BLOCKQUOTE STYLING
+% Pandoc render markdown > thành \begin{quote}...\end{quote}.
+% Thay vì indent nhạt mặc định, dùng tcolorbox: viền trái xanh,
+% nền nhạt — trông giống callout trong EPUB/web.
+% ============================================================
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+\renewenvironment{quote}{%
+  \begin{tcolorbox}[
+    enhanced,
+    breakable,
+    colback=quotebg,
+    colframe=quoteborder,
+    leftrule=3.5pt,
+    rightrule=0pt,
+    toprule=0pt,
+    bottomrule=0pt,
+    boxsep=2pt,
+    left=10pt,
+    right=10pt,
+    top=6pt,
+    bottom=6pt,
+    arc=0pt,
+    outer arc=0pt,
+  ]%
+}{%
+  \end{tcolorbox}%
+}
+
+% ============================================================
+% HEADING STYLING
+% section = H1 (chương), subsection = H2, subsubsection = H3 (truyện)
+% ============================================================
+\usepackage{titlesec}
+
+\titleformat{\section}
+  {\LARGE\bfseries\color{chaptercolor}}
+  {}{0em}{}[\vspace{0.3em}{\color{rulegray}\titlerule[1pt]}]
+\titlespacing*{\section}{0pt}{2em}{1em}
+
+\titleformat{\subsection}
+  {\Large\bfseries\color{chaptercolor}}
+  {}{0em}{}
+\titlespacing*{\subsection}{0pt}{1.5em}{0.8em}
+
+\titleformat{\subsubsection}
+  {\large\bfseries\color{storycolor}}
+  {}{0em}{}
+\titlespacing*{\subsubsection}{0pt}{1.2em}{0.5em}
+
+% ============================================================
+% HORIZONTAL RULE — tô màu xám nhạt thay vì đen
+% ============================================================
+\let\OldRule\rule
+\renewcommand{\rule}[2]{\textcolor{rulegray}{\OldRule{#1}{#2}}}
+
+% ============================================================
+% HEADER / FOOTER
+% ============================================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\small\color{rulegray}\textit{Cười Vỡ Bụng — Tuyển Tập Truyện Cười Thế Giới Cho Người Việt}}
+\fancyfoot[C]{\small\color{storycolor}\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{rulegray}\leaders\hrule height \headrulewidth\hfill}}
+
+% Trang đầu mỗi chương dùng plain — chỉ số trang, không header
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyfoot[C]{\small\color{storycolor}\thepage}%
+  \renewcommand{\headrulewidth}{0pt}%
+}
+
+% ============================================================
+% KHOẢNG CÁCH & LINE SPACING
+% ============================================================
+\setlength{\parskip}{0.5em}
+\setlength{\parindent}{0em}
+
+\usepackage{setspace}
+\setstretch{1.25}

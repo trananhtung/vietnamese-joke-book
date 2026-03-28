@@ -40,15 +40,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Cài pandoc, XeLaTeX và font Noto Sans
+      - name: Cài pandoc, LuaLaTeX, font Noto Sans + Emoji
         run: |
           sudo apt-get update
           sudo apt-get install -y \
             pandoc \
+            texlive-luatex \
             texlive-xetex \
             texlive-fonts-recommended \
             texlive-latex-recommended \
-            fonts-noto-core
+            texlive-latex-extra \
+            fonts-noto-core \
+            fonts-noto-color-emoji
 
       - name: Build & export
         run: |
