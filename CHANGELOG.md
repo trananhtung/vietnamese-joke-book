@@ -1,5 +1,24 @@
 # Nhật Ký Thay Đổi - CƯỜI VỠ BỤNG
 
+## Ngày 5 (Review) - 2026-03-28
+
+### 🔍 Review & Polish Tuần 1 — Phương Tây (Issue #11)
+- Review toàn bộ chương 01-05, 13, 15 (7 chương phương Tây)
+- **Loại 3 truyện trùng ý/yếu:**
+  - Ch01 "Lái xe với vợ" (31/40) — trùng y hệt Ch05 Nga "Lái xe ở Moscow"
+  - Ch02 "Câu cá ở sông Thames" (32/40) — trùng motif với Nga #12 và Bắc Âu #1
+  - Ch13 "Cách Bắc Âu thể hiện tình cảm" (30/40) — yếu nhất chương, sát ngưỡng
+- **Bổ sung 4 truyện cười Đức** (chương mỏng nhất, từ 16 → 20 truyện):
+  - "Autobahn không giới hạn tốc độ" (35 ⭐)
+  - "Phân loại rác quốc dân" (36 ⭐)
+  - "Feierabend — Hết giờ là hết" (34)
+  - "Kỹ sư Đức đi picnic" (33)
+- Đánh lại số thứ tự truyện trong Ch01, Ch02, Ch13
+- Cập nhật scoring-log.md và rejected-log.md
+- Kiểm tra flow, thứ tự (truyện hay nhất đầu chương), ghi chú văn hóa: tất cả OK
+- Không tìm thấy truyện trùng nội dung nào khác (chỉ overlap chủ đề nhẹ — xếp hàng, thời tiết — nhưng khác văn hóa)
+- **Sửa lỗi tính toán** (theo Gemini PR review): sửa số ⭐ Ch01 (8→9), TB Ch02 (33.7→33.6), TB Ch04 (33.9→34.3), TB Ch13 (34.0→34.1), STT trùng truyện loại Ch04
+
 ## Ngày 5 - 2026-03-22
 
 ### Build & export (issue #26)

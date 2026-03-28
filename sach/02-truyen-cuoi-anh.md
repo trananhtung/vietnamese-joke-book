@@ -106,27 +106,7 @@ Bác con tin cầm điện thoại, giọng bình tĩnh:
 
 ---
 
-### 6. Câu cá ở sông Thames 🎣
-
-> 🌍 Nguồn gốc: Anh | Điểm: 32/40
-
-Hai ông người Anh rủ nhau ra sông Thames câu cá. Ngồi cạnh nhau, im lặng suốt 3 tiếng đồng hồ. Không ai nói một lời.
-
-Đến tiếng thứ tư, ông thứ nhất mở miệng:
-
-— Hôm nay trời đẹp nhỉ.
-
-Ông thứ hai liếc sang, mặt khó chịu:
-
-— Tôi ra đây câu cá, không phải để tám chuyện 😐
-
-Rồi im lặng tiếp... 3 tiếng nữa.
-
-> 😂💬 *4 tiếng im re là bình thường, một câu xã giao bị coi là "tám chuyện." Tối giản giao tiếp đến cực đoan — ở Việt Nam mà đi câu cá, chưa thả cần đã kể hết chuyện vợ con, hàng xóm, và thời sự rồi. Hai ông Anh này mà câu cá ở Việt Nam chắc bị tưởng là... câm 🤣*
-
----
-
-### 7. Nha sĩ lịch sự 🦷
+### 6. Nha sĩ lịch sự 🦷
 
 > 🌍 Nguồn gốc: Anh | Điểm: 33/40
 
@@ -156,7 +136,7 @@ Bác nhìn bác sĩ, đứng hình:
 
 ---
 
-### 8. Lịch sự trên xe buýt 🚌
+### 7. Lịch sự trên xe buýt 🚌
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
@@ -184,7 +164,7 @@ Bà cụ ngồi xuống. Xe chạy qua 5 trạm, ổng vẫn đứng đó, mặt
 
 ---
 
-### 9. Di chúc quý ông 📜
+### 8. Di chúc quý ông 📜
 
 > 🌍 Nguồn gốc: Anh | Điểm: 34/40
 
@@ -208,7 +188,7 @@ Luật sư ngạc nhiên:
 
 ---
 
-### 10. Hàng xóm người Anh 🏠
+### 9. Hàng xóm người Anh 🏠
 
 > 🌍 Nguồn gốc: Anh | Điểm: 32/40
 
@@ -226,7 +206,7 @@ Năm thứ 21, ông bên trái bỗng mở miệng:
 
 ---
 
-### 11. Thang máy ở London 🛗
+### 10. Thang máy ở London 🛗
 
 > 🌍 Nguồn gốc: Anh | Điểm: 33/40
 
@@ -252,7 +232,7 @@ Một ông lớn tuổi chậm rãi:
 
 ---
 
-### 12. Chó của quý ông 🐕
+### 11. Chó của quý ông 🐕
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
@@ -276,7 +256,7 @@ Bác kia yên tâm, cúi xuống vuốt ve. Con chó ngoạm một phát 😱
 
 ---
 
-### 13. Quý ông gặp cướp 💰
+### 12. Quý ông gặp cướp 💰
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
@@ -298,7 +278,7 @@ Tên cướp đứng hình...
 
 ---
 
-### 14. Phỏng vấn kiểu Anh 💼
+### 13. Phỏng vấn kiểu Anh 💼
 
 > 🌍 Nguồn gốc: Anh | Điểm: 33/40
 
@@ -326,7 +306,7 @@ Nhà tuyển dụng người Anh hỏi ứng viên:
 
 ---
 
-### 15. Taxi ở London 🚕
+### 14. Taxi ở London 🚕
 
 > 🌍 Nguồn gốc: Anh | Điểm: 32/40
 
@@ -346,7 +326,7 @@ Bác tài xế người Anh im lặng một lúc, rồi tỉnh bơ phán:
 
 ---
 
-### 16. Quý ông và cơn mưa ☔
+### 15. Quý ông và cơn mưa ☔
 
 > 🌍 Nguồn gốc: Anh | Điểm: 32/40
 
@@ -370,7 +350,7 @@ Mưa tầm tã ở London. Một quý ông đi bộ giữa mưa, ướt như chu
 
 ---
 
-### 17. Quý ông mất ví 👛
+### 16. Quý ông mất ví 👛
 
 > 🌍 Nguồn gốc: Anh | Điểm: 33/40
 
@@ -388,7 +368,7 @@ Rồi một giọng nói từ cuối toa vọng lại:
 
 ---
 
-### 18. Người Anh và mặt trời ☀️
+### 17. Người Anh và mặt trời ☀️
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
@@ -404,7 +384,7 @@ Nhưng một năm nọ, London bỗng nắng được 3 ngày liên tục. Cả 
 
 ---
 
-### 19. Lời cầu hôn kiểu Anh 💍
+### 18. Lời cầu hôn kiểu Anh 💍
 
 > 🌍 Nguồn gốc: Anh | ⭐ Điểm: 35/40
 
@@ -426,7 +406,7 @@ Cô gái rưng rưng:
 
 ---
 
-### 20. Đám cháy lịch sự 🔥
+### 19. Đám cháy lịch sự 🔥
 
 > 🌍 Nguồn gốc: Anh | Điểm: 34/40
 
@@ -452,8 +432,8 @@ Một tòa nhà ở London bốc cháy ngùn ngụt. Lính cứu hỏa chạy đ
 
 ## 📊 Thống kê chương
 
-- **Tổng số truyện:** 20
-- **Truyện đạt (≥ 30 điểm):** 20
+- **Tổng số truyện:** 19
+- **Truyện đạt (≥ 30 điểm):** 19
 - **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 8
 - **Điểm trung bình:** 33.6/40
-- **Truyện bị loại:** 10 (xem rejected-log)
+- **Truyện bị loại:** 11 (xem rejected-log)

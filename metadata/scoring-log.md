@@ -33,23 +33,25 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | 10 | Ông chồng đi siêu thị | 9 | 8 | 8 | 8 | 33 | ✅ |
 | 11 | Mua bảo hiểm nhân thọ | 9 | 8 | 9 | 9 | 35 | ⭐ |
 | 12 | Toán học vợ chồng | 8 | 9 | 8 | 8 | 33 | ✅ |
-| 13 | Lái xe với vợ | 8 | 7 | 8 | 8 | 31 | ✅ |
-| 14 | Ông ngoại và cháu | 9 | 9 | 9 | 8 | 35 | ⭐ |
-| 15 | Đi khám bệnh | 9 | 9 | 9 | 9 | 36 | ⭐ |
-| 16 | Con khôn nhà người ta | 8 | 9 | 8 | 8 | 33 | ✅ |
-| 17 | Siêu thị lúc nửa đêm | 8 | 8 | 9 | 8 | 33 | ✅ |
-| 18 | Câu hỏi triệu đô | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 19 | Cha và con | 9 | 9 | 8 | 8 | 34 | ✅ |
-| 20 | Đồng nghiệp chăm chỉ | 8 | 9 | 9 | 8 | 34 | ✅ |
-| 21 | Bảo hiểm xe hơi | 8 | 8 | 9 | 8 | 33 | ✅ |
-| 22 | Wifi miễn phí | 8 | 9 | 8 | 8 | 33 | ✅ |
+| ~~13~~ | ~~Lái xe với vợ~~ | ~~8~~ | ~~7~~ | ~~8~~ | ~~8~~ | ~~31~~ | ❌ Loại (trùng Nga #14) |
+| 13 | Ông ngoại và cháu | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 14 | Đi khám bệnh | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 15 | Con khôn nhà người ta | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 16 | Siêu thị lúc nửa đêm | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 17 | Câu hỏi triệu đô | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 18 | Cha và con | 9 | 9 | 8 | 8 | 34 | ✅ |
+| 19 | Đồng nghiệp chăm chỉ | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 20 | Bảo hiểm xe hơi | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 21 | Wifi miễn phí | 8 | 9 | 8 | 8 | 33 | ✅ |
 
 ### Thống kê
-- **Tổng truyện đánh giá:** 33 (22 đạt + 11 loại)
-- **Đạt (≥ 30):** 22 truyện
+- **Tổng truyện đánh giá:** 33 (21 đạt + 12 loại)
+- **Đạt (≥ 30):** 21 truyện
 - **Hay đặc biệt ⭐ (≥ 35):** 9 truyện
-- **Loại ❌ (< 30):** 11 truyện
-- **Điểm trung bình (truyện đạt):** 34.0/40
+- **Loại ❌ (< 30):** 12 truyện
+- **Điểm trung bình (truyện đạt):** 34.2/40
+
+> ✅ **Cập nhật Ngày 5:** Loại "Lái xe với vợ" (31/40) — trùng ý với Chương 05 Nga #14 "Lái xe ở Moscow" (34/40). Giữ bản Nga vì điểm cao hơn và phù hợp văn hóa hơn.
 
 > ✅ **Cập nhật Ngày 3 (lần 2):** Viết lại toàn bộ chương với ngôn ngữ tiếu lâm Việt Nam. Thay 5 truyện yếu/quá ngắn (Luật sư dưới đáy biển, Giá của sự thật, Gọi món ở nhà hàng, WiFi nhà thờ, Bác sĩ tâm lý) bằng 5 truyện mới (Vợ chồng già ở bệnh viện, Mua bảo hiểm nhân thọ, Đồng nghiệp chăm chỉ, Bảo hiểm xe hơi, Wifi miễn phí). Nâng cấp văn phong toàn bộ 22 truyện theo phong cách tiếu lâm VN.
 
@@ -80,28 +82,30 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | 3 | Xếp hàng | 8 | 8 | 9 | 8 | 33 | ✅ |
 | 4 | Phong cách xin lỗi | 9 | 9 | 9 | 9 | 36 | ⭐ |
 | 5 | Trà hay cà phê | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 6 | Câu cá ở sông Thames | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 7 | Nha sĩ lịch sự | 8 | 8 | 9 | 8 | 33 | ✅ |
-| 8 | Lịch sự trên xe buýt | 9 | 8 | 9 | 9 | 35 | ⭐ |
-| 9 | Di chúc quý ông | 8 | 8 | 9 | 8 | 33 | ✅ |
-| 10 | Hàng xóm người Anh | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 11 | Thang máy ở London | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 12 | Chó của quý ông | 9 | 8 | 9 | 9 | 35 | ⭐ |
-| 13 | Quý ông gặp cướp | 9 | 8 | 9 | 9 | 35 | ⭐ |
-| 14 | Phỏng vấn kiểu Anh | 8 | 8 | 9 | 8 | 33 | ✅ |
-| 15 | Taxi ở London | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 16 | Quý ông và cơn mưa | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 17 | Quý ông mất ví | 8 | 8 | 8 | 8 | 32 | ✅ |
-| 18 | Người Anh và mặt trời | 9 | 8 | 9 | 9 | 35 | ⭐ |
-| 19 | Lời cầu hôn kiểu Anh | 9 | 8 | 9 | 9 | 35 | ⭐ |
-| 20 | Đám cháy lịch sự | 9 | 8 | 9 | 8 | 34 | ✅ |
+| ~~6~~ | ~~Câu cá ở sông Thames~~ | ~~8~~ | ~~8~~ | ~~8~~ | ~~8~~ | ~~32~~ | ❌ Loại (trùng motif Nga #12, Bắc Âu #1) |
+| 6 | Nha sĩ lịch sự | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 7 | Lịch sự trên xe buýt | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 8 | Di chúc quý ông | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 9 | Hàng xóm người Anh | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 10 | Thang máy ở London | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 11 | Chó của quý ông | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 12 | Quý ông gặp cướp | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 13 | Phỏng vấn kiểu Anh | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 14 | Taxi ở London | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 15 | Quý ông và cơn mưa | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 16 | Quý ông mất ví | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 17 | Người Anh và mặt trời | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 18 | Lời cầu hôn kiểu Anh | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 19 | Đám cháy lịch sự | 9 | 8 | 9 | 8 | 34 | ✅ |
 
 ### Thống kê
-- **Tổng truyện đánh giá:** 30 (20 đạt + 10 loại)
-- **Đạt (≥ 30):** 20 truyện
+- **Tổng truyện đánh giá:** 30 (19 đạt + 11 loại)
+- **Đạt (≥ 30):** 19 truyện
 - **Hay đặc biệt ⭐ (≥ 35):** 8 truyện
-- **Loại ❌ (< 30):** 10 truyện
+- **Loại ❌ (< 30):** 11 truyện
 - **Điểm trung bình (truyện đạt):** 33.6/40
+
+> ✅ **Cập nhật Ngày 5:** Loại "Câu cá ở sông Thames" (32/40) — motif "im lặng bị phá vỡ" trùng với Nga #12 "Ngư dân Nga câu cá" và Bắc Âu #1 "Hai người Phần Lan đi nhậu."
 
 ### Truyện bị loại
 
@@ -184,17 +188,23 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | 14 | Nước Đức vs. Ý | 8 | 8 | 8 | 7 | 31 | ✅ |
 | 15 | Máy rửa bát | 9 | 8 | 9 | 8 | 34 | ✅ |
 | 16 | Humor Đức giải thích | 9 | 8 | 9 | 9 | 35 | ⭐ |
-| 17 | Người Đức đi chợ Việt Nam | 7 | 8 | 7 | 6 | 28 | ❌ |
-| 18 | Kỹ sư Đức và bóng đèn | 7 | 6 | 7 | 6 | 26 | ❌ |
-| 19 | Đức vs. Pháp về thời trang | 6 | 6 | 7 | 6 | 25 | ❌ |
-| 20 | Biển báo ở Đức | 7 | 7 | 7 | 6 | 27 | ❌ |
+| 17 | Autobahn không giới hạn tốc độ | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 18 | Phân loại rác quốc dân | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 19 | Feierabend — Hết giờ là hết | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 20 | Kỹ sư Đức đi picnic | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 21 | Người Đức đi chợ Việt Nam | 7 | 8 | 7 | 6 | 28 | ❌ |
+| 22 | Kỹ sư Đức và bóng đèn | 7 | 6 | 7 | 6 | 26 | ❌ |
+| 23 | Đức vs. Pháp về thời trang | 6 | 6 | 7 | 6 | 25 | ❌ |
+| 24 | Biển báo ở Đức | 7 | 7 | 7 | 6 | 27 | ❌ |
 
 ### Thống kê
-- **Tổng truyện đánh giá:** 20
-- **Đạt (≥ 30):** 16 truyện
-- **Hay đặc biệt ⭐ (≥ 35):** 7 truyện
+- **Tổng truyện đánh giá:** 24
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 9 truyện
 - **Loại ❌ (< 30):** 4 truyện
-- **Điểm trung bình (truyện đạt):** 33.8/40
+- **Điểm trung bình (truyện đạt):** 34.3/40
+
+> ✅ **Cập nhật Ngày 5:** Bổ sung 4 truyện mới: Autobahn (35 ⭐), Phân loại rác (36 ⭐), Feierabend (34), Kỹ sư đi picnic (33). Chương tăng từ 16 lên 20 truyện.
 
 ---
 
@@ -238,7 +248,7 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
-## Chương 13: Truyện Cười Bắc Âu — Ngày 2026-03-22
+## Chương 13: Truyện Cười Bắc Âu — Ngày 2026-03-22 (cập nhật Ngày 5)
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
 |---|-----------|---------|------------|---------|--------|------|------|
@@ -259,7 +269,7 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | 15 | Lái xe ở Na Uy mùa đông | 8 | 8 | 8 | 8 | 32 | ✅ |
 | 16 | Người Thụy Điển lắp tủ IKEA | 8 | 8 | 8 | 7 | 31 | ✅ |
 | 17 | Đan Mạch và xe đạp | 8 | 8 | 8 | 7 | 31 | ✅ |
-| 18 | Cách người Bắc Âu thể hiện tình cảm | 8 | 8 | 7 | 7 | 30 | ✅ |
+| ~~18~~ | ~~Cách người Bắc Âu thể hiện tình cảm~~ | ~~8~~ | ~~8~~ | ~~7~~ | ~~7~~ | ~~30~~ | ❌ Loại (yếu nhất chương, sát ngưỡng) |
 | 19 | Hướng dẫn sử dụng thang máy Phần Lan | 7 | 7 | 8 | 7 | 29 | ❌ |
 | 20 | Người Thụy Điển và đồ nội thất | 7 | 7 | 7 | 7 | 28 | ❌ |
 | 21 | Viking hiện đại | 7 | 6 | 8 | 6 | 27 | ❌ |
@@ -267,11 +277,12 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ### Thống kê
 - **Tổng truyện đánh giá:** 22
-- **Đạt (≥ 30):** 18 truyện
+- **Đạt (≥ 30):** 17 truyện
 - **Hay đặc biệt ⭐ (≥ 35):** 8 truyện
-- **Loại ❌ (< 30):** 4 truyện
-- **Điểm trung bình (truyện đạt):** 33.8/40
+- **Loại ❌:** 5 truyện
+- **Điểm trung bình (truyện đạt):** 34.1/40
 
+> ✅ **Cập nhật Ngày 5:** Loại "Cách người Bắc Âu thể hiện tình cảm" (30/40) — yếu nhất chương, sát ngưỡng loại, format dạng list không phù hợp kể lại.
 
 ---
 

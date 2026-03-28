@@ -300,33 +300,7 @@ Im lặng...
 
 ---
 
-### 13. Lái xe với vợ 🚙
-
-> 🌍 Nguồn gốc: Mỹ | Điểm: 31/40
-
-Anh Tèo lái xe, bà xã ngồi bên cạnh.
-
-Bà xã: "Anh vừa vượt đèn đỏ kìa!"
-
-Tèo: "Kệ đi, anh trai anh lái kiểu này suốt."
-
-Bà xã: "Anh vừa suýt đâm xe người ta!"
-
-Tèo: "Kệ đi, anh trai anh lái kiểu này suốt."
-
-Đến ngã tư, đèn xanh. Tèo dừng xe lại.
-
-Bà xã: "Ủa sao dừng? Đèn xanh mà!"
-
-Tèo mặt lạnh như tiền:
-
-— Biết đâu anh trai anh đang chạy từ hướng kia 😬
-
-> 😂💬 *Logic sai từ gốc nhưng nhất quán đến cuối: đèn đỏ thì "anh trai cũng vậy", đèn xanh thì sợ anh trai vượt từ hướng kia. Nghe xong muốn cãi mà không biết cãi chỗ nào — vì ổng đúng theo logic của ổng! Bó tay chấm com 🤣*
-
----
-
-### 14. Ông ngoại và cháu 👴
+### 13. Ông ngoại và cháu 👴
 
 > 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 35/40
 
@@ -352,7 +326,7 @@ Thằng nhỏ im lặng một hồi, mắt tròn xoe rồi hỏi nhỏ:
 
 ---
 
-### 15. Đi khám bệnh 🩺
+### 14. Đi khám bệnh 🩺
 
 > 🌍 Nguồn gốc: Mỹ | ⭐ Điểm: 36/40
 
@@ -368,7 +342,7 @@ Bác sĩ ngẩng lên, tỉnh bơ phán:
 
 ---
 
-### 16. Con khôn nhà người ta 👨‍👦
+### 15. Con khôn nhà người ta 👨‍👦
 
 > 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
@@ -390,7 +364,7 @@ Ba ông bố ngồi quán cà phê khoe con:
 
 ---
 
-### 17. Siêu thị lúc nửa đêm 🌙
+### 16. Siêu thị lúc nửa đêm 🌙
 
 > 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
@@ -410,7 +384,7 @@ Tèo mắt sáng rỡ:
 
 ---
 
-### 18. Câu hỏi triệu đô 💍
+### 17. Câu hỏi triệu đô 💍
 
 > 🌍 Nguồn gốc: Mỹ | Điểm: 32/40
 
@@ -440,7 +414,7 @@ Tèo đứng hình mấy giây rồi thở dài:
 
 ---
 
-### 19. Cha và con 💵
+### 18. Cha và con 💵
 
 > 🌍 Nguồn gốc: Mỹ | Điểm: 34/40
 
@@ -456,7 +430,7 @@ Bố nhướng mày:
 
 ---
 
-### 20. Đồng nghiệp chăm chỉ 🏢
+### 19. Đồng nghiệp chăm chỉ 🏢
 
 > 🌍 Nguồn gốc: Mỹ | Điểm: 34/40
 
@@ -472,7 +446,7 @@ Tèo gãi đầu:
 
 ---
 
-### 21. Bảo hiểm xe hơi 🚘
+### 20. Bảo hiểm xe hơi 🚘
 
 > 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
@@ -498,7 +472,7 @@ Tèo tỉnh bơ:
 
 ---
 
-### 22. Wifi miễn phí 📶
+### 21. Wifi miễn phí 📶
 
 > 🌍 Nguồn gốc: Mỹ | Điểm: 33/40
 
@@ -522,8 +496,8 @@ Nhân viên:
 
 ## 📊 Thống kê chương
 
-- **Tổng số truyện:** 22
-- **Truyện đạt (≥ 30 điểm):** 22
-- **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 8
-- **Điểm trung bình:** 34.0/40
-- **Truyện bị loại:** 11 (xem rejected-log)
+- **Tổng số truyện:** 21
+- **Truyện đạt (≥ 30 điểm):** 21
+- **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 9
+- **Điểm trung bình:** 34.2/40
+- **Truyện bị loại:** 12 (xem rejected-log)
