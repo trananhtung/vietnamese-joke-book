@@ -435,5 +435,5 @@ Một tòa nhà ở London bốc cháy ngùn ngụt. Lính cứu hỏa chạy đ
 - **Tổng số truyện:** 19
 - **Truyện đạt (≥ 30 điểm):** 19
 - **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 8
-- **Điểm trung bình:** 33.7/40
+- **Điểm trung bình:** 33.6/40
 - **Truyện bị loại:** 11 (xem rejected-log)

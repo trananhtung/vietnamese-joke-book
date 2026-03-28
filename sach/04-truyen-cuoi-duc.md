@@ -470,4 +470,4 @@ Bà vợ nhìn đống đồ, hỏi:
 
 ---
 
-📊 **Thống kê chương:** 20 truyện | Điểm trung bình: 33.9/40 | Truyện ⭐: 9
+📊 **Thống kê chương:** 20 truyện | Điểm trung bình: 34.3/40 | Truyện ⭐: 9

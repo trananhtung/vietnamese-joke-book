@@ -404,4 +404,4 @@ Một ông Đan Mạch đạp xe ngang, tỉnh bơ:
 
 ---
 
-📊 **Thống kê chương:** 17 truyện | Điểm trung bình: 34.0/40 | Truyện ⭐: 8
+📊 **Thống kê chương:** 17 truyện | Điểm trung bình: 34.1/40 | Truyện ⭐: 8

@@ -47,9 +47,9 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 ### Thống kê
 - **Tổng truyện đánh giá:** 33 (21 đạt + 12 loại)
 - **Đạt (≥ 30):** 21 truyện
-- **Hay đặc biệt ⭐ (≥ 35):** 8 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 9 truyện
 - **Loại ❌ (< 30):** 12 truyện
-- **Điểm trung bình (truyện đạt):** 34.1/40
+- **Điểm trung bình (truyện đạt):** 34.2/40
 
 > ✅ **Cập nhật Ngày 5:** Loại "Lái xe với vợ" (31/40) — trùng ý với Chương 05 Nga #14 "Lái xe ở Moscow" (34/40). Giữ bản Nga vì điểm cao hơn và phù hợp văn hóa hơn.
 
@@ -103,7 +103,7 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 - **Đạt (≥ 30):** 19 truyện
 - **Hay đặc biệt ⭐ (≥ 35):** 8 truyện
 - **Loại ❌ (< 30):** 11 truyện
-- **Điểm trung bình (truyện đạt):** 33.7/40
+- **Điểm trung bình (truyện đạt):** 33.6/40
 
 > ✅ **Cập nhật Ngày 5:** Loại "Câu cá ở sông Thames" (32/40) — motif "im lặng bị phá vỡ" trùng với Nga #12 "Ngư dân Nga câu cá" và Bắc Âu #1 "Hai người Phần Lan đi nhậu."
 
@@ -193,16 +193,16 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | 19 | Feierabend — Hết giờ là hết | 8 | 9 | 9 | 8 | 34 | ✅ |
 | 20 | Kỹ sư Đức đi picnic | 8 | 8 | 9 | 8 | 33 | ✅ |
 | 21 | Người Đức đi chợ Việt Nam | 7 | 8 | 7 | 6 | 28 | ❌ |
-| 18 | Kỹ sư Đức và bóng đèn | 7 | 6 | 7 | 6 | 26 | ❌ |
-| 19 | Đức vs. Pháp về thời trang | 6 | 6 | 7 | 6 | 25 | ❌ |
-| 20 | Biển báo ở Đức | 7 | 7 | 7 | 6 | 27 | ❌ |
+| 22 | Kỹ sư Đức và bóng đèn | 7 | 6 | 7 | 6 | 26 | ❌ |
+| 23 | Đức vs. Pháp về thời trang | 6 | 6 | 7 | 6 | 25 | ❌ |
+| 24 | Biển báo ở Đức | 7 | 7 | 7 | 6 | 27 | ❌ |
 
 ### Thống kê
 - **Tổng truyện đánh giá:** 24
 - **Đạt (≥ 30):** 20 truyện
 - **Hay đặc biệt ⭐ (≥ 35):** 9 truyện
 - **Loại ❌ (< 30):** 4 truyện
-- **Điểm trung bình (truyện đạt):** 33.9/40
+- **Điểm trung bình (truyện đạt):** 34.3/40
 
 > ✅ **Cập nhật Ngày 5:** Bổ sung 4 truyện mới: Autobahn (35 ⭐), Phân loại rác (36 ⭐), Feierabend (34), Kỹ sư đi picnic (33). Chương tăng từ 16 lên 20 truyện.
 
@@ -279,8 +279,8 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 - **Tổng truyện đánh giá:** 22
 - **Đạt (≥ 30):** 17 truyện
 - **Hay đặc biệt ⭐ (≥ 35):** 8 truyện
-- **Loại ❌ (< 30):** 5 truyện
-- **Điểm trung bình (truyện đạt):** 34.0/40
+- **Loại ❌:** 5 truyện
+- **Điểm trung bình (truyện đạt):** 34.1/40
 
 > ✅ **Cập nhật Ngày 5:** Loại "Cách người Bắc Âu thể hiện tình cảm" (30/40) — yếu nhất chương, sát ngưỡng loại, format dạng list không phù hợp kể lại.
 

@@ -17,6 +17,7 @@
 - Cập nhật scoring-log.md và rejected-log.md
 - Kiểm tra flow, thứ tự (truyện hay nhất đầu chương), ghi chú văn hóa: tất cả OK
 - Không tìm thấy truyện trùng nội dung nào khác (chỉ overlap chủ đề nhẹ — xếp hàng, thời tiết — nhưng khác văn hóa)
+- **Sửa lỗi tính toán** (theo Gemini PR review): sửa số ⭐ Ch01 (8→9), TB Ch02 (33.7→33.6), TB Ch04 (33.9→34.3), TB Ch13 (34.0→34.1), STT trùng truyện loại Ch04
 
 ## Ngày 5 - 2026-03-22
 

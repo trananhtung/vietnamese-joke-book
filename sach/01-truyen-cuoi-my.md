@@ -498,6 +498,6 @@ Nhân viên:
 
 - **Tổng số truyện:** 21
 - **Truyện đạt (≥ 30 điểm):** 21
-- **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 8
-- **Điểm trung bình:** 34.1/40
+- **Truyện hay đặc biệt ⭐ (≥ 35 điểm):** 9
+- **Điểm trung bình:** 34.2/40
 - **Truyện bị loại:** 12 (xem rejected-log)
