@@ -56,17 +56,13 @@ Trước khi gấp sách, xin kể bạn nghe một truyện:
 
 ---
 
-## Lời Mời Đóng Góp
+## Lời Nhắn Gửi
 
-**"Cười Vỡ Bụng" là dự án mã nguồn mở** — và tiếng cười thì không nên giữ cho riêng mình.
+Tiếng cười thì không nên giữ cho riêng mình.
 
-Nếu bạn:
-- Có truyện cười hay muốn chia sẻ
-- Phát hiện lỗi chính tả, dịch sai, hoặc truyện không buồn cười
-- Muốn đóng góp truyện cười từ quốc gia chưa có trong sách
-- Hoặc đơn giản là muốn nói "truyện này hay quá!"
+Nếu bạn thấy cuốn sách này hay, hãy chia sẻ cho bạn bè, người thân — hoặc đơn giản là kể lại một truyện cho ai đó nghe. Biết đâu bạn sẽ làm sáng lên một ngày của họ.
 
-Hãy ghé thăm dự án trên **GitHub** và tạo Pull Request hoặc Issue. Mọi đóng góp đều được hoan nghênh — từ một truyện cười mới đến một dấu phẩy bị thiếu.
+Và nếu bạn có truyện cười hay từ bất kỳ đâu trên thế giới, đừng ngại liên hệ với chúng tôi — biết đâu truyện của bạn sẽ xuất hiện trong phiên bản tiếp theo!
 
 > 🌍 *Vì một thế giới mà ai cũng có quyền cười — và cười đúng truyện hay.*
 

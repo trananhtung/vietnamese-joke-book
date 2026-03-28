@@ -49,7 +49,7 @@ Khi bạn thấy dấu **⭐** bên cạnh truyện — đó là truyện đạt
 
 Cuốn sách này được tạo ra bởi sự kết hợp giữa **AI và con người** — AI giúp tổng hợp, Việt hóa, và chấm điểm; con người kiểm duyệt, chỉnh sửa, và quyết định cuối cùng. Nếu bạn cười được, đó là nhờ cả hai. Nếu bạn không cười... thì chắc do AI. 😅
 
-Đây cũng là một **dự án mã nguồn mở** — mọi người đều có thể đóng góp truyện cười hay, sửa lỗi, hoặc đề xuất truyện mới. Vì tiếng cười, cũng như phần mềm tốt, nên được chia sẻ cho tất cả.
+Nếu bạn có truyện cười hay muốn chia sẻ, hoặc phát hiện chỗ nào chưa ưng ý, đừng ngại liên hệ — vì tiếng cười luôn hay hơn khi có nhiều người góp sức.
 
 ---
 
