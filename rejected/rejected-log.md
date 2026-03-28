@@ -2,6 +2,19 @@
 
 ---
 
+## Review Tuần 1 (Ngày 5) — Loại truyện trùng/yếu
+
+### Chương 01: Lái xe với vợ (31/40) ❌
+**Lý do loại:** Trùng ý hoàn toàn với Chương 05 Nga #14 "Lái xe ở Moscow" — cùng joke "anh trai vượt đèn đỏ, dừng đèn xanh." Giữ bản Nga vì điểm cao hơn (34/40) và phù hợp văn hóa Nga hơn.
+
+### Chương 02: Câu cá ở sông Thames (32/40) ❌
+**Lý do loại:** Motif "hai người ngồi im lặng, một người lên tiếng bị mắng" trùng với Chương 05 Nga #12 "Ngư dân Nga câu cá" (34/40) và Chương 13 Bắc Âu #1 "Hai người Phần Lan đi nhậu" (37/40). Giữ hai bản kia vì điểm cao hơn và mang đặc trưng văn hóa rõ nét hơn.
+
+### Chương 13: Cách người Bắc Âu thể hiện tình cảm (30/40) ❌
+**Lý do loại:** Yếu nhất chương, sát ngưỡng loại. Format dạng liệt kê so sánh thiếu narrative, khả năng kể lại thấp. Nội dung trùng lắp với motif "người Phần Lan ít nói" đã có trong nhiều truyện khác cùng chương.
+
+---
+
 ## Chương 15: Truyện Cười Úc & New Zealand — Ngày 2026-03-22
 
 ### 1. Boomerang không quay lại (28/40) ❌

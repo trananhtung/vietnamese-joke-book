@@ -404,22 +404,4 @@ Một ông Đan Mạch đạp xe ngang, tỉnh bơ:
 
 ---
 
-### 18. Cách người Bắc Âu thể hiện tình cảm ❤️
-
-> 🌍 Nguồn gốc: Bắc Âu | Điểm: 30/40
-
-**Người Mỹ** thể hiện tình yêu: "I LOVE YOU! You're AMAZING! You're the BEST!"
-
-**Người Pháp** thể hiện tình yêu: "Mon amour, tu es ma vie, ma raison de vivre..."
-
-**Người Phần Lan** thể hiện tình yêu: *...nhìn bạn 2 giây rồi quay đi.*
-
-Bạn: "Ủa, ổng có yêu tôi không?"
-
-Người Phần Lan khác: "Ổng nhìn bạn 2 giây lận á? Ổng yêu bạn lắm đó. Bình thường ổng nhìn người khác 0.5 giây thôi." 😳
-
-> 😂💬 *Tình yêu Phần Lan đo bằng giây nhìn nhau. 2 giây = yêu say đắm. 3 giây = cầu hôn. 4 giây = chắc bị sốt. Dân Việt Nam mình "yêu nhau cả ngày nhắn tin" — người Phần Lan mà nhắn tin 1 emoji/ngày là đã thuộc hàng "sến" rồi 🤣*
-
----
-
-📊 **Thống kê chương:** 18 truyện | Điểm trung bình: 33.8/40 | Truyện ⭐: 8
+📊 **Thống kê chương:** 17 truyện | Điểm trung bình: 34.0/40 | Truyện ⭐: 8

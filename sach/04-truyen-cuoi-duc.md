@@ -370,4 +370,104 @@ Khán giả cười to hơn.
 
 ---
 
-📊 **Thống kê chương:** 16 truyện | Điểm trung bình: 33.8/40 | Truyện ⭐: 7
+### 17. Autobahn không giới hạn tốc độ 🏎️
+
+> 🌍 Nguồn gốc: Đức | ⭐ Điểm: 35/40
+
+Du khách Pháp lái xe trên Autobahn lần đầu, đi 130 km/h — tự hào lắm.
+
+Một chiếc BMW phóng vèo qua như tên lửa. Ông nhìn đồng hồ tốc độ của BMW: ước chừng 250 km/h.
+
+Ổng gọi cho bạn Đức:
+
+— Ông ơi, ở đây có ai lái 250 km/h không vậy?!
+
+— 250? Đó là bà ngoại đi chợ. Ông muốn thấy nhanh thì chờ mấy anh kỹ sư BMW tan ca 😐
+
+— Mấy ổng đi bao nhiêu?!
+
+— Không ai biết. Đồng hồ tốc độ không ghi đến đó.
+
+> 😂💬 *Autobahn — đường cao tốc duy nhất trên thế giới mà lái 130 km/h bị coi là "cản trở giao thông." Bà ngoại đi 250, kỹ sư BMW đi ngoài thang đo — trong khi ở Việt Nam, đường cao tốc 120 km/h mà ai đi 100 đã bị bấm còi inh ỏi. Mà thôi, ở VN đường cao tốc còn có xe máy chạy ngược chiều nữa 🏍️*
+
+---
+
+### 18. Phân loại rác quốc dân ♻️
+
+> 🌍 Nguồn gốc: Đức | ⭐ Điểm: 36/40
+
+Du khách Ý đến Đức, ăn xong muốn vứt rác. Nhìn thấy 6 thùng rác xếp hàng, mỗi thùng một màu, mỗi thùng có hướng dẫn dài 2 trang.
+
+Ổng cầm vỏ hộp sữa, đứng trước dãy thùng, hoang mang:
+
+— Cái này... nhựa hay giấy?
+
+Ông Đức đi ngang, dừng lại phân tích:
+
+— Vỏ ngoài là giấy → thùng xanh dương. Nắp nhựa → tháo ra, bỏ thùng vàng. Bên trong có lớp tráng nhôm → bóc ra, bỏ thùng xám. Còn sữa thừa → đổ xuống cống, nhưng cống loại B, không phải cống loại A. 😤
+
+Ông Ý nhìn vỏ hộp, nhìn 6 cái thùng, rồi nhét nguyên hộp vào túi áo:
+
+— Thôi tui mang về Ý vứt 💀
+
+> 😂💬 *Ở Đức, vứt rác là một môn khoa học — cần kiến thức vật liệu, kỹ năng tháo lắp, và ít nhất 3 phút suy nghĩ cho mỗi món rác. Ở Việt Nam thì đơn giản hơn: tất cả vào một bọc, quăng vào xe rác. Tiện lợi hơn nhưng Greta Thunberg chắc muốn khóc 🤦*
+
+---
+
+### 19. Feierabend — Hết giờ là hết 🕐
+
+> 🌍 Nguồn gốc: Đức | Điểm: 34/40
+
+Sếp Mỹ gọi điện cho nhân viên Đức lúc 17:01:
+
+— Hans, anh gửi email báo cáo cho tôi được không?
+
+Im lặng.
+
+— Hans?
+
+— ...Thưa ông, bây giờ là 17:01. Feierabend bắt đầu từ 17:00.
+
+— Tôi biết, nhưng chỉ 1 email thôi mà!
+
+— Ông có thể gửi yêu cầu này qua hệ thống ticket. Tôi sẽ xử lý vào 8:00 sáng thứ Hai.
+
+— Hôm nay mới thứ Tư!
+
+— Đúng vậy. Nhưng ngày mai tôi có cuộc họp lúc 8:00, thứ Sáu tôi xử lý ticket từ thứ Ba. Nên thứ Hai tuần sau là slot sớm nhất. Chúc ông cuối tuần vui vẻ. 📴
+
+> 😂💬 *"Feierabend" — khái niệm thiêng liêng nhất của người Đức: hết giờ làm là KHÔNG LÀM. 17:01 gọi điện bị coi như xâm phạm nhân quyền. Dân công sở Việt Nam mà áp dụng Feierabend thì sếp chắc inbox trống trơn từ 5 giờ chiều, Zalo group chat im như tờ. Mơ ước muôn đời 🤣*
+
+---
+
+### 20. Kỹ sư Đức đi picnic 🧺
+
+> 🌍 Nguồn gốc: Đức | Điểm: 33/40
+
+Một gia đình Đức đi picnic. Ông bố mang theo:
+
+— Bàn gấp có thước đo để căn chỉnh mặt bàn phẳng (sai số ± 0.5 độ).
+
+— Nhiệt kế đo nhiệt độ ngoài trời (để quyết định bia nào phù hợp).
+
+— App dự báo thời tiết đồng bộ với vệ tinh (cập nhật mỗi 30 giây).
+
+— Bảng Excel lên kế hoạch ăn uống từng người, tính calo.
+
+Bà vợ nhìn đống đồ, hỏi:
+
+— Anh ơi, mình đi picnic hay đi nghiên cứu khoa học?
+
+Ổng nghiêm mặt:
+
+— Picnic không có kế hoạch thì khác gì hỗn loạn? 😤
+
+Đứa con gái 5 tuổi lén nhặt một bông hoa dại. Ông bố nhìn thấy:
+
+— Con ơi, bông hoa đó là loài Taraxacum officinale, không nằm trong danh sách cho phép hái. Để lại đi con.
+
+> 😂💬 *Picnic kiểu Đức: cần Excel, nhiệt kế, và kiến thức thực vật để hái hoa. Ông bố gọi bông hoa dại bằng tên khoa học — đứa con 5 tuổi chắc nghĩ bố đang niệm thần chú. Ở Việt Nam đi picnic chỉ cần: chiếu, đồ ăn, và điện thoại chụp ảnh check-in. Xong 📸*
+
+---
+
+📊 **Thống kê chương:** 20 truyện | Điểm trung bình: 33.9/40 | Truyện ⭐: 9
