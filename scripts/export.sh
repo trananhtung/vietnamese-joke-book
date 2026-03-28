@@ -9,6 +9,7 @@ cd "${ROOT}"
 INPUT="${ROOT}/full-book.md"
 OUTPUT_BASENAME="${ROOT}/Cuoi-Vo-Bung"
 PDF_HEADER="${ROOT}/templates/pdf-header.tex"
+PDF_TEMPLATE="${ROOT}/templates/pandoc-template.tex"
 TITLE="Cười Vỡ Bụng - Tuyển Tập Truyện Cười Thế Giới Cho Người Việt"
 AUTHOR="AI & Cộng đồng"
 
@@ -34,6 +35,10 @@ if command -v lualatex >/dev/null 2>&1; then
     PDF_HEADER_FLAG=(--include-in-header="${PDF_HEADER}")
   else
     echo "⚠️  Không tìm thấy ${PDF_HEADER}, PDF sẽ dùng style mặc định." >&2
+  fi
+  # Custom template tắt selnolig (crash khi gặp emoji flag codepoints)
+  if [[ -f "${PDF_TEMPLATE}" ]]; then
+    PDF_HEADER_FLAG+=(--template="${PDF_TEMPLATE}")
   fi
 elif command -v xelatex >/dev/null 2>&1; then
   PDF_ENGINE=xelatex
