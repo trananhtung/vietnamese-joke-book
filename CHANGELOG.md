@@ -1,5 +1,11 @@
 # Nhật Ký Thay Đổi - CƯỜI VỠ BỤNG
 
+## Ngày 5 (Lời nói đầu + Lời kết) - 2026-03-28
+
+### 📝 Viết Lời nói đầu + Lời kết (Issue #23)
+- **Lời nói đầu** (`00-loi-noi-dau.md`): giới thiệu dự án, cách đọc sách, giải thích hệ thống ⭐, lời cảm ơn, giọng văn vui vẻ gần gũi
+- **Lời kết** (`99-loi-ket.md`): tổng kết hành trình humor thế giới, thống kê (133 truyện, 7 chương, 59 ⭐), truyện cười cuối sách, lời mời đóng góp open source
+
 ## Ngày 5 (Review) - 2026-03-28
 
 ### 🔍 Review & Polish Tuần 1 — Phương Tây (Issue #11)
