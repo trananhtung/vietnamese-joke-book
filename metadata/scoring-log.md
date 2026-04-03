@@ -320,4 +320,37 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 - **Loại ❌ (< 30):** 4 truyện
 - **Điểm trung bình (truyện đạt):** 34.3/40
 
+---
+
+## Chương 06: Truyện Cười Nhật Bản - Ngày 6
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Cúi chào trên điện thoại | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 2 | Xin lỗi chuyên nghiệp | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 3 | Đúng giờ kiểu Nhật | 10 | 10 | 9 | 9 | 38 | ⭐ |
+| 4 | Học sinh Nhật và bài thi | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 5 | Nhân viên Nhật xin nghỉ phép | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 6 | Samurai đi siêu thị | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 7 | Người Nhật xếp hàng | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 8 | Sếp Nhật và giờ về | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 9 | Ninja đi phỏng vấn | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 10 | Mẹ Nhật và con trai | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 11 | Quà tặng kiểu Nhật | 8 | 9 | 9 | 9 | 35 | ⭐ |
+| 12 | Bố Nhật dạy con | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 13 | Cúi chào trong thang máy | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 14 | Du khách và nhà vệ sinh Nhật | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 15 | Sensei và câu hỏi của đệ tử | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 16 | Tàu điện Tokyo giờ cao điểm | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 17 | Họp ở công ty Nhật | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 18 | Ông nội và công nghệ | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 19 | Nhà hàng sushi và đầu bếp | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 20 | Người Nhật nói "Không" | 9 | 9 | 9 | 9 | 36 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 16 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.4/40
 

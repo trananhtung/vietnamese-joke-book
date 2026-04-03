@@ -1,5 +1,15 @@
 # Nhật Ký Thay Đổi - CƯỜI VỠ BỤNG
 
+## Ngày 6 - 2026-04-03
+
+### 📖 Chương 06: Truyện Cười Nhật Bản (Issue #12)
+- Tổng hợp và Việt hóa **20 truyện cười Nhật Bản**
+- Chủ đề: lịch sự quá mức, kỷ luật cực đoan, cha mẹ Á Đông, công sở Nhật, công nghệ
+- **20/20 truyện đạt** (≥ 30/40), **16 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.4/40 — chương có điểm TB cao nhất hiện tại
+- Truyện hay nhất: "Đúng giờ kiểu Nhật" (38/40) — so sánh 54 giây trễ tàu Nhật vs 54 phút xe buýt VN
+- Cập nhật `metadata/scoring-log.md`
+
 ## Ngày 5 (Lời nói đầu + Lời kết) - 2026-03-28
 
 ### 📝 Viết Lời nói đầu + Lời kết (Issue #23)
