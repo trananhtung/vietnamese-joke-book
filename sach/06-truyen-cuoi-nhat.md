@@ -4,7 +4,7 @@
 
 ## Về nền hài kịch Nhật Bản
 
-Nhật Bản có truyền thống hài kịch lâu đời từ nghệ thuật rakugo (kể chuyện cười solo) đến manzai (hài đôi — một người nói bậy, một người chỉnh). Humor Nhật thường xoay quanh sự lịch sự quá mức, kỷ luật đến mức cực đoan, và khoảng cách giữa ngoài mặt nghiêm túc với bên trong đầy hỗn loạn. Đặc biệt, truyện về cha mẹ Á Đông, học hành thi cử, và sếp nhân viên — cực kỳ gần gũi với người Việt.
+Nhật Bản có truyền thống hài kịch lâu đời từ nghệ thuật rakugo (kể chuyện cười solo) đến manzai (hài đôi — một người ngớ ngẩn, một người chỉnh). Hài hước Nhật thường xoay quanh sự lịch sự quá mức, kỷ luật đến mức cực đoan, và khoảng cách giữa ngoài mặt nghiêm túc với bên trong đầy hỗn loạn. Đặc biệt, truyện về cha mẹ Á Đông, học hành thi cử, và sếp nhân viên — cực kỳ gần gũi với người Việt.
 
 ---
 
@@ -146,7 +146,7 @@ Samurai:
 
 Vợ cầm bịch sữa muốn phang vô đầu chồng.
 
-> 😂💬 *Khi lập trình viên đi chợ: hiểu câu lệnh theo đúng nghĩa đen 100%. "Nếu có trứng → mua 6" — 6 cái gì? Sữa chứ gì, vì đang nói về sữa mà! Logic không sai, nhưng cái đầu thì có vấn đề. Bài học: khi sai vợ đi chợ, phải viết spec rõ ràng như document API 📋*
+> 😂💬 *Khi lập trình viên đi chợ: hiểu câu lệnh theo đúng nghĩa đen 100%. "Nếu có trứng → mua 6" — 6 cái gì? Sữa chứ gì, vì đang nói về sữa mà! Logic không sai, nhưng cái đầu thì có vấn đề. Bài học: khi sai chồng đi chợ, phải viết spec rõ ràng như document API 📋*
 
 ---
 

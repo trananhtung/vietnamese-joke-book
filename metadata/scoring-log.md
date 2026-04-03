@@ -322,7 +322,7 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
-## Chương 06: Truyện Cười Nhật Bản - Ngày 6
+## Chương 06: Truyện Cười Nhật Bản — Ngày 2026-04-03
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
 |---|-----------|---------|------------|---------|--------|------|------|
