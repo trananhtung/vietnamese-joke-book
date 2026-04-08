@@ -1,5 +1,16 @@
 # Nhật Ký Thay Đổi - CƯỜI VỠ BỤNG
 
+## Ngày 7 - 2026-04-08
+
+### 📝 Tạo Mục lục tổng hợp trong README.md (Issue #24)
+- Cập nhật README.md thành mục lục tổng hợp chi tiết
+- Thêm **bảng thống kê tổng quan**: 153 truyện, 75 ⭐, 8/17 chương, điểm TB 34.3/40
+- Chia mục lục thành 5 phần rõ ràng: Phương Tây, Châu Á, Trung Đông/Châu Phi/Mỹ Latin, Bắc Âu/Châu Đại Dương, Tổng Hợp & Bonus
+- Mỗi chương hiển thị: số truyện, số ⭐, điểm trung bình (hoặc "sắp ra mắt" cho chương chưa hoàn thành)
+- Thêm bảng **Top Chương Hay Nhất** (Nhật Bản dẫn đầu 35.4/40)
+- Bổ sung hướng dẫn đóng góp chi tiết với link đến quy tắc Việt hóa
+- Thêm mô tả cấu trúc thư mục
+
 ## Ngày 6 - 2026-04-03
 
 ### 📖 Chương 06: Truyện Cười Nhật Bản (Issue #12)
