@@ -322,6 +322,40 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 16: Truyện Cười Quốc Tế — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Ba ông trên hoang đảo | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 2 | Bác sĩ nói tin xấu | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 3 | Vợ chồng và trí nhớ | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 4 | Cuộc thi nói dối | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 5 | Máy bay sắp rơi | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 6 | Wifi trên thiên đường | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 7 | Google vs Bà | 9 | 10 | 9 | 8 | 36 | ⭐ |
+| 8 | Cuộc họp quốc tế — Ai trễ? | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 9 | Thang máy quốc tế | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 10 | Con mèo và quốc tịch | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 11 | Ba nước thi câu cá | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 12 | Máy bay hạng phổ thông | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 13 | Internet đi xuống | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 14 | Phỏng vấn xin việc quốc tế | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 15 | Thuế và hạnh phúc | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 16 | Hàng xóm toàn cầu | 9 | 10 | 9 | 8 | 36 | ⭐ |
+| 17 | Đi khám bác sĩ toàn cầu | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 18 | Năm Mới ở các nước | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 19 | Sân bay quốc tế | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 20 | Nếu thế giới là 1 văn phòng | 9 | 10 | 9 | 9 | 37 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 14 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.2/40
+
+---
+
 ## Chương 12: Truyện Cười Mỹ Latin — Ngày 2026-04-21
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
