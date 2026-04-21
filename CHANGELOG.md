@@ -2,6 +2,14 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 📖 Chương 12: Truyện Cười Mỹ Latin (Issue #20)
+- Tổng hợp và Việt hóa **20 truyện cười Mỹ Latin** (Brazil, Mexico, Argentina, Colombia, Cuba, Peru, Chile)
+- Chủ đề: bóng đá Brazil, la chancla Mexico, tự hào Argentina, telenovela, fiesta, Pedro Urdemales, carnival, siesta, piñata, alpaca
+- **20/20 truyện đạt** (≥ 30/40), **14 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.1/40
+- Truyện hay nhất: "Mẹ Mexico và la chancla" (38/40) — chiếc dép tông rẽ góc 90 độ
+- Cập nhật `metadata/scoring-log.md`
+
 ### 📖 Chương 11: Truyện Cười Châu Phi (Issue #19)
 - Tổng hợp và Việt hóa **20 truyện cười Châu Phi**
 - Chủ đề: Anansi & Sungura (ngụ ngôn), bóng đá, mạng 3G, mẹ và đồ ăn, mặc cả, safari, African Time, vuvuzela, cộng đồng làng
