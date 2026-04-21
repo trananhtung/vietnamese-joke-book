@@ -2,6 +2,14 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 🔍 Review & Polish Tuần 2 — Châu Á (Issue #17)
+- Review toàn bộ chương 06-09, 14 (5 chương Châu Á)
+- **Loại 1 truyện trùng ý:**
+  - Ch06 "Samurai đi siêu thị" (35/40) — trùng y hệt Ch01 Mỹ "Ông chồng đi siêu thị" (33/40): cùng motif "mua sữa, nếu có trứng mua 6"
+- **Bổ sung 1 truyện thay thế:** Ch06 "Máy bán hàng tự động" (35 ⭐)
+- Kiểm tra overlap motif: mẹ-điểm thi (Nhật/Hàn/Trung), overtime (Nhật/Hàn/Trung) — giữ lại vì punchline khác nhau và context văn hóa riêng
+- Cập nhật scoring-log.md
+
 ### 📖 Chương 14: Truyện Cười Đông Nam Á (Issue #16)
 - Tổng hợp và Việt hóa **20 truyện cười Đông Nam Á** (Thái Lan, Philippines, Indonesia, Singapore, Malaysia, Myanmar, Việt Nam)
 - Chủ đề: xe máy vạn năng, nụ cười Thái, bão Philippines, kẹt xe Jakarta, ăn cay, phạt Singapore, durian, karaoke, Grab/Gojek, nước mắm, Songkran, ASEAN họp mặt

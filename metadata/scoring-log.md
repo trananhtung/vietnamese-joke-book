@@ -467,7 +467,8 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 | 3 | Đúng giờ kiểu Nhật | 10 | 10 | 9 | 9 | 38 | ⭐ |
 | 4 | Học sinh Nhật và bài thi | 9 | 9 | 9 | 9 | 36 | ⭐ |
 | 5 | Nhân viên Nhật xin nghỉ phép | 9 | 9 | 10 | 9 | 37 | ⭐ |
-| 6 | Samurai đi siêu thị | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| ~~6~~ | ~~Samurai đi siêu thị~~ | ~~9~~ | ~~8~~ | ~~9~~ | ~~9~~ | ~~35~~ | ❌ Loại (trùng Mỹ #10) |
+| 6 | Máy bán hàng tự động | 9 | 8 | 9 | 9 | 35 | ⭐ |
 | 7 | Người Nhật xếp hàng | 9 | 9 | 9 | 9 | 36 | ⭐ |
 | 8 | Sếp Nhật và giờ về | 9 | 8 | 9 | 9 | 35 | ⭐ |
 | 9 | Ninja đi phỏng vấn | 9 | 8 | 9 | 9 | 35 | ⭐ |
