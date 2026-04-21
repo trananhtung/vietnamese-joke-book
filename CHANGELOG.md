@@ -2,6 +2,14 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 📖 Chương 14: Truyện Cười Đông Nam Á (Issue #16)
+- Tổng hợp và Việt hóa **20 truyện cười Đông Nam Á** (Thái Lan, Philippines, Indonesia, Singapore, Malaysia, Myanmar, Việt Nam)
+- Chủ đề: xe máy vạn năng, nụ cười Thái, bão Philippines, kẹt xe Jakarta, ăn cay, phạt Singapore, durian, karaoke, Grab/Gojek, nước mắm, Songkran, ASEAN họp mặt
+- **20/20 truyện đạt** (≥ 30/40), **15 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.3/40
+- Truyện hay nhất: "Xe máy Đông Nam Á" (38/40) — chở cả gia đình + tủ lạnh trên 1 xe máy
+- Cập nhật `metadata/scoring-log.md`
+
 ### 📖 Chương 09: Truyện Cười Ấn Độ (Issue #15)
 - Tổng hợp và Việt hóa **20 truyện cười Ấn Độ**
 - Chủ đề: truyện Birbal cổ điển, đám cưới sắp đặt, IT support, gia đình đông đúc, cricket, Bollywood, cà ri, xe lửa, head wobble, chọn nghề, jugaad

@@ -322,6 +322,40 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 14: Truyện Cười Đông Nam Á — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Xe máy Đông Nam Á — Phương tiện vạn năng | 10 | 10 | 9 | 9 | 38 | ⭐ |
+| 2 | Thái Lan — Xứ sở nụ cười | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 3 | Philippines — Bão cũng phải vui | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 4 | Indonesia — Đất nước vạn đảo | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 5 | Ăn cay — Cuộc chiến Đông Nam Á | 9 | 10 | 9 | 8 | 36 | ⭐ |
+| 6 | Singapore — Phạt là nghệ thuật | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 7 | Malaysia — Đa văn hóa ẩm thực | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 8 | Myanmar — Nhẫn nại là siêu năng lực | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 9 | Thời tiết Đông Nam Á — Hai mùa | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 10 | Karaoke — Tôn giáo Đông Nam Á | 9 | 10 | 9 | 8 | 36 | ⭐ |
+| 11 | Grab/Gojek — Siêu anh hùng ĐNÁ | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 12 | Thái Lan — Đất nước sabai sabai | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 13 | Durian — Vua trái cây gây chia rẽ | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 14 | Giao thông ĐNÁ — Luật bất thành văn | 9 | 10 | 9 | 7 | 35 | ⭐ |
+| 15 | Philippines — Tiếng Anh nửa mùa | 8 | 8 | 9 | 9 | 34 | ✅ |
+| 16 | Nước mắm — Vũ khí bí mật VN | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 17 | Tết Songkran — Lễ hội té nước | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 18 | Cà phê Đông Nam Á | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 19 | Xe tuk-tuk và giá du khách | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 20 | Đông Nam Á — Khi cả khu vực họp mặt | 9 | 10 | 9 | 9 | 37 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 15 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.3/40
+
+---
+
 ## Chương 09: Truyện Cười Ấn Độ — Ngày 2026-04-21
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
