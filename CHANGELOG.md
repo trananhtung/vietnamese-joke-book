@@ -2,6 +2,13 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 📖 Chương 17: Bonus — Truyện Cười Kinh Điển (Issue #22)
+- Tổng hợp và Việt hóa **15 truyện cười kinh điển nhất mọi thời đại**
+- Chủ đề: Philogelos cổ đại, LaughLab "hay nhất thế giới", Einstein, Sherlock Holmes, Descartes, ốc sên, vé số, ba điều ước, con lừa
+- **15/15 truyện đạt** (≥ 30/40), **14 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.9/40 — chương có điểm TB cao nhất toàn sách
+- Cập nhật `metadata/scoring-log.md`
+
 ### 📖 Chương 16: Truyện Cười Quốc Tế (Issue #21)
 - Tổng hợp và Việt hóa **20 truyện cười quốc tế** (đa quốc gia, so sánh văn hóa)
 - Chủ đề: hoang đảo 3 ông, bác sĩ tin xấu, cuộc thi nói dối, máy bay rơi, wifi thiên đường, Google vs Bà, thang máy quốc tế, mèo quốc tịch, mất wifi
