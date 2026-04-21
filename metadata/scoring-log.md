@@ -322,6 +322,35 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 17: Bonus — Truyện Cười Kinh Điển — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Truyện cười cổ nhất — Philogelos | 9 | 8 | 10 | 9 | 36 | ⭐ |
+| 2 | Truyện cười hay nhất — LaughLab | 10 | 9 | 9 | 9 | 37 | ⭐ |
+| 3 | Einstein và tài xế taxi | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 4 | Sherlock Holmes đi cắm trại | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 5 | Con vẹt nói bậy | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 6 | Anh chàng chậm hiểu (ốc sên) | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 7 | Descartes ở quán bar | 9 | 8 | 10 | 9 | 36 | ⭐ |
+| 8 | Bức thư của ông lão | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 9 | Con chó và bài thi | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 10 | Chiếc vé số | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 11 | Hỏi đường | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 12 | Newton và quả táo — Phiên bản hài | 9 | 10 | 9 | 7 | 35 | ⭐ |
+| 13 | Ba điều ước | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 14 | Bức ảnh gia đình | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 15 | Bài học từ con lừa | 9 | 9 | 9 | 9 | 36 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 15
+- **Đạt (≥ 30):** 15 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 14 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.9/40
+
+---
+
 ## Chương 16: Truyện Cười Quốc Tế — Ngày 2026-04-21
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
