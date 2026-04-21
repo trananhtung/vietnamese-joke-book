@@ -2,6 +2,14 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 📖 Chương 11: Truyện Cười Châu Phi (Issue #19)
+- Tổng hợp và Việt hóa **20 truyện cười Châu Phi**
+- Chủ đề: Anansi & Sungura (ngụ ngôn), bóng đá, mạng 3G, mẹ và đồ ăn, mặc cả, safari, African Time, vuvuzela, cộng đồng làng
+- **20/20 truyện đạt** (≥ 30/40), **14 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.0/40
+- Truyện hay nhất: "Anansi và Sư tử" (37/40), "Mẹ châu Phi và đồ ăn" (37/40)
+- Cập nhật `metadata/scoring-log.md`
+
 ### 📖 Chương 10: Truyện Cười Trung Đông (Issue #18)
 - Tổng hợp và Việt hóa **20 truyện cười Trung Đông**
 - Chủ đề: Nasruddin (8 truyện cổ điển), Dubai siêu xe, sa mạc, dầu mỏ, falcon, souk, thời tiết 50°C
