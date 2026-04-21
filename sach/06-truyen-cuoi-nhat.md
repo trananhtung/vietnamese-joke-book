@@ -118,35 +118,37 @@ Tanaka mừng quá... rồi cảm thấy tội lỗi, nên đi làm thêm 2 ngà
 
 ---
 
-### 6. Samurai đi siêu thị 🛒
+### 6. Máy bán hàng tự động 🎰
 
 > 🌍 Nguồn gốc: Nhật Bản | ⭐ Điểm: 35/40
 
-Một samurai hiện đại đi siêu thị. Vợ dặn:
+Nhật Bản có 5 triệu máy bán hàng tự động — nhiều nhất thế giới. Bán ĐỦ THỨ: nước, cà phê, trứng, gạo, hoa, ô, cà vạt, thậm chí cả... quần lót.
 
-— Mua 1 bịch sữa. Nếu có trứng thì mua 6.
+Du khách Việt Nam đi dạo phố Tokyo, 100 mét gặp 1 cái máy:
 
-Samurai trở về với 6 bịch sữa.
+— Máy bán nước. OK, bình thường.
 
-Vợ ngơ ngác:
+200 mét:
 
-— Sao mua 6 bịch sữa?! 😳
+— Máy bán chuối. Ờ... lạ nhỉ.
 
-Samurai tỉnh bơ:
+300 mét:
 
-— Có trứng.
+— Máy bán CÀ VẠT?! 😳
+
+500 mét:
+
+— Máy bán... BÓ HOA để xin lỗi vợ?!
+
+Anh Việt gọi điện về nhà:
+
+— Em ơi, bên Nhật có máy bán hàng tự động bán mọi thứ. Chắc sớm muộn sẽ có máy bán CẢ CHỒNG MỚI! 💀
 
 Vợ:
 
-— ...
+— Gửi anh link mua ngay! 😏
 
-Samurai:
-
-— Em nói "nếu có trứng thì mua 6." Có trứng → mua 6 bịch sữa. Logic hoàn hảo.
-
-Vợ cầm bịch sữa muốn phang vô đầu chồng.
-
-> 😂💬 *Khi lập trình viên đi chợ: hiểu câu lệnh theo đúng nghĩa đen 100%. "Nếu có trứng → mua 6" — 6 cái gì? Sữa chứ gì, vì đang nói về sữa mà! Logic không sai, nhưng cái đầu thì có vấn đề. Bài học: khi sai chồng đi chợ, phải viết spec rõ ràng như document API 📋*
+> 😂💬 *5 triệu máy bán hàng tự động — trung bình 1 máy cho 23 người Nhật. Bán từ nước lọc đến bó hoa xin lỗi vợ — Nhật Bản giải quyết mọi nhu cầu bằng máy. Ở Việt Nam mà có máy bán hàng tự động chắc 3 ngày bị phá khóa lấy tiền xu rồi 🤣*
 
 ---
 
