@@ -2,6 +2,11 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 🏷️ Phân loại truyện theo chủ đề (Issue #33)
+- Tạo `metadata/topic-index.md` — phân loại 331 truyện thành 12 chủ đề
+- Chủ đề: Gia đình, Công sở, Trí tuệ, Ẩm thực, Giao thông, Công nghệ, Tình yêu, Trẻ em, Thể thao, Văn hóa, Động vật, Nghề nghiệp
+- Cập nhật README.md với link đến topic index
+
 ### 📝 Cập nhật Mục lục README (Issue #24)
 - Cập nhật mục lục tổng hợp trong README.md với số truyện và ⭐ chính xác cho tất cả 17 chương
 - Tổng: **331 truyện**, **198 ⭐**

@@ -29,6 +29,12 @@ Cuốn sách tổng hợp những câu chuyện cười hay nhất từ khắp n
 | [Lời kết](sach/99-loi-ket.md) | Lời kết | - | - |
 | | **TỔNG CỘNG** | **331** | **198** |
 
+## 🏷️ Phân Loại Theo Chủ Đề
+
+Ngoài phân loại theo quốc gia, bạn có thể tìm truyện theo [**chủ đề**](metadata/topic-index.md):
+
+👨‍👩‍👧‍👦 Gia đình | 💼 Công sở | 🧠 Trí tuệ | 🍛 Ẩm thực | 🚗 Giao thông | 📱 Công nghệ | ❤️ Tình yêu | 🎓 Trẻ em | ⚽ Thể thao | 🌍 Văn hóa | 🐾 Động vật | 👨‍⚕️ Nghề nghiệp
+
 ## ⭐ Hệ Thống Đánh Giá
 
 Mỗi truyện được chấm điểm theo 4 tiêu chí (thang 10):
