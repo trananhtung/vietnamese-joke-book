@@ -322,6 +322,40 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 11: Truyện Cười Châu Phi — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Anansi và Sư tử | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 2 | Thỏ Sungura và Linh cẩu | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 3 | Bóng đá — Tôn giáo châu Phi | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 4 | Mạng 3G châu Phi | 8 | 8 | 9 | 9 | 34 | ✅ |
+| 5 | Mẹ châu Phi và đồ ăn | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 6 | Chợ châu Phi — Trả giá | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 7 | Taxi ở châu Phi | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 8 | Đại gia đình châu Phi | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 9 | Điện ở châu Phi | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 10 | Safari và du khách | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 11 | "African Time" | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 12 | Bà ngoại và điện thoại | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 13 | Âm nhạc châu Phi | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 14 | Xe buýt châu Phi | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 15 | Cắt tóc ở châu Phi | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 16 | Trời nóng và sáng tạo | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 17 | Nigeria và điện thoại | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 18 | Ông trưởng làng và internet | 9 | 10 | 9 | 8 | 36 | ⭐ |
+| 19 | Châu Phi và lạc quan | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 20 | Vuvuzela — Vũ khí âm thanh | 9 | 8 | 9 | 9 | 35 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 14 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.0/40
+
+---
+
 ## Chương 10: Truyện Cười Trung Đông — Ngày 2026-04-21
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
