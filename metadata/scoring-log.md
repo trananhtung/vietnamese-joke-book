@@ -322,6 +322,40 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 12: Truyện Cười Mỹ Latin — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Bóng đá Brazil | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 2 | Mẹ Mexico và la chancla | 10 | 10 | 9 | 9 | 38 | ⭐ |
+| 3 | Argentina — Tự hào nhất | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 4 | Telenovela — Drama vô tận | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 5 | Fiesta — Bất kỳ lý do | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 6 | Giao thông ở Brazil | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 7 | Pedro Urdemales và ông chủ | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 8 | Cà phê Colombia | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 9 | Carnival Brazil | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 10 | Mexico và ớt | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 11 | Cuba và xe cổ | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 12 | Tango Argentina | 8 | 8 | 9 | 9 | 34 | ✅ |
+| 13 | Mẹ Mỹ Latin và con cái | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 14 | Amazon và tự nhiên | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 15 | Peru và alpaca | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 16 | Colombia và cà phê sáng | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 17 | Siesta — Giấc ngủ trưa | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 18 | Taxi Mỹ Latin | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 19 | Piñata — Đập kẹo | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 20 | Mỹ Latin — Cả lục địa tiệc | 9 | 9 | 9 | 9 | 36 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 14 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.1/40
+
+---
+
 ## Chương 11: Truyện Cười Châu Phi — Ngày 2026-04-21
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
