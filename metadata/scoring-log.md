@@ -322,6 +322,40 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 09: Truyện Cười Ấn Độ — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Birbal và câu hỏi của vua Akbar | 10 | 9 | 10 | 9 | 38 | ⭐ |
+| 2 | Đám cưới sắp đặt | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 3 | IT Support từ Ấn Độ | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 4 | Gia đình Ấn Độ đi du lịch | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 5 | Cricket — Tôn giáo quốc dân | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 6 | Bollywood và đời thực | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 7 | Cà ri — Linh hồn ẩm thực | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 8 | Xe lửa Ấn Độ | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 9 | Đàm phán kiểu Ấn Độ — Head wobble | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 10 | Hôn nhân sắp đặt phiên bản hiện đại | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 11 | Đường phố Ấn Độ | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 12 | Ông nội Ấn Độ và yoga | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 13 | Tech support Ấn Độ — Level 2 | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 14 | Đại gia đình Ấn Độ | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 15 | Tắc đường ở Mumbai | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 16 | Cha mẹ Ấn Độ chọn nghề cho con | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 17 | Ngày lễ ở Ấn Độ | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 18 | Ông chồng Ấn và vợ mua sắm | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 19 | Ấn Độ và không gian vũ trụ | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 20 | Bà mẹ Ấn Độ và đồ ăn | 9 | 9 | 9 | 9 | 36 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 14 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.2/40
+
+---
+
 ## Chương 08: Truyện Cười Trung Quốc — Ngày 2026-04-21
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |

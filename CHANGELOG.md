@@ -2,6 +2,14 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 📖 Chương 09: Truyện Cười Ấn Độ (Issue #15)
+- Tổng hợp và Việt hóa **20 truyện cười Ấn Độ**
+- Chủ đề: truyện Birbal cổ điển, đám cưới sắp đặt, IT support, gia đình đông đúc, cricket, Bollywood, cà ri, xe lửa, head wobble, chọn nghề, jugaad
+- **20/20 truyện đạt** (≥ 30/40), **14 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.2/40
+- Truyện hay nhất: "Birbal và câu hỏi của vua Akbar" (38/40) — trí tuệ đảo ngược logic kinh điển
+- Cập nhật `metadata/scoring-log.md`
+
 ### 📖 Chương 08: Truyện Cười Trung Quốc (Issue #14)
 - Tổng hợp và Việt hóa **20 truyện cười Trung Quốc**
 - Chủ đề: truyện Trạng cổ điển, thầy đồ, tiết kiệm, 996, giá nhà, bà nội, mặc cả, WeChat, Gaokao, phong thủy, Tết
