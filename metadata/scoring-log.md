@@ -322,6 +322,40 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 07: Truyện Cười Hàn Quốc — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Thứ bậc trên bàn nhậu | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 2 | Ajumma trên tàu điện ngầm | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 3 | Skincare routine của con trai Hàn | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 4 | Ppalli ppalli — Nhanh nhanh! | 10 | 9 | 10 | 9 | 38 | ⭐ |
+| 5 | Idol và fangirl | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 6 | Ăn mì cay thể hiện bản lĩnh | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 7 | Sếp Hàn và giờ tan ca | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 8 | Bà mẹ Hàn và điểm thi | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 9 | Hẹn hò kiểu Hàn Quốc | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 10 | Anh lính Hàn và nghĩa vụ quân sự | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 11 | Soju và tình bạn | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 12 | Mùa đông Hàn Quốc và váy ngắn | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 13 | Delivery ở Hàn Quốc | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 14 | Phẫu thuật thẩm mỹ ở Gangnam | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 15 | Noraebang — Karaoke Hàn Quốc | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 16 | Con trai Hàn và quân đội | 8 | 9 | 9 | 7 | 33 | ✅ |
+| 17 | Tuổi tác ở Hàn Quốc | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 18 | Wi-Fi Hàn Quốc | 8 | 8 | 8 | 8 | 32 | ✅ |
+| 19 | Selca — Selfie kiểu Hàn | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 20 | Kimchi và niềm tự hào dân tộc | 9 | 9 | 9 | 9 | 36 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 15 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.1/40
+
+---
+
 ## Chương 06: Truyện Cười Nhật Bản — Ngày 2026-04-03
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |

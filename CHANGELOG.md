@@ -1,5 +1,15 @@
 # Nhật Ký Thay Đổi - CƯỜI VỠ BỤNG
 
+## Ngày 7 - 2026-04-21
+
+### 📖 Chương 07: Truyện Cười Hàn Quốc (Issue #13)
+- Tổng hợp và Việt hóa **20 truyện cười Hàn Quốc**
+- Chủ đề: thứ bậc & bàn nhậu, ajumma, skincare, ppalli ppalli, K-pop/idol, soju, nghĩa vụ quân sự, kimchi
+- **20/20 truyện đạt** (≥ 30/40), **15 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.1/40
+- Truyện hay nhất: "Ppalli ppalli — Nhanh nhanh!" (38/40) — văn hóa "nhanh nhanh" Hàn Quốc vs chất lượng
+- Cập nhật `metadata/scoring-log.md`
+
 ## Ngày 6 - 2026-04-03
 
 ### 📖 Chương 06: Truyện Cười Nhật Bản (Issue #12)
