@@ -2,6 +2,10 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 📝 Cập nhật Mục lục README (Issue #24)
+- Cập nhật mục lục tổng hợp trong README.md với số truyện và ⭐ chính xác cho tất cả 17 chương
+- Tổng: **331 truyện**, **198 ⭐**
+
 ### 📖 Chương 17: Bonus — Truyện Cười Kinh Điển (Issue #22)
 - Tổng hợp và Việt hóa **15 truyện cười kinh điển nhất mọi thời đại**
 - Chủ đề: Philogelos cổ đại, LaughLab "hay nhất thế giới", Einstein, Sherlock Holmes, Descartes, ốc sên, vé số, ba điều ước, con lừa
