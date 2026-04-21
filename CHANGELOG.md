@@ -2,6 +2,14 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 📖 Chương 08: Truyện Cười Trung Quốc (Issue #14)
+- Tổng hợp và Việt hóa **20 truyện cười Trung Quốc**
+- Chủ đề: truyện Trạng cổ điển, thầy đồ, tiết kiệm, 996, giá nhà, bà nội, mặc cả, WeChat, Gaokao, phong thủy, Tết
+- **20/20 truyện đạt** (≥ 30/40), **15 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.4/40 — bằng chương Nhật Bản (cao nhất)
+- Truyện hay nhất: "Trạng và quan huyện" (38/40) — trí tuệ dân gian thắng quyền lực
+- Cập nhật `metadata/scoring-log.md`
+
 ### 📖 Chương 07: Truyện Cười Hàn Quốc (Issue #13)
 - Tổng hợp và Việt hóa **20 truyện cười Hàn Quốc**
 - Chủ đề: thứ bậc & bàn nhậu, ajumma, skincare, ppalli ppalli, K-pop/idol, soju, nghĩa vụ quân sự, kimchi

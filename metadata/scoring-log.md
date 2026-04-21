@@ -322,6 +322,40 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 08: Truyện Cười Trung Quốc — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Trạng và quan huyện | 10 | 9 | 10 | 9 | 38 | ⭐ |
+| 2 | Thầy đồ dốt và bài thơ | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 3 | Tiết kiệm kiểu Trung Quốc | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 4 | 996 — Làm việc kiểu Trung Quốc | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 5 | Giá nhà ở Bắc Kinh | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 6 | Bà nội Trung Quốc và cháu | 9 | 10 | 9 | 9 | 37 | ⭐ |
+| 7 | Trả giá ở chợ Trung Quốc | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 8 | Wechat — Ứng dụng vạn năng | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 9 | Con một và 6 người lớn | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 10 | Bác sĩ Trung y và Tây y | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 11 | Thi Cao Khảo (Gaokao) | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 12 | Ông bà và công nghệ | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 13 | Mặc cả mua ô tô | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 14 | Phong thủy và đời sống | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 15 | Đám cưới và phong bì | 9 | 10 | 9 | 8 | 36 | ⭐ |
+| 16 | Tài xế taxi Bắc Kinh | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 17 | Mẹ chồng và con dâu | 9 | 10 | 9 | 8 | 36 | ⭐ |
+| 18 | Học sinh Trung Quốc và toán | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 19 | Nhà hàng buffet và người TQ | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 20 | Tết Nguyên Đán và câu hỏi bà con | 9 | 10 | 9 | 9 | 37 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 15 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.4/40
+
+---
+
 ## Chương 07: Truyện Cười Hàn Quốc — Ngày 2026-04-21
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
