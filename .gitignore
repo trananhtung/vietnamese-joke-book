@@ -1,5 +1,6 @@
 # Output files
 full-book.md
+docs/
 *.pdf
 *.epub
 *.docx

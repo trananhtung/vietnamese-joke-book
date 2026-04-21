@@ -1,0 +1,22 @@
+[book]
+title = "CƯỜI VỠ BỤNG — Tuyển Tập Truyện Cười Thế Giới Cho Người Việt"
+authors = ["Tung Tran"]
+description = "331 truyện cười từ 15 quốc gia, Việt hóa cho người Việt"
+language = "vi"
+src = "sach"
+
+[build]
+build-dir = "docs"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/trananhtung/vietnamese-joke-book"
+edit-url-template = "https://github.com/trananhtung/vietnamese-joke-book/edit/main/sach/{path}"
+no-section-label = false
+additional-css = ["theme/custom.css"]
+
+[output.html.search]
+enable = true
+limit-results = 30
+use-hierarchical-headings = true
