@@ -1,0 +1,86 @@
+name: "😂 Đề xuất truyện cười mới"
+description: "Đề xuất một truyện cười mới cho cuốn sách"
+title: "[Truyện mới] "
+labels: ["new-joke", "review-needed"]
+body:
+  - type: input
+    id: joke-name
+    attributes:
+      label: Tên truyện
+      placeholder: "VD: Ông bác sĩ và bệnh nhân"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: country
+    attributes:
+      label: Nguồn gốc (nước/khu vực)
+      options:
+        - Mỹ
+        - Anh
+        - Pháp
+        - Đức
+        - Nga
+        - Nhật Bản
+        - Hàn Quốc
+        - Trung Quốc
+        - Ấn Độ
+        - Trung Đông
+        - Châu Phi
+        - Mỹ Latin
+        - Bắc Âu
+        - Đông Nam Á
+        - Úc & New Zealand
+        - Quốc tế / Không rõ
+    validations:
+      required: true
+
+  - type: textarea
+    id: joke-content
+    attributes:
+      label: Nội dung truyện (đã Việt hóa)
+      description: "Viết theo phong cách tiếu lâm Việt Nam, dùng emoji tại điểm cao trào"
+      placeholder: "Một hôm, ông bác sĩ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: Bình luận hài hước
+      description: "Viết bình luận vui sau truyện (bắt đầu bằng 😂💬)"
+      placeholder: "😂💬 *Bác sĩ mà như vậy thì...*"
+    validations:
+      required: true
+
+  - type: input
+    id: score-surprise
+    attributes:
+      label: "Điểm: Tính bất ngờ (/10)"
+      placeholder: "8"
+    validations:
+      required: true
+
+  - type: input
+    id: score-vietnam
+    attributes:
+      label: "Điểm: Phù hợp văn hóa Việt (/10)"
+      placeholder: "9"
+    validations:
+      required: true
+
+  - type: input
+    id: score-easy
+    attributes:
+      label: "Điểm: Dễ hiểu (/10)"
+      placeholder: "9"
+    validations:
+      required: true
+
+  - type: input
+    id: score-retell
+    attributes:
+      label: "Điểm: Khả năng kể lại (/10)"
+      placeholder: "8"
+    validations:
+      required: true
