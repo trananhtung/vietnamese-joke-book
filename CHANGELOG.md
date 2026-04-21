@@ -2,6 +2,14 @@
 
 ## Ngày 7 - 2026-04-21
 
+### 📖 Chương 10: Truyện Cười Trung Đông (Issue #18)
+- Tổng hợp và Việt hóa **20 truyện cười Trung Đông**
+- Chủ đề: Nasruddin (8 truyện cổ điển), Dubai siêu xe, sa mạc, dầu mỏ, falcon, souk, thời tiết 50°C
+- **20/20 truyện đạt** (≥ 30/40), **14 truyện ⭐** (≥ 35/40), **0 loại**
+- Điểm trung bình: 35.3/40
+- Truyện hay nhất: "Nasruddin và chiếc chìa khóa" (38/40) — triết học ngụ ngôn kinh điển
+- Cập nhật `metadata/scoring-log.md`
+
 ### 🔍 Review & Polish Tuần 2 — Châu Á (Issue #17)
 - Review toàn bộ chương 06-09, 14 (5 chương Châu Á)
 - **Loại 1 truyện trùng ý:**

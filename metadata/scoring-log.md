@@ -322,6 +322,40 @@ Mỗi truyện được chấm theo 4 tiêu chí, mỗi tiêu chí tối đa 10 
 
 ---
 
+## Chương 10: Truyện Cười Trung Đông — Ngày 2026-04-21
+
+| # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
+|---|-----------|---------|------------|---------|--------|------|------|
+| 1 | Nasruddin và chiếc chìa khóa | 10 | 9 | 10 | 9 | 38 | ⭐ |
+| 2 | Nasruddin cưỡi lừa ngược | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 3 | Dubai và siêu xe | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 4 | Nasruddin ở nhà hàng | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 5 | Sa mạc và Wi-Fi | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 6 | Nasruddin và người hàng xóm | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 7 | Hoàng tử Ả Rập đi du học | 8 | 8 | 9 | 9 | 34 | ✅ |
+| 8 | Nasruddin đi chợ | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 9 | Dầu mỏ và hạnh phúc | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 10 | Nasruddin và kẻ trộm | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 11 | Lạc đà và siêu xe | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 12 | Chợ ở Trung Đông | 9 | 9 | 9 | 8 | 35 | ⭐ |
+| 13 | Nasruddin làm thẩm phán | 9 | 9 | 9 | 9 | 36 | ⭐ |
+| 14 | Thời tiết vùng Vịnh | 8 | 8 | 9 | 9 | 34 | ✅ |
+| 15 | Nasruddin dạy con lừa đọc sách | 9 | 9 | 10 | 9 | 37 | ⭐ |
+| 16 | Falcon — Chim quý hơn siêu xe | 8 | 8 | 9 | 8 | 33 | ✅ |
+| 17 | Nasruddin và bức tường | 8 | 9 | 9 | 8 | 34 | ✅ |
+| 18 | Ngày Thứ Sáu ở Trung Đông | 9 | 8 | 9 | 9 | 35 | ⭐ |
+| 19 | Nasruddin và vợ nấu ăn | 8 | 9 | 8 | 8 | 33 | ✅ |
+| 20 | Trung Đông — Truyền thống gặp hiện đại | 9 | 9 | 9 | 9 | 36 | ⭐ |
+
+### Thống kê
+- **Tổng truyện đánh giá:** 20
+- **Đạt (≥ 30):** 20 truyện
+- **Hay đặc biệt ⭐ (≥ 35):** 14 truyện
+- **Loại ❌ (< 30):** 0 truyện
+- **Điểm trung bình (truyện đạt):** 35.3/40
+
+---
+
 ## Chương 14: Truyện Cười Đông Nam Á — Ngày 2026-04-21
 
 | # | Tên truyện | Bất ngờ | Phù hợp VN | Dễ hiểu | Kể lại | Tổng | Đạt? |
