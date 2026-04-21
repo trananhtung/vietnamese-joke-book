@@ -1,0 +1,50 @@
+/* Custom CSS for Cười Vỡ Bụng mdBook */
+
+/* Better Vietnamese font rendering */
+:root {
+  --content-max-width: 820px;
+}
+
+body {
+  font-family: 'Noto Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+/* Joke styling - blockquotes */
+blockquote {
+  border-left: 4px solid #f0ad4e;
+  background: #fff9e6;
+  padding: 0.8em 1em;
+  margin: 1em 0;
+  border-radius: 0 8px 8px 0;
+}
+
+.ayu blockquote,
+.coal blockquote,
+.navy blockquote {
+  background: rgba(240, 173, 78, 0.1);
+}
+
+/* Story headers */
+h3 {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #eee;
+}
+
+.ayu h3,
+.coal h3,
+.navy h3 {
+  border-top-color: #333;
+}
+
+/* Horizontal rules between jokes */
+hr {
+  border: none;
+  border-top: 2px dashed #ddd;
+  margin: 2em 0;
+}
+
+/* Stats line at bottom of chapters */
+p:last-of-type strong {
+  color: #d9534f;
+}
